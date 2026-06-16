@@ -1,0 +1,114 @@
+{
+  "site_name": "Just My Cooking",
+  "site_url": "https://justmy.cooking",
+  "site_description": "Just my cooking. No bells or whistles, no life stories, just recipes I use every other week.",
+  "item_name": "Recipe",
+  "item_name_plural": "Recipes",
+  "content_dir": "content",
+  "output_dir": "output",
+  "remove_html_extension": true,
+  "custom_header_html": "",
+  "about_text": "",
+  "items_per_page": 15,
+  "search_result_limits": {
+    "items": 9,
+    "taxonomies": 16
+  },
+  "taxonomies": [
+    {
+      "key": "ingredientKeywords",
+      "label": "Ingredients",
+      "label_singular": "Ingredient",
+      "link_prefix_text": "Items that contain",
+      "link_suffix_text": "as an ingredient",
+      "type": "ingredient",
+      "search_limit": 16
+    },
+    {
+      "key": "recipeCuisine",
+      "label": "Cuisines",
+      "label_singular": "Cuisine",
+      "link_prefix_text": "Items that are",
+      "link_suffix_text": "(roughly) in origin",
+      "type": "standard",
+      "search_limit": 9
+    },
+    {
+      "key": "recipeCategory",
+      "label": "Categories",
+      "label_singular": "Category",
+      "link_prefix_text": "",
+      "link_suffix_text": "items",
+      "type": "standard",
+      "search_limit": 9
+    },
+    {
+      "key": "equipment",
+      "label": "Equipment",
+      "label_singular": "Equipment",
+      "link_prefix_text": "Items that require a",
+      "link_suffix_text": "",
+      "type": "standard",
+      "search_limit": 9
+    },
+    {
+      "key": "diet",
+      "label": "Dietary",
+      "label_singular": "Diet",
+      "link_prefix_text": "Items for a",
+      "link_suffix_text": "diet",
+      "type": "standard",
+      "search_limit": 9
+    }
+  ],
+  "schema": {
+    "type": "Recipe",
+    "context": "https://schema.org/",
+    "diet_mapping": {
+      "Diabetic": "DiabeticDiet",
+      "Gluten Free": "GlutenFreeDiet",
+      "Halal": "HalalDiet",
+      "Hindu": "HinduDiet",
+      "Kosher": "KosherDiet",
+      "Low Calorie": "LowCalorieDiet",
+      "Low Fat": "LowFatDiet",
+      "Low Lactose": "LowLactoseDiet",
+      "Low Salt": "LowSaltDiet",
+      "Vegan": "VeganDiet",
+      "Vegetarian": "VegetarianDiet"
+    }
+  },
+  "style": {
+    "light_bg": "#fffcf7",
+    "light_subtitle": "rgb(56, 56, 56)",
+    "light_border": "rgb(27, 27, 27)",
+    "light_text": "black",
+    "light_background": "#ffffff",
+    "light_item_background": "#ffecdc",
+    "dark_bg": "rgb(14 14 14)",
+    "dark_subtitle": "rgb(210, 210, 210)",
+    "dark_border": "rgb(41 41 41)",
+    "dark_text": "rgb(241, 241, 241)",
+    "dark_background": "#2d101f",
+    "dark_item_background": "#1b1b1b",
+    "font_family": "\"Ubuntu\", serif",
+    "font_weight": "700",
+    "border_radius": "1rem",
+    "border_width": "0.2rem"
+  },
+  "fonts": [
+    {
+      "preconnect": "https://fonts.googleapis.com",
+      "preconnect_crossorigin": "https://fonts.gstatic.com",
+      "css_url": "https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
+    }
+  ],
+  "sitemap_static_dates": {
+    "index": "2025-02-16",
+    "search": "2025-02-20",
+    "about": "2026-01-10",
+    "all_keywords": "2025-02-26",
+    "all_items": "2025-02-26",
+    "collections": "2025-05-31"
+  }
+}
