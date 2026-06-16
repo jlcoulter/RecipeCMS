@@ -1,7 +1,7 @@
 """Reusable tile components - replaces html_recipe_blocks.py."""
 
 from .page_layout import get_footer
-from ..lib.date_helpers import iso8601_to_human_readable
+from lib.date_helpers import iso8601_to_human_readable
 
 
 def render_item_tile(item, config, formatter, description=""):

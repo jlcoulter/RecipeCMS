@@ -3,7 +3,7 @@
 import random
 from .page_layout import get_opener, get_header, get_footer
 from .tiles import render_item_tile, render_keyword_section, render_shared_note_html
-from ..lib.date_helpers import iso8601_to_human_readable
+from lib.date_helpers import iso8601_to_human_readable
 
 
 def generate_item_page(item, config, taxonomy_index, shared_notes, all_items, formatter, schema_gen):

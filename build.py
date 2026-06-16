@@ -74,8 +74,10 @@ def main():
         f.write(css)
 
     # 7. Copy custom.css if present
-    if os.path.exists('custom.css'):
+    has_custom_css = os.path.exists('custom.css')
+    if has_custom_css:
         shutil.copy('custom.css', os.path.join(config.output_dir, 'custom.css'))
+    config.set_runtime_flag('has_custom_css', has_custom_css)
 
     # 8. Generate item pages
     for item in items:

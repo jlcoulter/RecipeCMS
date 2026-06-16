@@ -13,7 +13,7 @@ def get_opener(config, formatter):
                 <link href="{font.get('css_url', '')}" rel="stylesheet">"""
 
     custom_css_link = ""
-    if True:  # Always check for custom.css at build time; include link if it might exist
+    if getattr(config, 'has_custom_css', False):
         custom_css_link = f'\n                <link rel="stylesheet" href="{config.site_url}/custom.css">'
 
     return f"""

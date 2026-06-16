@@ -49,3 +49,7 @@ class SiteConfig:
             if t.get('type') == 'ingredient':
                 return t
         return None
+
+    def set_runtime_flag(self, key, value):
+        """Set a runtime flag (e.g. has_custom_css) that templates can check."""
+        setattr(self, key, value)
