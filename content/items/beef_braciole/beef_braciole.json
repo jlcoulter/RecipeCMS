@@ -1,0 +1,128 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "beef_braciole",
+    "name": "Beef Braciole",
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Beef, Braciole, Italian, Rich, Tomato, Parmesan, Prosciutto, Parsley, Pine Nuts, Dinner, Appetizer, Hearty, Rosemary, Wine, Winter",
+    "image": [
+      "beef_braciole_0.jpg"
+    ],
+    "datePublished": "2025-01-06",
+    "lastMod": "2025-01-06",
+    "description": "Fabulously rich beef roles with crispy prosciutto bits and a cheesy filling that kicks it into overdrive.",
+    "prepTime": "PT15M",
+    "cookTime": "PT2H",
+    "totalTime": "PT2H15M",
+    "recipeYield": "3 servings",
+    "recipeCuisine": [
+      "Italian",
+      "European"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Dinner",
+      "Braise",
+      "Meat Roll"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "700 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "Filling:",
+      "6 thin slices Top Round Beef (Sizzle Steaks work well)",
+      "6 cloves Minced Garlic",
+      "½ cup Finely Chopped Parsley",
+      "½ cup Parmesan Cheese",
+      "1 tbsp Breadcrumbs",
+      "2 tbsp Pine Nuts",
+      "Salt and Pepper to taste",
+      "",
+      "Other:",
+      "12 Prosciutto Slices",
+      "1 tbsp Olive Oil",
+      "1 cup Dry Red Wine",
+      "1 cup Beef Stock",
+      "400 g Diced Tomatoes",
+      "1 tbsp mixed chopped Rosemary, Thyme, Oregano"
+    ],
+    "ingredientKeywords": [
+      "Beef",
+      "Sizzle Steak",
+      "Garlic",
+      "Parsley",
+      "Parmesan",
+      "Cheese",
+      "Breadcrumb",
+      "Pine Nut",
+      "Black Pepper",
+      "Pepper",
+      "Prosciutto",
+      "Olive Oil",
+      "Dry Red Wine",
+      "Red Wine",
+      "Wine",
+      "Beef Stock",
+      "Tomato",
+      "Rosemary",
+      "Thyme",
+      "Fresh Thyme",
+      "Oregano",
+      "Sourdough"
+    ],
+    "equipment": [
+      "Oven",
+      "Oven Tray"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 170C.",
+        "name": "Preheat Oven",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix together the parsley, parmesan, breadcrumbs, pine nuts, and 3 of the garlic cloves.",
+        "name": "Mix fillings",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Lay down the steaks separately. Lay a slice of prosciutto on top of each steak. Sprinkle the parsley parmesan mix on top of the prosciutto, roll the steaks up tightly and put a skewer through to hold them in place.",
+        "name": "Roll",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a dutch oven on a stove top with the oil and brown the beef rolls. Remove the beef rolls and add in the wine, beef stock, herbs, leftover garlic, and tomatoes. Heat to a simmer and scrape the sticky bits off the bottom.",
+        "name": "Brown rolls",
+        "url": 4
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add beef rolls back in, cover, and put into the oven for 1h and 30m.",
+        "name": "Braise",
+        "url": 5
+      },
+      {
+        "@type": "HowToStep",
+        "text": "10 minutes before the rolls come out, crisp up the remaining prosciutto and chop up some extra parsley.",
+        "name": "Prep to serve",
+        "url": 6
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve topped with crispy prosciutto, parsley, some toasted pine nuts, and a side of sourdough to soak up all the delicious juices.",
+        "name": "Serve",
+        "url": 7
+      }
+    ],
+    "notes": [
+      "Would also be good with some fresh chilis cooked in or topped with lemon zest for citrus kick."
+    ]
+  }

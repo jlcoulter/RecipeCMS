@@ -1,0 +1,135 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "chicken_zafrani",
+    "name": "Chicken Zafrani",
+    "image": [
+      "chicken_zafrani_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Chicken Zafrani, Indian cuisine, main course, chicken recipe, saffron chicken, creamy chicken, spiced chicken, yogurt marinated chicken, chicken thigh recipe, ghee recipe, almond butter chicken, cashew butter chicken, turmeric chicken, cumin chicken, coriander chicken, garam masala, easy Indian recipe, authentic Indian recipe, dinner idea, aromatic chicken, slow cooked chicken, Mughlai chicken, party food, rich chicken curry",
+    "datePublished": "2025-04-29",
+    "lastMod": "2025-04-29",
+    "description": "Chicken Zafrani is a rich and aromatic Indian main course featuring tender chicken thighs marinated in a flavorful blend of Greek yoghurt, garlic, ginger, lemon juice, almond and cashew butters, and a medley of traditional spices like turmeric, cumin, coriander, and chili powder. The chicken is then simmered with whole spices like cinnamon, cardamom, and star anise in ghee, and finished with a touch of heavy cream for a luscious, creamy texture. Perfect served over rice.",
+    "prepTime": "PT15M",
+    "cookTime": "PT60M",
+    "totalTime": "PT1H15M",
+    "recipeYield": "4 servings",
+    "recipeCuisine": [
+      "Indian",
+      "Mughlai",
+      "South Asian",
+      "Asian"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Curry",
+      "Dinner"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "550-600 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "Marinade:",
+      "1 tbsp Garlic Paste",
+      "1 tbsp Ginger Paste",
+      "Juice of 1 Lemon",
+      "1/2 tsp salt",
+      "3 Brown Onions, finely diced",
+      "1 tbsp Almond Butter, heaped",
+      "1 tbsp Cashew Butter, heaped",
+      "1/2 tsp Ground Turmeric",
+      "1 tbsp Ground Cumin",
+      "1 tbsp Ground Coriander",
+      "1 tsp Chili Powder",
+      "250g Greek Yoghurt",
+      "",
+      "To Simmer:",
+      "800g Chicken Thighs",
+      "3 tbsp Ghee",
+      "1 Cinnamon Stick",
+      "5 Green Cardamom Pods",
+      "2 Star Anise",
+      "2 tbsp Heavy Cream"
+    ],
+    "ingredientKeywords": [
+      "Garlic",
+      "Garlic Paste",
+      "Ginger",
+      "Ginger Paste",
+      "Lemon",
+      "Lemon Juice",
+      "Brown Onion",
+      "Onion",
+      "Almond",
+      "Almond Butter",
+      "Cashew",
+      "Cashew Butter",
+      "Turmeric",
+      "Ground Turmeric",
+      "Ground Cumin",
+      "Cumin",
+      "Ground Coriander",
+      "Coriander",
+      "Chili",
+      "Chili Powder",
+      "Greek Yoghurt",
+      "Plain Yoghurt",
+      "Yoghurt",
+      "Chicken",
+      "Chicken Thigh",
+      "Ghee",
+      "Cinnamon",
+      "Cinnamon Stick",
+      "Green Cardamom Pod",
+      "Cardamom Pod",
+      "Cardamom",
+      "Star Anise",
+      "Heavy Cream",
+      "Cream"
+    ],
+    "equipment": [
+      "Large Pot"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cut chicken into bite sized pieces and put in a large bowl with the lemon juice, ginger and garlic paste.",
+        "name": "Prep Chicken",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry the onions in about 1 tbsp of ghee for about 10 minutes. Don't let them crisp so fry low. Throw the onion in the blender with the rest of the marinade ingredients except for yoghurt and the already used garlic, ginger, lemon.",
+        "name": "Prep Onion and Blitz",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Let the marinade cool and then mix it with the yoghurt and already marinating chicken. Leave to marinate for at least an hour.",
+        "name": "Marinate",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Melt the rest of the ghee in a large pan and add the whole spices. Let them fry for about a minute to open up their flavors. Add the chicken in and simmer for about 25-30 minutes.",
+        "name": "Cook the chicken",
+        "url": 4
+      },
+      {
+        "@type": "HowToStep",
+        "text": "After simmering, mix the cream through, season with salt to taste and serve over rice.",
+        "name": "Add cream and serve",
+        "url": 5
+      }
+    ],
+    "notes": [
+      "Great with fresh chili and fresh coriander leaves. Can also add additional chili powder or fresh chili into the marinade.",
+      "I love to serve with more yoghurt on the side.",
+      "Works really well cooked down letting the sauce dry up."
+    ]
+  }

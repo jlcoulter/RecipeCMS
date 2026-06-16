@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "spaghetti_bolognese",
+    "name": "Spaghetti Bolognese",
+    "image": [
+      "spaghetti_bolognese_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Spaghetti Bolognese, Italian cuisine, pasta dish, beef mince, tomato sauce, red wine, onion, carrot, celery, garlic, thyme, main course, family meal, comfort food, easy recipe, slow simmer, rich sauce, hearty, traditional, European food, savory",
+    "datePublished": "2025-05-04",
+    "lastMod": "2025-06-18",
+    "description": "A classic and hearty Spaghetti Bolognese recipe featuring slow-simmered beef mince in a rich tomato and red wine sauce with aromatic vegetables and herbs.",
+    "prepTime": "PT10M",
+    "cookTime": "PT2H30M",
+    "totalTime": "PT2H40M",
+    "recipeYield": "5 Servings",
+    "recipeCategory": [
+      "Main Course",
+      "Dinner",
+      "Pasta Dish",
+      "Comfort Food"
+    ],
+    "recipeCuisine": [
+      "Italian",
+      "Western",
+      "European"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "600-800 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "1kg Beef Mince",
+      "2 finely diced Large Brown Onions",
+      "2 grated Carrots",
+      "2 sticks grated Celery",
+      "2 cups Dry Red Wine",
+      "2 tbsp Olive Oil",
+      "2 tsp Beef Stock Powder",
+      "2 tsp Ground Black Pepper",
+      "2 tbsp Thyme Leaves",
+      "800g Tomatoes Diced",
+      "4 cloves Garlic Diced/Minced"
+    ],
+    "ingredientKeywords": [
+      "Beef Mince",
+      "Beef",
+      "Onion",
+      "Brown Onion",
+      "Carrot",
+      "Celery",
+      "Dry Red Wine",
+      "Red Wine",
+      "Wine",
+      "Olive Oil",
+      "Beef Stock Powder",
+      "Black Pepper",
+      "Thyme",
+      "Tomato",
+      "Garlic"
+    ],
+    "equipment": [
+      "Large Pan"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Fry beef over high heat and get a good fond forming on the bottom. Take the beef out and saute onion, celery and carrot in olive oil until softened, about 20-30m. Take it low and slow. Make sure to scrape the fond off through that process.",
+        "name": "Fry Onion and Beef",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add everything and simmer for 1-2h depending on how thick you want the sauce.",
+        "name": "Simmer",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season to taste with salt and pepper. Serve up with spaghetti and parmesan.",
+        "name": "Serve",
+        "url": 3
+      }
+    ],
+    "notes": [
+      "I love to serve it up with fresh chili or mix some dried chili flakes through before simmering to give it a good kick.",
+      "Also great with melty cheese like mozzarella."
+    ]
+  }

@@ -1,0 +1,98 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "chicken_adobo",
+  "name": "Chicken Adobo",
+  "image": [
+    "chicken_adobo_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "2025-12-11",
+  "lastMod": "2025-12-11",
+  "description": "A classic Filipino savory stew featuring chicken legs braised until tender in a tangy and salty marinade of soy sauce, vinegar, garlic, and black peppercorns. The sauce is reduced to a rich, sticky glaze and served over steamed rice.",
+  "prepTime": "PT5M",
+  "cookTime": "PT2H",
+  "totalTime": "PT2H5M",
+  "keywords": "Chicken Adobo, Filipino Adobo, Filipino Cuisine, Braised Chicken, Soy Sauce Chicken, Vinegar Chicken, Chicken Legs, Comfort Food, Asian Stew, One Pot Meal, Savory Glaze, Garlic, Peppercorn, Bay Leaf, Main Course, Dinner Recipe, Traditional Filipino Food, High Protein, Dairy Free, Rice Bowl, Slow Cooked Chicken, Easy Dinner, Sweet and Salty, Stick Adobo",
+  "recipeYield": "4 Servings",
+  "recipeCuisine": [
+      "Filipino",
+      "Southeast Asian",
+      "Asian"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Stew",
+      "Dinner",
+      "Comfort Food"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "550-650 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "1 kg Chicken Legs",
+    "1 large Brown Onion",
+    "8 cloves Garlic",
+    "125 ml Soy Sauce",
+    "2 tsp Dark Soy Sauce",
+    "65 ml Rice Vinegar",
+    "3 tbsp Brown Sugar",
+    "2 tsp whole Black Peppercorns",
+    "5 Bay Leaves",
+    "Spring Onion for garnish",
+    "Rice to serve"
+  ],
+  "ingredientKeywords": [
+    "Chicken Leg",
+    "Chicken",
+    "Brown Onion",
+    "Onion",
+    "Garlic",
+    "Soy Sauce",
+    "Dark Soy Sauce",
+    "Rice Vinegar",
+    "Vinegar",
+    "Brown Sugar",
+    "Sugar",
+    "Black Pepper",
+    "Bay Leaf",
+    "Spring Onion",
+    "Rice"
+  ],
+  "equipment": [
+    "Large Pan"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Sear the chicken in a large pan. Make sure to turn to sear all sides. Remove chicken and set aside.",
+      "name": "Sear chicken",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice onion and garlic roughly and saute until onion starts to go translucent. Add everything into the pan and add enough water to get almost to the top of the chicken.",
+      "name": "Saute onion and braise",
+      "url": 2
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Simmer covered for about 1 and a half hours.  Uncover and bring heat up to high and boil liquid down until it thickens. Turn chicken to ensure and even coating of thickened liquid.",
+      "name": "Simmer",
+      "url": 3
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve over rice topped with diced spring onions.",
+      "name": "Serve",
+      "url": 4
+    }
+  ],
+  "notes": [
+    "You can use other meat like a nice fatty pork cut."
+  ]
+}

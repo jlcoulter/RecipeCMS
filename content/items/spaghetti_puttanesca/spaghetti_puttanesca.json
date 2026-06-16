@@ -1,0 +1,88 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "spaghetti_puttanesca",
+    "name": "Spaghetti Puttanesca",
+    "image": [
+        "spaghetti_puttanesca_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "keywords": "Pasta, Spaghetti, Olives, Capers, Tomato, Anchovies, Chili, Easy, Quick, Cheese, Italian, Spicy, Salty, Tangy, Mediterranean, Seafood Pasta, Date Night, Easy Dinner, Pantry Staple",
+    "datePublished": "2023-03-05",
+    "lastMod": "2025-03-05",
+    "description": "An incredibly easy and quick to make spaghetti that is full of amazing salty goodness.",
+    "prepTime": "PT0M",
+    "cookTime": "PT20M",
+    "totalTime": "PT20M",
+    "recipeYield": "3 Servings",
+    "recipeCategory": [
+      "Main Course",
+      "Dinner",
+      "Pasta Dish",
+      "Quick Meal"
+    ],
+    "recipeCuisine": [
+      "Italian",
+      "Neapolitan",
+      "Mediterranean"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "668 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "4 tbps Olive Oil",
+        "4 Garlic cloves, finely chopped",
+        "1 tbsp Anchovies, finely chopped",
+        "2 Birdseye Chilis, finely chopped",
+        "1/4 cup Capers, drained and chopped",
+        "1/4 cup Kalamata Olives, drained, chopped and pitted",
+        "400g diced Tomatoes",
+        "250g Spaghetti",
+        "Parmesan cheese to serve",
+        "Salt and pepper to taste"
+    ],
+    "ingredientKeywords": [
+        "Olive Oil",
+        "Garlic",
+        "Anchovy",
+        "Birdseye Chili",
+        "Chili",
+        "Caper",
+        "Kalamata Olive",
+        "Tomato",
+        "Spaghetti",
+        "Parmesan",
+        "Black Pepper"
+    ],
+    "equipment": [
+      "Large Pan",
+      "Medium Pot"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat the oil in a large pan and start frying the garlic, anchovies and chili. Fry until garlic starts to brown. Add in the capers and olives, mix everything together and fry for another 30s. Add in the tomatoes and simmer.",
+            "name": "Cook sauce",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "While the sauce simmers cook your spaghetti until almost done, drain and add it to the sauce. Mix everything together, season with salt and pepper to taste, mix through about 1 tbsp of shredded parmesan.",
+            "name": "Cook spaghetti",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Serve topped with extra parmesan and enjoy!",
+            "name": "Serve",
+            "url": 3
+        }
+    ],
+    "notes": [
+        "Great with about 50g of butter added at the step where you add capers.Also great topped with a bit of lemon juice/zest and/or chopped parsley."
+    ]
+}

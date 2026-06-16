@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "cheesy_tartlets",
+    "name": "Cheesy Tartlets",
+    "image": [
+        "cheesy_tartlets_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "datePublished": "2025-01-25",
+    "lastMod": "2025-01-25",
+    "description": "A simple and delicious recipe for cheesy tartlets. Using leftover pie crust or puff pastry, these savory bites are filled with melty cheese like mozzarella or brie and can be customized with a variety of toppings such as chorizo, bacon, or herbs. Perfect as a quick French-inspired appetizer or for cleaning out the fridge.",
+    "prepTime": "PT10M",
+    "cookTime": "PT30M",
+    "totalTime": "PT40M",
+    "keywords": "Cheesy Tartlets, appetizer recipe, French cuisine, easy appetizer, party food, finger food, savory tarts, puff pastry recipe, pie crust recipe, leftover recipe, customizable recipe, baked tarts, mozzarella, brie, chorizo, bacon, quick snack, homemade, simple recipe, savory baking, entertainer, comfort food",
+    "recipeYield": "6 Servings",
+    "recipeCuisine": [
+      "French",
+      "European"
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Snack",
+      "Finger Food",
+      "Party Food"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "300-500 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "Base:",
+        "Leftover Pie Crust Dough or Puff Pastry",
+        "Melty Cheese (like Mozzarella or Brie)",
+        "",
+        "Fillings:",
+        "Whatever you want!",
+        "Chorizo",
+        "Bacon",
+        "Chili Oil",
+        "Capers",
+        "Anchovies",
+        "Sauerkraut",
+        "Garlic",
+        "Sautéd Leeks",
+        "Honey",
+        "Rosemary",
+        "Thyme",
+        "Fresh Thyme"
+    ],
+    "ingredientKeywords": [
+        "Pie Crust",
+        "Puff Pastry",
+        "Cheese",
+        "Mozzarella",
+        "Brie",
+        "Chorizo",
+        "Bacon",
+        "Chili Oil",
+        "Caper",
+        "Anchovy",
+        "Sauerkraut",
+        "Garlic",
+        "Leek",
+        "Honey",
+        "Rosemary",
+        "Thyme"
+    ],
+    "equipment": [
+        "Cupcake Tray",
+        "Oven"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 200C.",
+            "name": "Preheat Oven",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Line tray with pastry and add desired cheese. Tops with your choice of toppings. The above is for guidance but whatever you like, it's very flexible.",
+            "name": "Assemble Tartlets",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for about 30 minutes or until pastry is golden. Serve alone or as part of a larger meal and enjoy!",
+            "name": "Bake and Serve",
+            "url": 3
+        }
+    ],
+    "notes": [
+        "This recipe is super vague by design, it's really great for emptying out bits and pieces from the fridge. The above are some fillings I have done in the past but you could do even more.",
+        "The list of fillings is not all to go in each tart. Instead mix and match as desired."
+    ],
+    "relatedRecipes": [
+        "pie_crust",
+        "puff_pastry"
+    ]
+}

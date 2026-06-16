@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "wontons_and_chili_oil",
+  "name": "Wontons and Chili Oil",
+  "image": [
+    "wontons_and_chili_oil_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "2025-08-07",
+  "lastMod": "2025-08-07",
+  "description": "A quick and flavorful Chinese side dish featuring boiled wontons smothered in a savory and spicy sauce. This simple recipe combines the umami of soy sauce and black vinegar with the heat of chili oil, the nuttiness of sesame and peanuts, and a touch of sweetness, all garnished with fresh spring onion.",
+  "prepTime": "PT10M",
+  "cookTime": "PT5M",
+  "totalTime": "PT15M",
+  "keywords": "wontons in chili oil, Chinese wontons, spicy wontons, Szechuan wontons, easy wonton recipe, quick Chinese side dish, chili oil sauce, black vinegar sauce, homemade chili oil noodles, Asian dumplings, Chinese dumplings, savory side dish, spicy appetizer, boiled wontons, sesame seeds, crushed peanuts, soy sauce, spring onion, simple asian recipe, comfort food",
+  "recipeYield": "2 Servings",
+  "recipeCuisine": [
+      "Chinese",
+      "Szechuan",
+      "Asian"
+    ],
+    "recipeCategory": [
+      "Side Dish",
+      "Appetizer",
+      "Dim Sum"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "500-700 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "16 Wontons",
+    "1 tsp Chili Flakes",
+    "2 tsp Toasted Sesame Seeds",
+    "2 tsp Toasted Crushed Peanuts",
+    "1 tbsp Sesame Oil",
+    "3 tbsp Chinese Black Vinegar",
+    "2 tbsp Soy Sauce",
+    "1 tsp White Sugar",
+    "2 tbsp Crunchy Chili Oil",
+    "1 Chunky Spring Onion"
+  ],
+  "ingredientKeywords": [
+    "Wonton",
+    "Chili",
+    "Chili Flake",
+    "Sesame Seed",
+    "Crushed Peanut",
+    "Peanut",
+    "Sesame Oil",
+    "Chinese Black Vinegar",
+    "Black Vinegar",
+    "Vinegar",
+    "Soy Sauce",
+    "White Sugar",
+    "Sugar",
+    "Crunchy Chili Oil",
+    "Chili Oil",
+    "Spring Onion"
+  ],
+  "equipment": [
+    "Medium Pot",
+    "Serving Plate"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Bring a pot of water to boil. Boil wontons for about 4-5 minutes if fresh, about 6-7 minutes if frozen, or until cooked through.",
+      "name": "Cook wontons",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain wontons. Mix everything else and pour over wontons. Enjoy!",
+      "name": "Serve",
+      "url": 2
+    }
+  ],
+  "notes": [
+    "No notes"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "peruvian_chicken_wings",
+    "name": "Peruvian Chicken Wings",
+    "image": [
+      "peruvian_chicken_wings_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Peruvian Chicken Wings, grilled chicken wings, BBQ chicken wings, Peruvian recipe, South American cuisine, chicken marinade, lime and soy chicken, cumin chicken, party food, appetizer, main course, easy chicken recipe, homemade wings, spicy wings, finger food, game day food, summer BBQ, garlic chicken, chicken recipe, Peruvian spices, baked chicken wings, savory",
+    "datePublished": "2025-06-19",
+    "lastMod": "2025-06-19",
+    "description": "Deliciously savory and tangy Peruvian Chicken Wings. These wings are marinated in a vibrant blend of soy sauce, fresh lime juice, garlic, and classic Peruvian spices like cumin and paprika, then grilled on the BBQ to achieve a perfect char and juicy interior. A perfect main course or appetizer for any occasion.",
+    "prepTime": "PT20M",
+    "cookTime": "PT45M",
+    "totalTime": "PT1H5M",
+    "recipeYield": "2 Servings",
+    "recipeCuisine": [
+      "Peruvian",
+      "South American",
+      "Latin American",
+      "Fusion"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Appetizer",
+      "BBQ",
+      "Finger Food",
+      "Party Food"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "550-650 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "1 kg Chicken Wings",
+      "4 cloves Garlic",
+      "1/3 cup Light Soy Sauce",
+      "2 tbsp Lime Juice",
+      "1 tbsp Olive Oil",
+      "2 tsp Ground Cumin",
+      "1 tsp Paprika",
+      "1/2 tsp Dried Oregano",
+      "1/2 tsp Brown Sugar"
+    ],
+    "ingredientKeywords": [
+      "Chicken Wing",
+      "Chicken",
+      "Garlic",
+      "Soy Sauce",
+      "Light Soy Sauce",
+      "Lime Juice",
+      "Lime",
+      "Olive Oil",
+      "Ground Cumin",
+      "Cumin",
+      "Paprika",
+      "Dried Oregano",
+      "Oregano",
+      "Brown Sugar",
+      "Sugar"
+    ],
+    "equipment": [
+      "Blender",
+      "BBQ",
+      "Large Bowl"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Blend everything except the chicken. In a bowl, mix the sauce mix and the wings and refridgerate for at least 20m.",
+        "name": "Blend",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Grill on the BBQ for about 45m or until cooked through. Throughout brush on the excess sauce. Serve with Aji Verde and enjoy!",
+        "name": "Cook",
+        "url": 2
+      }
+    ],
+    "notes": [
+      "Great with fresh lime over the top and served with Aji Verde."
+    ],
+    "sharedNotes": [
+      "bbq_wings"
+    ],
+    "relatedRecipes": [
+      "aji_verde"
+    ]
+}

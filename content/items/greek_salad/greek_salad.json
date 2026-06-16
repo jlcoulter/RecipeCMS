@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "greek_salad",
+    "name": "Greek Salad",
+    "image": [
+        "greek_salad_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "datePublished": "2024-12-20",
+    "lastMod": "2024-12-20",
+    "description": "A crisp and refreshing traditional Greek Salad packed with ripe tomatoes, crunchy cucumber, crumbly feta cheese, and savory olives. This 5-minute side dish is tossed with fresh basil and red onion for a vibrant Mediterranean flavor profile that pairs perfectly with any main course.",
+    "prepTime": "PT5M",
+    "cookTime": "PT0M",
+    "totalTime": "PT5M",
+    "keywords": "Greek Salad, Greek Cuisine, Mediterranean Diet, Vegetarian Recipe, Low Carb, Keto Friendly, Gluten Free, Healthy Side Dish, Summer Salad, No Cook Recipe, Fresh Salad, Tomato, Cucumber, Feta Cheese, Olives, Red Onion, Fresh Basil, Quick Lunch, Easy Dinner Side, Raw Vegetables, Horiatiki, Salad Recipe, Cold Side Dish",
+    "recipeYield": "4 Servings",
+    "recipeCuisine": [
+      "Greek",
+      "Mediterranean",
+      "European"
+    ],
+    "recipeCategory": [
+      "Side Dish",
+      "Salad",
+      "Appetizer",
+      "Vegetarian",
+      "Lunch"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "105 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "1 large Tomato",
+        "1 large Cucumber",
+        "100g crumbly Feta Cheese",
+        "4 heaped tbsp Olives",
+        "1/2 a Red Onion",
+        "Handful of Fresh Basil"
+    ],
+    "ingredientKeywords": [
+        "Tomato",
+        "Cucumber",
+        "Feta Cheese",
+        "Feta",
+        "Cheese",
+        "Olive",
+        "Red Onion",
+        "Onion",
+        "Fresh Basil",
+        "Basil"
+    ],
+    "equipment": [
+        "Large Bowl"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Dice the tomato and cucumber. Halve the olives. Cut the feta into small chunks. Dice the onion and basil. Mix everything together and enjoy!",
+            "name": "Cut and mix ingredients",
+            "url": 1
+        }
+    ],
+    "notes": [
+        "Also great with a bit of lime juice, black pepper, finely diced carrot and/or avocado."
+    ]
+}

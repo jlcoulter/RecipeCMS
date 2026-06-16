@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "ethiopian_inspired_fried_rice",
+  "name": "Ethiopian Inspired Fried Rice",
+  "image": [
+    "ethiopian_inspired_fried_rice_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "2026-01-12",
+  "lastMod": "2026-01-12",
+  "description": "A spicy, fusion fried rice dish utilizing the heat of Ethiopian Mitmita and the richness of butter, finished with cooling yoghurt and lemon.",
+  "keywords": "Ethiopian, Fried Rice, Fusion, Spicy, Vegetarian, African Cuisine, East African, Mitmita, Spicy Rice, Butter, Caramelized Onions, Comfort Food, Gluten Free, Stir Fry, Easy Dinner, Leftover Rice Recipe, Vegetarian Main Course, Spicy Food, Yoghurt, Coriander, Garlic, Ginger, Lunch Ideas, Weeknight Dinner, Rice Bowl",
+  "prepTime": "PT10M",
+  "cookTime": "PT1H40M",
+  "totalTime": "PT1H50M",
+  "recipeYield": "2 Servings",
+  "recipeCuisine": [
+      "Ethiopian",
+      "African",
+      "Fusion"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Lunch",
+      "Vegetarian",
+      "Rice Bowl"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "450 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "250g day old Rice",
+    "50g Salted Butter",
+    "1 1/2 tsp Mitmita",
+    "1 inch knob Ginger, minced",
+    "4 cloves Garlic, minced",
+    "A large Red Onion, diced",
+    "Half a large Tomato, diced",
+    "1 Green Chili, diced",
+    "1/2 tsp Sugar",
+    "",
+    "To Serve:",
+    "Fresh Coriander",
+    "Lemon Juice",
+    "Greek Yoghurt"
+  ],
+  "ingredientKeywords": [
+    "Rice",
+    "Butter",
+    "Salted Butter",
+    "Mitmita",
+    "Ginger",
+    "Garlic",
+    "Red Onion",
+    "Onion",
+    "Tomato",
+    "Fresh Tomato",
+    "Green Chili",
+    "Chili",
+    "Sugar",
+    "Coriander",
+    "Fresh Coriander",
+    "Lemon",
+    "Greek Yoghurt"
+  ],
+  "equipment": [
+    "Large Pan"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Cook down onions",
+      "url": "1",
+      "text": "Melt the butter in a large pan over a low heat. Add the red onion, and slowly cook down over one and a half hours until a deep brown. Don't let bits crisp up too much or it will get bitter and gross."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Fry rice",
+      "url": "2",
+      "text": "Increase the heat to medium-high and add the minced ginger and garlic and saute for a few minutes. Add the rice, sugar, mitmita and mix thoroughly. Cook for another couple of minutes to fry the rice until slightly toasted."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Add tomato",
+      "url": "3",
+      "text": "Add tomatoes and chilis and mix through. Season to taste."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Serve",
+      "url": "4",
+      "text": "Remove from heat. Serve immediately with yoghurt, a lemon juice, and fresh diced fresh coriander leaves."
+    }
+  ],
+  "notes": [
+    "Mitmita is a very hot Ethiopian spice blend. Adjust the quantity based on your heat tolerance.",
+    "Day-old, cold rice works best for this recipe to prevent it from becoming mushy."
+  ]
+}

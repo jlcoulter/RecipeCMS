@@ -1,0 +1,77 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "onion_relish",
+    "name": "Onion Relish",
+    "image": [
+      "onion_relish_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Onion Relish, Condiment, Chunky, Snack, Onion, Vegetarian, Easy, Appetizer, Ingredient, Brown Sugar, Balsamic Vinegar, Mustard Seeds, Salt, Pepper, Relish, Cheese Board, Bread, Party Food, Quick, Simple, Make Ahead",
+    "datePublished": "2024-11-10",
+    "lastMod": "2024-11-10",
+    "description": "A delightful and chunky relish made with onions, brown sugar, and balsamic vinegar. Perfect for cheese boards and fresh bread.",
+    "prepTime": "PT10M", 
+    "cookTime": "PT30M",
+    "totalTime": "PT40M", 
+    "recipeYield": "10 Servings",
+    "recipeCuisine": [
+      "British",
+      "European"
+    ],
+    "recipeCategory": [
+      "Condiment",
+      "Side",
+      "Preserve",
+      "Dip"
+    ], 
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "50 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "500 g Onions (about 2 large ones)",
+      "3-4 tbsp Brown Sugar",
+      "3-4 tbsp Balsamic Vinegar",
+      "1 tbsp Mustard Seeds",
+      "Salt and Pepper to taste"
+    ],
+    "ingredientKeywords": [
+      "Onion",
+      "Brown Sugar",
+      "Balsamic Vinegar",
+      "Vinegar",
+      "Mustard Seed",
+      "Pepper"
+    ],
+    "equipment": [
+      "Small Pot",
+      "Storage Container"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat a bit of olive oil in a large pot/pan and start softening the onions. Stir and cook for about 15 minutes, allowing the onions to start to break down. Do not let them brown.",
+        "name": "Soften Onions",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Reduce the heat and add the brown sugar, balsamic vinegar, and season with salt and pepper. Cook for another 15 minutes, allowing the onions to caramelize and the mixture to thicken significantly. Stir throughout this process. Adjust the sweetness or acidity by adding more sugar or vinegar to taste.",
+        "name": "Caramelize and Thicken",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the mixture has thickened significantly, allow it to cool. Store in sterilized jars or enjoy immediately!",
+        "name": "Cool and Serve",
+        "url": 3
+      }
+    ],
+    "notes": [
+      "This onion relish is fantastic with cheese boards, fresh bread, or as a topping for grilled meats."
+    ]
+  }

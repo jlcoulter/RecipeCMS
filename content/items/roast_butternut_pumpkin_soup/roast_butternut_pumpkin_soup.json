@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "roast_butternut_pumpkin_soup",
+    "name": "Roast Butternut Pumpkin Soup",
+    "image": [
+      "roast_butternut_pumpkin_soup_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Roast Butternut Pumpkin Soup, Pumpkin Soup, Butternut Squash Soup, Roasted Vegetable Soup, Vegetarian Soup, Autumn Soup, Winter Soup, Creamy Soup, Healthy Soup, Easy Soup, Homemade Soup, Comfort Food, Butternut Squash Recipe, Pumpkin Recipe, Roasted Garlic, Onion, Chicken Stock, Chili Powder, Savory Soup, Blender Soup, Warm Soup, Simple Recipe, Dinner Idea, Lunch Idea",
+    "datePublished": "2025-05-22",
+    "lastMod": "2025-05-22",
+    "description": "A comforting and hearty Roast Butternut Pumpkin Soup, perfect for a cozy meal. This recipe features roasted butternut pumpkin, sweet brown onions, and aromatic garlic, blended until smooth with chicken stock and seasoned with chili powder, salt, and pepper.",
+    "prepTime": "PT5M",
+    "cookTime": "PT1H15M",
+    "totalTime": "PT1H20M",
+    "recipeYield": "6 servings",
+    "recipeCuisine": [
+      "American",
+      "Western",
+      "Modern Australian"
+    ],
+    "recipeCategory": [
+      "Soup",
+      "Starter",
+      "Lunch",
+      "Winter Warmer",
+      "Comfort Food",
+      "Light Dinner"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "200-300 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "2kg Butternut Pumpkin",
+      "2 Large Brown Onions",
+      "10 Garlic Cloves",
+      "3 tsp Chicken Stock Powder",
+      "Olive Oil",
+      "Chili Powder",
+      "Salt & Pepper to taste"
+    ],
+    "ingredientKeywords": [
+      "Butternut Pumpkin",
+      "Pumpkin",
+      "Butternut Squash",
+      "Squash",
+      "Brown Onion",
+      "Onion",
+      "Garlic",
+      "Chicken Stock",
+      "Olive Oil",
+      "Chili Powder",
+      "Black Pepper"
+    ],
+    "equipment": [
+      "Blender",
+      "Oven",
+      "Oven Tray"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cut pumpking and onions into rough chunks. Peel garlic cloves. Throw everything in a tray, tossing in olive oil, bake at 180C for about an hour until you start to get nice roasty bits (maybe up to 2h).",
+        "name": "Roast",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Throw everything in a blender or a pot with a bit of water and blend until smooth. Mix in chicken stock powder. Add salt, pepper and chili powder to taste.",
+        "name": "Blend",
+        "url": 2
+      }
+    ],
+    "notes": [
+      "As seen in the pic, I love serving this with fried chicken bits and fresh bread. The chicken is seasoned with paprika, cumin, salt, pepper, diced onions and minced garlic.",
+      "Great with crispy bacon bits and fresh cream mixed through.",
+      "Freezes really well to be reheated for lunches with different mixers and seasonings."
+    ]
+  }

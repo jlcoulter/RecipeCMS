@@ -1,0 +1,123 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "german_apple_pie",
+    "name": "German Apple Pie",
+    "image": [
+        "german_apple_pie_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "datePublished": "2025-10-10",
+    "lastMod": "2025-10-10",
+    "description": "A classic German Apple Pie featuring tart Granny Smith apples, warm spices like cinnamon and cloves, all baked in a rich heavy cream custard. This delightful dessert is encased in a single pie crust and requires ample cooling time to set perfectly, making it an ideal make-ahead treat.",
+    "prepTime": "PT30M",
+    "cookTime": "PT1H15M",
+    "totalTime": "PT7H",
+    "keywords": "German Apple Pie, apple pie recipe, Granny Smith apple pie, dessert, baking, homemade pie, German cuisine, comfort food, holiday baking, fruit dessert, single crust pie, cinnamon apple pie, heavy cream pie, custard pie, baked apples, traditional recipe, winter dessert, fall dessert, spiced apple pie, easy apple pie, German baking, pie recipe",
+    "recipeYield": "8 Servings",
+    "recipeCuisine": [
+      "German",
+      "European",
+      "Western"
+    ],
+    "recipeCategory": [
+      "Dessert",
+      "Pie",
+      "Baking",
+      "Comfort Food"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "350-450 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "1 prepped Pie Crust",
+        "1 tbsp Lemon Juice",
+        "1.1 kg Granny Smith Apples (About 6)",
+        "1 cup White Sugar",
+        "1/4 cup All Purpose Flour",
+        "2 tsp ground Cinnamon",
+        "1/2 tsp ground Cloves",
+        "1 tsp Salt",
+        "1 cup Heavy Cream",
+        "1 tbsp Vanilla Extract",
+        "2 tbsp White Sugar"
+    ],
+    "ingredientKeywords": [
+        "Pie Crust",
+        "Lemon",
+        "Lemon Juice",
+        "Granny Smith Apple",
+        "Apple",
+        "White Sugar",
+        "Sugar",
+        "All Purpose Flour",
+        "Plain Flour",
+        "Flour",
+        "Cinnamon",
+        "Clove",
+        "Heavy Cream",
+        "Cream",
+        "Salt",
+        "Vanilla",
+        "Vanilla Extract"
+    ],
+    "equipment": [
+        "24cm Pie Dish"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Add the lemon juice to a large bowl. Peel, core and cut eat apple into roughly 16-32 chunks. As you cut each apple add it to the bowl and mix with the lemon juice to ensure they don't brown.",
+            "name": "Cut Apples",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 220C.",
+            "name": "Heat Oven",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix the dry ingredients (excluding 2 tbsp white sugar) together and then mix with the apples.",
+            "name": "Mix Filling",
+            "url": 3
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roll out the pie crust and fit it to the dish. Make sure the crust goes all the way to the top.",
+            "name": "Fit pie crust",
+            "url": 4
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add apple mix to the pie dish, jiggle a bit to settle. Mix cream and vanilla. Pour over the apple mixture. Splinkle 2 tbsp white sugar over the pie.",
+            "name": "Construct Pie",
+            "url": 5
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for 15 minutes. Reduce the temperature to 180C and bake for 55 minutes.",
+            "name": "Bake",
+            "url": 6
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Let cool to room temp and then refridgerate for about 4 hours before serving. Serve with cream or icecream.",
+            "name": "Cool",
+            "url": 7
+        }
+    ],
+    "notes": [
+        "My dish was 24cm diameter and 9cm tall.",
+        "Best to bake the day before because of the time it takes to cool and set. The pie is dense and really does take the time to cool.",
+        "The recipe for the pie crust on this website works, but it makes a bit extra. You could use that extra for topping but generally isn't required for this kind of pie."
+    ],
+    "relatedRecipes": [
+        "pie_crust"
+    ]
+}

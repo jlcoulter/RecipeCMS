@@ -1,0 +1,115 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "teriyaki_chicken",
+    "name": "Teriyaki Chicken",
+    "image": [
+      "teriyaki_chicken_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "datePublished": "2025-03-12",
+    "lastMod": "2025-03-12",
+    "description": "Super quick and easy teriyaki chicken recipe that is packed with salty goodness. Perfect for a quick and delicious dinner.",
+    "keywords": "Teriyaki Chicken, Asian, Japanese, Chicken, Dinner, Easy, Quick, Soy Sauce, Brown Sugar, Sake, Mirin, Sesame Oil, Garlic, Ginger, Broccoli, Rice, Spring Onion, Sesame Seeds, Glaze, Salty, Sweet, Chicken Dish, Poultry, One-pan, Family Friendly, Kid Friendly, Lunch, Healthy, Weeknight Dinner",
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeYield": "4 Servings",
+    "recipeCuisine": [
+      "Japanese",
+      "Asian",
+      "East Asian"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Rice Bowl",
+      "Dinner",
+      "Lunch",
+      "Quick Meal"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "500 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "Sauce Mix:",
+      "1/4 cup Soy Sauce",
+      "3 tbsp Brown Sugar",
+      "3 tbsp Sake",
+      "2 tbsp Mirin",
+      "1 tbsp Sesame Oil",
+      "2 tsp minced Garlic",
+      "1 tsp minced Ginger",
+      "",
+      "Other:",
+      "600g Chicken Breast, cubed",
+      "1 head of Broccoli",
+      "Rice for 4",
+      "1 Spring Onions, sliced",
+      "Sesame Seeds"
+    ],
+    "ingredientKeywords": [
+      "Soy Sauce",
+      "Brown Sugar",
+      "Sake",
+      "Mirin",
+      "Sesame Oil",
+      "Garlic",
+      "Ginger",
+      "Chicken",
+      "Chicken Breast",
+      "Broccoli",
+      "Rice",
+      "White Rice",
+      "Spring Onion",
+      "Sesame Seed"
+    ],
+    "equipment": [
+      "Large Pan"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In a small jug or bowl, combine the sauce ingredients. Set aside.",
+        "name": "Prep sauce",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Start cooking rice according to the package instructions.",
+        "name": "Prep rice",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat cooking oil in a large pan over high heat. Stir fry the chicken, stirring occasionally, until lightly browned.",
+        "name": "Brown chicken",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Start steaming the broccoli.",
+        "name": "Prep broccoli",
+        "url": 4
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Pour in the sauce and allow it to cook down while stirring to ensure it doesn't stick. Cook until the sauce thickens into a beautiful shiny glaze.",
+        "name": "Cook chicken in sauce",
+        "url": 5
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the teriyaki chicken with rice, steamed broccoli, spring onion slices, and sesame seeds.",
+        "name": "Serve",
+        "url": 6
+      }
+    ],
+    "notes": [
+      "I'm addicted to chili, personally think it goes well with a pinch of finely sliced red chilis.",
+      "Th recipe is not super sausy, really glazes the chicken. If you want more sauce, increase sauce ingredients except for the brown sugar and don't cook it all the way down to a glaze."
+    ]
+  }

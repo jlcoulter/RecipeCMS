@@ -1,0 +1,130 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "pan_fried_salmon_and_romesco_sauce",
+    "name": "Pan Fried Salmon with Romesco Sauce",
+    "image": [
+      "pan_fried_salmon_and_romesco_sauce_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Salmon, Easy, Capsicum, Tomato, Nutty, Chili, Creamy, Healthy, Pine Nuts, Roast, Pan Fried, Fish, Seafood, Romesco Sauce, Dinner, Lunch, Quick, Simple, Elegant, Sauce, Red Pepper, Almonds, Garlic, Smoked Paprika, Versatile",
+    "datePublished": "2023-03-18",
+    "lastMod": "2026-01-10",
+    "description": "Easy light salmon meal bursting with flavor with a versatile sauce that can be used many different ways.",
+    "prepTime": "PT15M",
+    "cookTime": "PT1H20M",
+    "totalTime": "PT1H35M",
+    "recipeYield": "4 Servings",
+    "recipeCuisine": [
+      "Spanish",
+      "Mediterranean",
+      "European",
+      "Pescatarian"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Dinner",
+      "Seafood",
+      "Healthy",
+      "Fish"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "450 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "Sauce:",
+      "1 large diced Red Capsicum",
+      "200g diced fresh Tomatoes",
+      "3 whole cloves Garlic",
+      "1/2 tbsp Smoked Paprika",
+      "2 tbsp smooth Almond Butter",
+      "1 tbsp Red Wine Vinegar",
+      "Pinch of Chili/Cayenne for some kick",
+      "",
+      "Other:",
+      "4 Salmon Fillets",
+      "50g Butter",
+      "2 tbsp Pine Nuts",
+      "Handful of Fresh Basil leaves"
+    ],
+    "ingredientKeywords": [
+      "Salmon",
+      "Capsicum",
+      "Red Capsicum",
+      "Tomato",
+      "Garlic",
+      "Smoked Paprika",
+      "Almond Butter",
+      "Red Wine Vinegar",
+      "Vinegar",
+      "Chili",
+      "Cayenne",
+      "Butter",
+      "Pine Nut",
+      "Basil",
+      "Fresh Basil"
+    ],
+    "equipment": [
+      "Blender",
+      "Oven",
+      "Oven Tray",
+      "Non-Stick Pan"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 180C.",
+        "name": "Preheat Oven",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a large baking tray lay down a single layer of the tomatoes, capsicum and garlic. Try to ensure nothing overlaps but a bit is fine. Coat everything nicely with olive oil and toss to ensure even coating all over. Bake for about 40-60 minutes to ensure you get some nice roasty bits.",
+        "name": "Roast Vegetables",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add off the sauce ingredients to a pot. Mix everything together, add about 100-200ml of water to make it easier to mix and then whiz.",
+        "name": "Blend Ingredients",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Whizz with a stick blender and get super smooth. For ultimate smoothness, skin the capsicum and tomatoes before adding to the pot. Season with salt, paprika and extra red wine vinegar to taste as desired. Boil down to desired thickness for pasta sauce.",
+        "name": "Make Sauce",
+        "url": 4
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer back to your baking tray. Bake again for 15-20 mins. This will result in a nice thick roasty sauce.",
+        "name": "Bake Sauce",
+        "url": 5
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a large pan over medium-high heat. Add the butter and the salmon fillets. Fry the salmon skin side down for 4 minutes, season with salt and pepper, then flip and fry for 3-4 minutes more.",
+        "name": "Pan-fry Salmon",
+        "url": 6
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve atop the romesco sauce with roasted pine nuts and basil leaves.",
+        "name": "Serve",
+        "url": 7
+      }
+    ],
+    "notes": [
+        "Great with some grilled carrots or asparagus to mop up the extra sauce."
+    ],
+    "sharedNotes": [
+      "romesco"
+    ],
+    "relatedRecipes": [
+        "romesco_sauce"
+    ]
+  }

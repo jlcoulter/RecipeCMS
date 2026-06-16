@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "italian_salsa_verde",
+  "name": "Italian Salsa Verde",
+  "image": [
+    "italian_salsa_verde_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "keywords": "Italian salsa verde, green sauce, condiment, parsley, basil, mint, capers, gherkins, anchovies, garlic, mustard, red wine vinegar, olive oil, fresh herbs, flavorful, easy recipe, quick, versatile, steak sauce, fish sauce, sandwich spread",
+  "datePublished": "2025-04-16",
+  "lastMod": "2025-04-16",
+  "description": "A vibrant and incredibly flavorful Italian Salsa Verde, easily made with fresh herbs, capers, gherkins, and anchovies, perfect as a versatile condiment.",
+  "prepTime": "PT5M",
+  "cookTime": "PT5M",
+  "totalTime": "PT10M",
+  "recipeYield": "Yields approximately 1 cup",
+  "recipeCuisine": [
+      "Italian",
+      "Mediterranean",
+      "European"
+    ],
+    "recipeCategory": [
+      "Sauce",
+      "Condiment",
+      "Dressing",
+      "Dip"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "80-120 calories per tablespoon (estimated)"
+  },
+  "recipeIngredient": [
+    "2 Garlic Cloves",
+    "2 handfuls of Fresh Parsley",
+    "1 handful of Fresh Basil",
+    "1 handful of Fresh Mint",
+    "1 small handful of Capers",
+    "1 small handful of Gherkins",
+    "6 Anchovy Fillets",
+    "1 tbsp Dijon Mustard",
+    "3 tbsp Red Wine Vinegar",
+    "8 tbsp extra virgin Olive Oil"
+  ],
+  "ingredientKeywords": [
+    "Garlic",
+    "Fresh Parsley",
+    "Parsley",
+    "Fresh Basil",
+    "Basil",
+    "Fresh Mint",
+    "Mint",
+    "Caper",
+    "Gherkin",
+    "Anchovy",
+    "Dijon Mustard",
+    "Mustard",
+    "Red Wine Vinegar",
+    "Vinegar",
+    "Olive Oil"
+  ],
+  "equipment": [
+    "Blender",
+    "Storage Container"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Put all the ingredients into a blender and blitz until the sauce reaches a chunky yet saucy consistency. Enjoy immediately!",
+      "name": "Blitz",
+      "url": 1
+    }
+  ],
+  "notes": [
+    "This salsa verde can be stored fresh in the refrigerator or frozen in ice cube trays for later use.",
+    "It pairs wonderfully with grilled steak, salmon, and is also delicious on sandwiches or anywhere you desire a burst of fresh flavor!"
+  ]
+}

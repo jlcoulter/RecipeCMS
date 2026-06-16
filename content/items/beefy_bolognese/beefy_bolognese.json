@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "beefy_bolognese",
+    "name": "Beefy Bolognese",
+    "image": [
+        "beefy_bolognese_0.jpg"
+    ], 
+    "author": {
+      "@type": "Person",
+      "name": "F"  
+    },
+    "keywords": "Bolognese, Beef, Hearty, Italian, Main Course, Onion, Olive Oil, Curry Powder, Paprika, Beef Stock Powder, Black Pepper, Thyme, Vegemite, Tomatoes, Garlic, Peas, Pasta, Cheese, Chilli, Soy Sauce",
+    "datePublished": "2025-03-07", 
+    "lastMod": "2025-04-21",  
+    "description": "Strong beefy bolognese recipe. Not at all authentic, but something I like to make.",
+    "prepTime": "PT15M", 
+    "cookTime": "PT45M",
+    "totalTime": "PT1H",
+    "recipeYield": "4 Servings",
+    "recipeCuisine": [
+      "Italian",
+      "Australian",
+      "Western"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Pasta Sauce",
+      "Comfort Food",
+      "Dinner"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "Approximately 500 calories per serving" 
+    },
+    "recipeIngredient": [
+      "1 kilo Beef Mince",
+      "2 Large Brown Onions Diced",
+      "2 tbsp Olive Oil",
+      "1 tsp Curry Powder",
+      "2 tsp Paprika",
+      "2 tsp Beef Stock Powder",
+      "2 tsp Ground Black Pepper",
+      "2 tbsp Thyme Leaves",
+      "2 tsp Vegemite Heaped",
+      "400 grams Tomatoes Diced",
+      "¼ cup Water",
+      "2 cloves Garlic Diced/Minced"
+    ],
+    "ingredientKeywords": [
+      "Beef Mince",
+      "Beef",
+      "Onion",
+      "Brown Onion",
+      "Olive Oil",
+      "Curry Powder",
+      "Paprika",
+      "Beef Stock Powder",
+      "Black Pepper",
+      "Thyme",
+      "Vegemite",
+      "Tomato",
+      "Tinned Tomato",
+      "Garlic",
+      "Fresh Thyme"
+    ],
+    "equipment": [
+      "Large Pan"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Fry onion in olive oil until softened. Add beef and fry on a high heat, constantly mixing until cooked through.",
+        "name": "Fry Onion and Beef",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add everything other than the tomatoes and water and cook for about 2 minutes while stirring everything together.",
+        "name": "Add Spices and Vegemite",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the tomatoes and water and cook for about 30-40 minutes or until you reach the desired consistency. Make sure you mix it every now and then.",
+        "name": "Simmer with Tomatoes",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once it is the desired consistency it is ready to serve!",
+        "name": "Serve",
+        "url": 4
+      }
+    ],
+    "notes": [
+      "Serve with peas or pasta adding a bit of your preferred cheese on top to finish it off! When I make this for myself I like to add some chilli to spice things up a little bit and I mix the cheese through the pasta before adding the beef on top.",
+      "Also if you do not have access to any vegemite a splash of soy sauce will make up for it."
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "pork_wontons",
+    "name": "Pork Wontons",
+    "image": [
+        "pork_wontons_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "datePublished": "2025-08-06",
+    "lastMod": "2025-08-06",
+    "description": "A classic Chinese recipe for homemade pork wontons. These dumplings feature a savory and aromatic filling of ground pork, fresh ginger, garlic, and spring onions, seasoned with Shaoxing wine and sesame oil, all encased in delicate wonton wrappers. They are versatile and perfect for boiling, frying, or adding to soups.",
+    "prepTime": "PT20M",
+    "cookTime": "PT0M",
+    "totalTime": "PT20M",
+    "keywords": "Pork Wontons, Chinese dumplings, homemade wontons, wonton recipe, pork filling, Chinese cuisine, Asian food, appetizer, side dish, wonton soup, fried wontons, boiled wontons, dim sum, ground pork, ginger, garlic, Shaoxing wine, sesame oil, wonton wrappers, easy wonton recipe, authentic wontons, scallion",
+    "recipeYield": "6 Servings",
+    "recipeCuisine": [
+      "Chinese",
+      "Cantonese",
+      "Asian",
+      "East Asian"
+    ],
+    "recipeCategory": [
+      "Side Dish",
+      "Appetizer",
+      "Dim Sum",
+      "Soup Component",
+      "Finger Food",
+      "Starter"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "400-500 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "500g Pork Mince",
+        "1 tsp Salt",
+        "1 tsp Sugar",
+        "1 tsp White Pepper",
+        "1 chunky Spring Onion",
+        "4 cloves Garlic",
+        "1 inch knob Ginger",
+        "2 tsp Shaoxing Wine",
+        "2 tsp Sesame Oil",
+        "1 Egg",
+        "40-60 Wonton Wrappers"
+    ],
+    "ingredientKeywords": [
+        "Pork Mince",
+        "Pork",
+        "Sugar",
+        "White Sugar",
+        "White Pepper",
+        "Pepper",
+        "Spring Onion",
+        "Onion",
+        "Garlic",
+        "Ginger",
+        "Chinese Cooking Wine",
+        "Wine",
+        "Shaoxing Wine",
+        "Shaoxing Cooking Wine",
+        "Sesame Oil",
+        "Egg",
+        "Wonton Wrapper",
+        "Wonton"
+    ],
+    "equipment": [
+        "Medium Bowl"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Mince the spring onion, garlic and ginger. Mix everything together thoroughly. If you want to check for seasoning, fry a little bit to taste and then adjust your seasonings accordingly.",
+            "name": "Mix filling",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "To wrap, spoon about a tablespoon (maybe a little less) into the middle, dab water on 2 edges, fold over into a triangle and squeeze together making sure to exclude as much air as possible. Fold the opposite corners together and press together.",
+            "name": "Wrap",
+            "url": 2
+        }
+    ],
+    "notes": [
+        "These wontons are super flexible and can be used in soups, deep fried or had boiled with chili sauce. You can use them immediately or freeze until required.",
+        "The timing for this assumes you're making this with other people. Otherwise it will take a bit longer. I find it takes me about 1 hour to prep the mixture and make about 40 wontons by myself.",
+        "Makes 40-60 wontons depending on how much filling you use."
+    ],
+    "relatedRecipes": [
+        "wonton_soup",
+        "hotpot",
+        "wontons_and_chili_oil"
+    ]
+}

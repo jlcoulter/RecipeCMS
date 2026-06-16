@@ -1,0 +1,83 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "cinnamon_twists",
+  "name": "Cinnamon Twists",
+  "image": [
+      "cinnamon_twists_0.jpg"
+  ],
+  "author": {
+      "@type": "Person",
+      "name": "F"
+  },
+  "keywords": "Cinnamon Twists, Puff Pastry Recipe, Easy Dessert, Quick Dessert, French Dessert, Baked Goods, Pastry Recipe, Cinnamon Sugar, Brown Sugar Recipe, Butter Pastry, Flaky Pastry, Homemade Cinnamon Twists, Simple Baking, Sweet Treat, Coffee Snack, Tea Time Treat, Kid-Friendly Baking, Leftover Puff Pastry Idea, Twisted Pastry, Cinnamon Bake, Easy Baking, 15 Minute Bake, Simple Sweet Snack",
+  "datePublished": "2025-04-23",
+  "lastMod": "2025-04-23",
+  "description": "Simple and delicious Cinnamon Twists made with flaky puff pastry, butter, brown sugar, and cinnamon. A quick and easy dessert or sweet treat, perfect for using leftover puff pastry.",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "recipeYield": "12 twists",
+  "recipeCuisine": [
+      "American",
+      "French",
+      "European",
+      "Western"
+    ],
+    "recipeCategory": [
+      "Dessert",
+      "Pastry",
+      "Snack",
+      "Breakfast",
+      "Baked Goods"
+    ],
+  "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "100-140 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+      "1 sheet Puff Pastry",
+      "2 tbsp Salted Butter",
+      "1/4 cup Brown Sugar",
+      "2 tsp Ground Cinnamon"
+  ],
+  "ingredientKeywords": [
+      "Puff Pastry",
+      "Unsalted Butter",
+      "Salted Butter",
+      "Brown Sugar",
+      "Sugar",
+      "Ground Cinnamon",
+      "Cinnamon"
+  ],
+  "equipment": [
+      "Oven",
+      "Oven Tray"
+  ],
+  "recipeInstructions": [
+      {
+          "@type": "HowToStep",
+          "text": "Melt the butter, let it cool a bit but not re-solidify. Preheat the oven to 180C. Cut the pastry into 12 even strips. Don't seperate them yet.",
+          "name": "Prep",
+          "url": 1
+      },
+      {
+          "@type": "HowToStep",
+          "text": "Coat the pastry with butter and then evenly sprinkle the cinnamon and brown sugar over. Twist them up so the brown sugar/cinnamon is in the middle. Lay onto a baking tray and bake for about 15m or until puffed up.",
+          "name": "Cook",
+          "url": 2
+      },
+      {
+          "@type": "HowToStep",
+          "text": "Let them cool down and sprinkle with some extra sugar. Serve them up and enjoy!",
+          "name": "Serve",
+          "url": 3
+      }
+  ],
+  "notes": [
+      "Great way to use leftover puff pastry and incredibly easy!"
+  ],
+    "relatedRecipes": [
+        "puff_pastry"
+    ]
+}

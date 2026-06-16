@@ -1,0 +1,83 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "honey_mustard_chicken",
+    "name": "Honey Mustard Chicken",
+    "image": [
+      "honey_mustard_chicken_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Honey Mustard Chicken, quick chicken recipe, easy weeknight dinner, Mediterranean cuisine, pan-fried chicken, healthy main course, spicy chicken, garlic chicken, chicken breast recipe, 15-minute meal, Honey, Dijon Mustard, Mustard, Oregano, Chicken Stock, Smoked Paprika, Paprika, Red Wine Vinegar, Olive Oil, Birdseye Chili, Garlic, Chicken, Chicken Breast",
+    "datePublished": "2025-07-01",
+    "lastMod": "2025-07-01",
+    "description": "A quick and flavorful Honey Mustard Chicken featuring tender chicken breast in a tangy and sweet sauce with a spicy kick. Combining honey, Dijon mustard, garlic, and birdseye chili, this simple dish is pan-fried to perfection and ready in just 15 minutes, making it an ideal main course for a busy weeknight.",
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeYield": "2 Servings",
+    "recipeCuisine": [
+      "Mediterranean",
+      "Western",
+      "European"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Dinner",
+      "Lunch",
+      "Quick Meal"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "400-450 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "1 tsp Honey",
+      "1 tsp Dijon Mustard",
+      "1/2 tsp dried Oregano",
+      "1/2 tsp Chicken Stock Powder",
+      "1/2 tsp Smoked Paprika",
+      "2 tsp Red Wine Vinegar",
+      "2 tsp Olive Oil",
+      "1 Birdseye Chili",
+      "3 Garlic cloves",
+      "400g Chicken Breast"
+    ],
+    "ingredientKeywords": [
+      "Honey",
+      "Dijon Mustard",
+      "Mustard",
+      "Oregano",
+      "Chicken Stock Powder",
+      "Chicken Stock",
+      "Smoked Paprika",
+      "Paprika",
+      "Red Wine Vinegar",
+      "Vinegar",
+      "Olive Oil",
+      "Birdseye Chili",
+      "Garlic",
+      "Chicken",
+      "Chicken Breast"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mince garlic, chili and mix everything together in a bowl. Season with salt and pepper aggressively.",
+        "name": "Prep chicken",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry chicken mix over a high heat until cooked through. Serve!",
+        "name": "Fry chicken",
+        "url": 2
+      }
+    ],
+    "notes": [
+      "The measurements are... loose. When I make it I probably make it with a heaped teaspoon of mustard and vinegar.",
+      "I love to serve this with a greek salad or with rice. It also really works well with grilled chicken thighs on a sandwich."
+    ]
+  }

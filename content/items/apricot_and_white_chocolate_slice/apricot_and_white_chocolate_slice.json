@@ -1,0 +1,107 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "apricot_and_white_chocolate_slice",
+  "name": "Apricot and White Chocolate Slice",
+  "image": [
+    "apricot_and_white_chocolate_slice_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "2025-02-15",
+  "lastMod": "2025-02-15",
+  "description": "Tasty little treat great for lunchboxes or afternoon snacks. Dense, moist and scrumptious. One of my favorite dessert snacks.",
+  "keywords": "apricot slice, white chocolate slice, apricot and white chocolate slice, baked slice, lunchbox treat, afternoon snack, sweet treat, dessert, baking, easy recipe, quick recipe, apricot dessert, chocolate dessert, fruit slice, oat slice, chewy slice, homemade slice, kids snack, party food, slice recipe",
+  "prepTime": "PT0M",
+  "cookTime": "PT50M",
+  "totalTime": "PT50M",
+  "recipeYield": "12 slices",
+  "recipeCuisine": [
+      "Australian",
+      "British",
+      "Western"
+    ],
+    "recipeCategory": [
+      "Snack",
+      "Dessert",
+      "Baking",
+      "Sweet Treat"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "250 calories per slice (estimated)"
+  },
+  "recipeIngredient": [
+    "¾ cup Dried Apricots Cut Into Small Pieces",
+    "½ cup Water",
+    "150 g Butter Cubed",
+    "¾ cup Brown Sugar",
+    "1¼ cup Plain Flour",
+    "1½ tsp Baking Powder",
+    "1 cup Rolled Oats",
+    "1 cup White Chocolate Bits"
+  ],
+  "ingredientKeywords": [
+    "Dried Apricot",
+    "Apricot",
+    "Butter",
+    "Brown Sugar",
+    "Sugar",
+    "Flour",
+    "Baking Powder",
+    "Oat",
+    "Rolled Oat",
+    "White Chocolate",
+    "Chocolate",
+    "Plain Flour",
+    "All Purpose Flour"
+  ],
+  "equipment": [
+    "27x18x3cm Baking Tray",
+    "Baking Paper",
+    "Oven"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Preheat Oven",
+      "url": 1,
+      "text": "Preheat oven to 180°C."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Simmer Apricots",
+      "url": 2,
+      "text": "Put the apricots and water in a pot and simmer until almost all the water is gone."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Cool mix",
+      "url": 3,
+      "text": "Add the butter and stir until melted. Add the brown sugar and mix thoroughly. Take off the stove and leave until cold."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Mix Wet and Dry",
+      "url": 4,
+      "text": "Sift the flour and baking powder together into a bowl. Add the cooled apricot mix and mix thoroughly with the white chocolate bits."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Cook",
+      "url": 5,
+      "text": "Grease a roughly 27x18x3cm baking tray with butter or line with baking paper. Press the mix into the tray and bake for 30 minutes or until golden brown."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Cool and Cut",
+      "url": 6,
+      "text": "Cool for 10 minutes before removing from the tray. Cool completely before cutting into slices."
+    }
+  ],
+  "notes": [
+    "I use a baking tray thats 27x18x3cm."
+  ]
+}

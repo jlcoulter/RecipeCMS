@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "spring_onion_noodles",
+  "name": "Spring Onion Noodles",
+  "image": [
+    "spring_onion_noodles_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "2026-01-18",
+  "lastMod": "2026-01-18",
+  "description": "A savory and aromatic Chinese-inspired noodle dish featuring crispy fried spring onions (scallions) and ground pork. The noodles are tossed in a rich, reduced sauce made from soy sauce, Shaoxing wine, chicken broth, garlic, and ginger.",
+  "keywords": "Spring Onion Noodles, Scallion Oil Noodles, Chinese Pork Noodles, Ground Pork Recipes, Minced Pork, Asian Noodle Dish, Stir Fry Noodles, Easy Dinner Ideas, 30 Minute Meal, Main Course, Dairy Free, Garlic, Ginger, Soy Sauce Glaze, Fried Scallions, Comfort Food, Savory Noodles, Homemade Takeout, Dried Noodles, Shaoxing Wine, Umami, Lunch Recipes, Pork Mince, Scallion Pork",
+  "prepTime": "PT5M",
+  "cookTime": "PT30M",
+  "totalTime": "PT35M",
+  "recipeYield": "2 Servings",
+  "recipeCuisine": [
+      "Chinese",
+      "Asian",
+      "East Asian"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Noodle Dish",
+      "Quick Meal",
+      "Lunch",
+      "Dinner"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "900-1000 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "160g dried Noodles",
+    "3 tbsp Vegetable Oil (or any neutral oil)",
+    "6 large Spring Onions",
+    "3 cloves Garlic",
+    "1cm of Ginger",
+    "300g Pork Mince",
+    "1 tbsp Soy Sauce",
+    "1 tbsp Dark Soy Sauce",
+    "1 tbsp Shaoxing Cooking Wine",
+    "2 tsp Sugar",
+    "1 cup Chicken Broth"
+  ],
+  "ingredientKeywords": [
+    "Noodle",
+    "Vegetable Oil",
+    "Spring Onion",
+    "Garlic",
+    "Ginger",
+    "Pork Mince",
+    "Pork",
+    "Soy Sauce",
+    "Dark Soy Sauce",
+    "Chinese Cooking Wine",
+    "Wine",
+    "Shaoxing Wine",
+    "Shaoxing Cooking Wine",
+    "Sugar",
+    "Chicken Broth"
+  ],
+  "equipment": [
+    "Medium Pan",
+    "Small Pot"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Prep spring onions",
+      "url": "1",
+      "text": "Cut your spring onions into 2 parts, white and green. Julienne both parts but keep them seperate. In the oil in your frying pan over medium heat, fry down the whites until just starting to crisp. Don't cook them too far or they'll become bitter. Then remove and cook the greens the same and remove."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Cook pork",
+      "url": "2",
+      "text": "Thinly slice your garlic and mince your ginger. In the same pan as had the spring onions, add in the pork, garlic and ginger. Fry until the pork starts to brown."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Cook down broth",
+      "url": "3",
+      "text": "Add the soy sauces, cooking wine, sugar and broth. Cook down until there is pretty much no sauce left. Just before this, cook your noodles until ready."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Toss and serve",
+      "url": "4",
+      "text": "Add everything together in the pan and mix thoroughly. Serve and enjoy!"
+    }
+  ],
+  "notes": [
+    "Great served with fresh spring onions, chili and toasted sesame seeds."
+  ],
+  "relatedRecipes": [
+    "crunchy_chili_oil"
+  ]
+}

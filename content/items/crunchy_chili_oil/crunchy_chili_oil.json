@@ -1,0 +1,144 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "crunchy_chili_oil",
+    "name": "Crunchy Chili Oil",
+    "image": [
+      "crunchy_chili_oil_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "datePublished": "2025-02-23",
+    "lastMod": "2025-04-27",
+    "description": "Crispy, crunchy, rich chili oil that adds fantastic flavor to noodles, dumplings, and many other dishes. Seriously versatile and a must have condiment in the fridge.",
+    "keywords": "Crunchy Chili Oil, Asian, Condiment, Oil, Scallions, Garlic, Ginger, Orange peel, Cayenne peppers, Sichuan peppercorns, Star anise, Cinnamon stick, Bay leaf, Cardamom, Chili flakes, Sugar, MSG, Salt, Sesame oil, Light soy sauce, Gochujang, Doubanjang, Fried shallots, Fried garlic chips, Roasted peanuts, Toasted sesame seeds",
+    "prepTime": "PT10M",
+    "cookTime": "PT2H",
+    "totalTime": "PT2H10M",
+    "recipeYield": "2 Cups",
+    "recipeCuisine": [
+      "Chinese",
+      "Sichuan",
+      "Asian"
+    ],
+    "recipeCategory": [
+      "Condiment",
+      "Sauce",
+      "Dip",
+      "Pantry Staple"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "200 calories per tablespoon (estimated)"
+    },
+    "recipeIngredient": [
+      "Initial Fry:",
+      "300 ml Neutral Oil (Vege, Peanut, Canola)",
+      "¼ cup Fried Shallots - ~100g or 5 Shallots",
+      "⅓ cup Fried Garlic Chips - ~40g or 6 Garlic Cloves",
+      "",
+      "Flavor Infusion:",
+      "3 Spring Onions",
+      "4 Garlic Cloves",
+      "3 inch knob Ginger, sliced",
+      "2 slivers of Orange Peel",
+      "2 Cayenne Peppers",
+      "1 tbsp Whole Sichuan Peppercorns",
+      "4 whole Star Anise",
+      "1 Cinnamon Stick",
+      "2 Bay Leaves",
+      "1 Brown Cardamom Pod, halved",
+      "",
+      "Oil Pour",
+      "½ cup Chili Flakes of choice",
+      "1 tbsp White Sugar",
+      "½ tsp MSG",
+      "1 tbsp Salt",
+      "2 tbsp Sesame Oil",
+      "1 tsp Light Soy Sauce",
+      "1 tbsp Gochujang OR Doubanjang",
+      "¼ heaping cup chopped Roasted Peanuts",
+      "2 tbsp toasted Sesame Seeds"
+    ],
+    "ingredientKeywords": [
+      "Spring Onion",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Orange",
+      "Orange Peel",
+      "Cayenne",
+      "Cayenne Pepper",
+      "Sichuan",
+      "Sichuan Pepper",
+      "Star Anise",
+      "Cinnamon",
+      "Cinnamon Stick",
+      "Bay Leaf",
+      "Brown Cardamom Pod",
+      "Cardamom Pod",
+      "Cardamom",
+      "Chili Flake",
+      "White Sugar",
+      "MSG",
+      "Salt",
+      "Sesame Oil",
+      "Light Soy Sauce",
+      "Soy Sauce",
+      "Gochujang",
+      "Fried Shallot",
+      "Garlic Chip",
+      "Roasted Peanut",
+      "Peanut",
+      "Sesame Seed"
+    ],
+    "equipment": [
+      "Large Pan",
+      "Jars"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Slice the shallots and garlic (ones for frying) very thinly. Heat oil in a wide shallow pot or pan and fry the shallots until golden brown. Strain the oil and place the shallots on a paper towel-lined plate. Repeat the same process with the garlic.",
+        "name": "Fry Shallots and Garlic",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place the aromatics (scallions, garlic, ginger, orange peel, cayenne peppers, Sichuan peppercorns, star anise, cinnamon stick, bay leaf, cardamom) into the oil in the pot or pan. Infuse the oil with the flavors over low heat for about 1 hour, maintaining a steady temperature of 110-120°C.",
+        "name": "Infuse Oil with Aromatics",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a separate heat-safe bowl, combine chili flakes, white sugar, MSG, peanuts, sesame seeds, soy sauce, gochujang and salt.",
+        "name": "Combine Dry Ingredients",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Increase the heat of the oil to 120-150°C. Pour the hot oil over the chili flake mixture, stirring to mix everything thoroughly.",
+        "name": "Pour Hot Oil over Chili Flakes",
+        "url": 4
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in sesame oil, fried shallots and fried garlic chips.",
+        "name": "Add Remaining Ingredients",
+        "url": 5
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the mixture has cooled sufficiently, taste for seasoning (add more salt if required), transfer it to a sterile jar and store in the fridge. Use the crunchy chili oil as a flavorful condiment on various dishes.",
+        "name": "Cool and Store",
+        "url": 6
+      }
+    ],
+    "notes": [
+      "It goes well with noodles, dumplings, fried eggs, burgers, pasta, curry, breads and many other dishes. Feel free to customize the flavors by adding or removing ingredients to suit your taste, there is so much flavor a little here or a less there is alright.",
+      "Keeps in the fridge for a few weeks. If it starts to bubble or taste off then don't consume.",
+      "To avoid faffing about in the first step and getting crispy garlic and shallot bits, you can just get some from an asian grocer. So much easier and far less likely to burn things."
+    ]
+  }

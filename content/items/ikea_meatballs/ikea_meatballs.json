@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "ikea_meatballs",
+    "name": "IKEA Meatballs",
+    "image": [
+      "ikea_meatballs_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "IKEA Meatballs, Swedish Meatballs, Button Mushrooms, Brown Onion, Red Capsicum, Red Wine Sauce, Chicken Stock, Garlic Butter, Thyme, Main Course, Swedish Cuisine, Fried Meatballs, Simmered Sauce, One Pan Meal, Easy Recipe, Comfort Food, Dinner Idea, Homemade, Meatball Recipe, Mushroom Sauce, Savory, Rich Sauce, Served with Rice",
+    "datePublished": "2025-05-01",
+    "lastMod": "2025-05-01",
+    "description": "A flavorful take on IKEA meatballs, pan-fried and then simmered in a rich red wine and chicken stock sauce featuring button mushrooms, onions, red capsicum, garlic, and thyme.",
+    "prepTime": "PT10M",
+    "cookTime": "PT1H",
+    "totalTime": "PT1H10M",
+    "recipeYield": "5 servings",
+    "recipeCuisine": [
+      "Swedish",
+      "Scandinavian",
+      "European"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Dinner",
+      "Comfort Food",
+      "Meat Dish"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "600-750 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "1kg IKEA Meatballs",
+      "500g Button Mushrooms",
+      "1 large Brown Onion",
+      "1 large Red Capsicum",
+      "1 cup Dry Red Wine",
+      "1 cup Chicken Stock",
+      "2 tsp minced Garlic",
+      "100g Salted Butter",
+      "2 sprigs of Thyme"
+    ],
+    "ingredientKeywords": [
+      "Meatball",
+      "Button Mushroom",
+      "Mushroom",
+      "Brown Onion",
+      "Onion",
+      "Red Capsicum",
+      "Capsicum",
+      "Dry Red Wine",
+      "Red Wine",
+      "Wine",
+      "Chicken Stock",
+      "Garlic",
+      "Salted Butter",
+      "Butter",
+      "Thyme",
+      "Fresh Thyme"
+    ],
+    "equipment": [
+      "Large Pan"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In your biggest pan start by frying the meatballs in the butter until cooked through and browned. Don't fry over too high of a heat or you'll burn the butter.",
+        "name": "Fry meatballs",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the meatballs fry, finely dice your onion and cut the mushrooms and capsicum into small chunks. Once the meatballs are fried, add the onion in and cook for about 5-10 minutes until softened.",
+        "name": "Fry Onions",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once onions are softened, add the mushrooms and capsicums and cooked until the mushrooms are shrunk significantly. Add the rest of the ingredients and simmer until the sauce is rich and thick. About 40 minutes.",
+        "name": "Simmer",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season to taste with salt and pepper. Serve over rice with freshly diced chilis.",
+        "name": "Serve",
+        "url": 4
+      }
+    ],
+    "notes": [
+      "My favorite way to use IKEA meatballs. Not really traditional but it packs huge flavor. Also really good with mashed potato or if you're into it great with pasta too."
+    ]
+}

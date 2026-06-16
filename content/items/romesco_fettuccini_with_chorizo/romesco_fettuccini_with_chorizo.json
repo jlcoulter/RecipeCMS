@@ -1,0 +1,124 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "romesco_fettuccini_with_chorizo",
+    "name": "Romesco Fettuccini with Chorizo",
+    "image": [
+        "romesco_fettuccini_with_chorizo_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "keywords": "Romesco, Fettuccini, Pasta, Chorizo, Chili, Capsicum, Creamy, Crispy, Nutty, Tomato",
+    "datePublished": "2025-02-28",
+    "lastMod": "2026-01-10",
+    "description": "Creamy pasta with a spicy nutty flavor and crispy chorizo bits mixed through for bursts of delightful flavor and texture.",
+    "prepTime": "PT10M",
+    "cookTime": "PT1H10M",
+    "totalTime": "PT1H20M",
+    "recipeYield": "5 people",
+    "recipeCategory": [
+      "Main Course",
+      "Dinner",
+      "Pasta Dish"
+    ],
+    "recipeCuisine": [
+      "Italian",
+      "Spanish",
+      "Mediterranean",
+      "Fusion"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1400 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "Romeso Sauce:",
+        "2 large diced Red Capsicums",
+        "400g tin Tomato or just diced fresh Tomatoes",
+        "5 cloves Garlic",
+        "1 tbsp Smoked Paprika",
+        "3-4 tbsp smooth Almond Butter",
+        "1 tbsp Red Wine Vinegar",
+        "Smidge of Chili/Cayenne for some kick",
+        "Olive Oil",
+        "",
+        "Other:",
+        "500g Fettuccini",
+        "600g Chorizo",
+        "Handful of Fresh Basil"
+    ],
+    "ingredientKeywords": [
+        "Red Capsicum",
+        "Capsicum",
+        "Tomato",
+        "Garlic",
+        "Smoked Paprika",
+        "Paprika",
+        "Almond Butter",
+        "Red Wine Vinegar",
+        "Vinegar",
+        "Chili",
+        "Cayenne",
+        "Cayenne Powder",
+        "Olive Oil",
+        "Fettuccini",
+        "Chorizo",
+        "Basil",
+        "Fresh Basil"
+    ],
+    "equipment": [
+        "Blender",
+        "Non-Stick Pan",
+        "Medium Pot"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 180C. In a large baking tray lay down a single layer of the tomatoes, capsicum, and garlic. Coat everything nicely with olive oil and toss to ensure even coating all over. Bake for about 40-60 minutes to ensure you get some nice roasty bits.",
+            "name": "Prep and Bake",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add all of the romesco ingredients to a pot. Mix everything together, add about 100-200ml of water to make it easier to mix and then whiz with a stick blender.",
+            "name": "Mix in pot",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whizz with a stick blender until it gets super smooth. For ultimate smoothness, skin the capsicum and tomatoes before adding to the pot. Season with salt and pepper as desired.",
+            "name": "Blend",
+            "url": 3
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cut your chorizo into small bits and start to crisp them up.",
+            "name": "Fry Chorizo",
+            "url": 4
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Boil the pasta to your desired doneness, strain, and then mix with your sauce and chorizo bits. You'll probably have leftover sauce at this stage unless you like extra saucy pasta. You can keep this for later use in the fridge or freezer.",
+            "name": "Prep Pasta",
+            "url": 5
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Chop up the basil leaves and serve over the top!",
+            "name": "Plate up",
+            "url": 6
+        }
+    ],
+    "notes": [
+        "Adding extra chili for a bit of a kick goes well as well as crispy bacon bits for even more flavor.",
+        "Great with roasted pine nuts over the top."
+    ],
+    "sharedNotes": [
+      "romesco"
+    ],
+    "relatedRecipes": [
+        "romesco_sauce"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "pie_crust",
+    "name": "Pie Crust",
+    "image": [
+        "pie_crust_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "datePublished": "2024-12-30",
+    "lastMod": "2024-12-30",
+    "description": "A versatile and flaky homemade pie crust, perfect for both sweet and savory pies. This all-butter recipe is simple to prepare and results in a rich, tender base for any filling.",
+    "prepTime": "PT1H",
+    "cookTime": "PT0M",
+    "totalTime": "PT1H",
+    "keywords": "pie crust, homemade pie crust, all-butter pie crust, flaky pie crust, pastry, pie dough, baking, dessert recipe, savory pie, sweet pie, American cuisine, baking from scratch, shortcrust pastry, quiche crust, tart crust, easy recipe, flour, butter, egg, chilled dough, versatile crust",
+    "recipeYield": "1 26cm Double Pie Crust",
+    "recipeCuisine": [
+      "American",
+      "Western",
+      "French"
+    ],
+    "recipeCategory": [
+      "Ingredient",
+      "Pastry",
+      "Baking",
+      "Base"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "300-310 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "2 cups All Purpose Flour",
+        "1 tbsp Sugar",
+        "200g Salted Butter",
+        "2 tsp Vinegar",
+        "1 Egg",
+        "3 tbsp Iced Water"
+    ],
+    "ingredientKeywords": [
+        "All Purpose Flour",
+        "Plain Flour",
+        "Flour",
+        "Sugar",
+        "Salted Butter",
+        "Butter",
+        "Vinegar",
+        "Egg",
+        "Pie Crust"
+    ],
+    "equipment": [
+        "Cling Wrap",
+        "Large Bowl"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Whisk together the flour and sugar.",
+            "name": "Mix dry ingredients",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Rub the butter into the flour mix until it resembled breadcrumbs.",
+            "name": "Add butter",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Thoroughly mix remaining ingredients together and then add it to the flour mixture. Work the mix together lightly with your hands until it resembles a dough. Do not knead. It will be sticky. If its a bit wet, add a bit more flour. If its a bit dry, add a bit more water.",
+            "name": "Form dough",
+            "url": 3
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cling film and refridgerate for at least an hour before use.",
+            "name": "Refridgerate",
+            "url": 4
+        }
+    ],
+    "notes": [
+        "Makes 1 large crust including the top or 1 base with a bit extra.",
+        "Make sure the ingredients are well chilled, you do not want the butter melting while working the mix."
+    ],
+    "relatedRecipes": [
+        "cheesy_tartlets",
+        "german_apple_pie"
+    ]
+}

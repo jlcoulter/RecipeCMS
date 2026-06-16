@@ -1,0 +1,118 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "udon_stirfry",
+    "name": "Udon Stirfry",
+    "image": [
+      "udon_stirfry_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Udon Stirfry, Noodles, Beef, Chicken, Pork, Prawns, Sesame, Chili, Asian, Japanese, Easy, Quick, Stir Fry, Udon Noodles, Noodle Dish, One-Pan, Dinner, Lunch, Healthy, Spicy, Savory, Weeknight Dinner, Family Friendly, Customizable",
+    "datePublished": "2025-03-16",
+    "lastMod": "2025-03-16",
+    "description": "Delicious meaty noodles that are super quick and easy to make. Incredibly versatile and can be modified to your liking.",
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "recipeYield": "1 Person",
+    "recipeCuisine": [
+      "Japanese",
+      "Asian"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Stir Fry",
+      "Noodle Dish"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "600 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "Sauce:",
+      "1 tbsp Soy Sauce",
+      "1 tbsp Mirin",
+      "1 tbsp Rice Wine Vinegar",
+      "1 tbsp Sake",
+      "1 tbsp Honey",
+      "1 tbsp Sesame Oil",
+      "1 tsp minced Garlic",
+      "1 tsp minced Ginger",
+      "1 tsp MSG",
+      "",
+      "Other:",
+      "90g uncooked Udon Noodles",
+      "150g-200g diced protein of choice. (Lean Beef, Chicken Breast, Crispy Pork Belly or Prawns work)",
+      "1 baby Bok Choy or Pak Choy",
+      "1 small Chili",
+      "Diced Spring Onion to season",
+      "Sesame Seeds to season"
+    ],
+    "ingredientKeywords": [
+      "Soy Sauce",
+      "Mirin",
+      "Rice Wine Vinegar",
+      "Vinegar",
+      "Sake",
+      "Honey",
+      "Sesame Oil",
+      "Garlic",
+      "Ginger",
+      "MSG",
+      "Udon Noodle",
+      "Noodle",
+      "Beef",
+      "Lean Beef",
+      "Chicken",
+      "Chicken Breast",
+      "Prawn",
+      "Bok Choy",
+      "Pak Choy",
+      "Chili",
+      "Spring Onion",
+      "Sesame Oil",
+      "Pork",
+      "Pork Belly"
+    ],
+    "equipment": [
+      "Large Pan"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Bring a pot of water to boil. Add udon noodles and cook them until not quite done.",
+        "name": "Boil noodles",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While noodles cook, add all sauce ingredients to a pan on high heat and start to boil down.",
+        "name": "Prep sauce",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the protein of choice to the sauce and start to fry in the sauce. Once noodles are almost cooked, take out of water and add directly to the pan.",
+        "name": "Fry Protein",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the protein is almost cooked to your liking, cut the bok choy in chunks, dice the chili and add it to the stir fry. Toss to heat through.",
+        "name": "Add bok choy",
+        "url": 4
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve topped with spring onions and sesame seeds.",
+        "name": "Serve",
+        "url": 5
+      }
+    ],
+    "notes": [
+      "I love it with beef, but chicken or prawns also work really well. Already cooked and tender pork belly is the best!"
+    ]
+  }

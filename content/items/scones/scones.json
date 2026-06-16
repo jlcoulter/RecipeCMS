@@ -1,0 +1,104 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "folder": "scones",
+    "name": "Scones",
+    "image": [
+        "scones_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "datePublished": "2025-03-02",
+    "lastMod": "2025-03-02",
+    "description": "Scrumptious savory snack great to have on a lazy Sunday afternoon.",
+    "prepTime": "PT15M",
+    "cookTime": "PT20M",
+    "totalTime": "PT35M",
+    "recipeYield": "12 scones",
+    "keywords": "Scones, Baking, SnackCreamy, Jam, Savory, Dense, Dessert, Afternoon Tea, Quick Baking, Homemade, Easy Recipe, Lazy Sunday, Teatime, British, Traditional, Pastry, Buttery, Simple, Flaky, Butter Biscuits, Classic Recipe",
+    "recipeCategory": [
+      "Afternoon Tea",
+      "Bakery",
+      "Breakfast",
+      "Dessert",
+      "Snack"
+    ],
+    "recipeCuisine": [
+      "British",
+      "English",
+      "Australian"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "182 calories per scone (estimated)"
+    },
+    "recipeIngredient": [
+        "3 cups Self-Raising Flour",
+        "100g Butter, cut into little cubes",
+        "1 cup Milk"
+    ],
+    "ingredientKeywords": [
+        "Flour",
+        "Self-Raising Flour",
+        "Butter",
+        "Milk",
+        "Full Cream Milk"
+    ],
+    "equipment": [
+      "Oven",
+      "Oven Tray"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat your oven to 200°C. Prep 2 trays with baking paper.",
+            "name": "Prep oven",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a large bowl mush the butter into the flower by hand until it starts to resemble breadcrumbs.",
+            "name": "Mush butter",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour the milk into the butter/flour mix until a dough forms.",
+            "name": "Mix in milk",
+            "url": 3
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Knead dough a few times but don't over mix, adding more milk or flour if it's too dry or wet.",
+            "name": "Knead",
+            "url": 4
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Roll dough out to about 1-2cm thick. Using a cookie cutter, cut discs out of the dough and put them onto the trays. You should be able to produce roughly 12 scones with some leftover dough which is still fine to cook.",
+            "name": "Roll out and cut dough",
+            "url": 5
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake for roughly 20-25 minutes or until browning on the outside.",
+            "name": "Bake",
+            "url": 6
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Serve warm with cream and jam.",
+            "name": "Serve",
+            "url": 7
+        }
+    ],
+    "notes": [
+        "Very important not to over mix to get the right texture.",
+        "Important to cut out the scones so that you get the right look, otherwise if you try and shape the dough you end up with little blobs."
+    ],
+    "relatedRecipes": [
+        "whipped_cream"
+    ]
+}

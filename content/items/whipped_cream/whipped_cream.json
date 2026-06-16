@@ -1,0 +1,66 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "whipped_cream",
+    "name": "Vanilla Whipped Cream",
+    "image": [
+        "whipped_cream_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "datePublished": "2025-10-12",
+    "lastMod": "2025-10-12",
+    "description": "A simple and quick recipe for classic, lightly sweetened vanilla whipped cream. With just three ingredients, this versatile topping is perfect for desserts, fresh fruit, pies, or hot beverages. It can be whipped by hand or with an electric beater in minutes.",
+    "prepTime": "PT5M",
+    "cookTime": "PT0M",
+    "totalTime": "PT5M",
+    "keywords": "whipped cream, heavy cream, icing sugar, vanilla extract, dessert topping, homemade, easy recipe, quick recipe, sweet cream, crème chantilly, baking, no-bake, gluten-free, vegetarian, dessert, cake topping, pie topping, fruit topping, hot chocolate topping, whisking, homemade whipped cream, simple dessert",
+    "recipeYield": "4 Servings",
+    "recipeCuisine": [
+      "French",
+      "Western"
+    ],
+    "recipeCategory": [
+      "Dessert Component",
+      "Topping",
+      "Ingredient"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "275 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "250ml Heavy Cream",
+        "2 tbsp Icing Sugar",
+        "1/2 tsp Vanilla Extract"
+    ],
+    "ingredientKeywords": [
+        "Heavy Cream",
+        "Cream",
+        "Icing Sugar",
+        "Sugar",
+        "Vanilla Extract",
+        "Vanilla Essence",
+        "Vanilla"
+    ],
+    "equipment": [
+        "Medium Bowl",
+        "Whisk"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Whisk vigorously until peaks start to form and they can hold. Easiest to use an electric beater but can do by hand.",
+            "name": "Whisk",
+            "url": 1
+        }
+    ],
+    "notes": [
+        "Super simple. Can make it a little in advance and refridgerate."
+    ],
+    "relatedRecipes": [
+        "scones"
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "blue_cheese_gnocchi",
+    "name": "Blue Cheese Gnocchi",
+    "image": [
+        "blue_cheese_gnocchi_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "datePublished": "2024-12-14",
+    "lastMod": "2024-12-14",
+    "description": "This decadent and creamy blue cheese gnocchi recipe is a quick and easy weeknight dinner packed with flavor. Diced bacon, mushrooms, and spring onions are simmered in a rich cream and white wine sauce, then tossed with pillowy gnocchi and crumbly blue cheese.",
+    "prepTime": "PT0M",
+    "cookTime": "PT20M",
+    "totalTime": "PT20M",
+    "keywords": "blue cheese gnocchi, creamy gnocchi, bacon gnocchi, mushroom gnocchi, Italian dinner, comfort food, weeknight meal, easy recipe",
+    "recipeYield": "4 servings",
+    "recipeCuisine": [
+      "Italian",
+      "European",
+      "Western"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Pasta",
+      "Dinner",
+      "Comfort Food"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "800-1000 calories"
+    },
+    "recipeIngredient": [
+        "250 grams Streaky Bacon or diced Pancetta",
+        "300 grams Mushrooms Diced",
+        "50 grams Butter",
+        "2 cloves Garlic Minced",
+        "100 grams Spring Onion Diced",
+        "3 tsp Thyme leaves",
+        "100 ml Dry White Wine",
+        "300 ml Cream",
+        "200 ml Vegetable Stock",
+        "750 grams Gnocchi",
+        "200 grams Blue Cheese"
+    ],
+    "ingredientKeywords": [
+        "Streaky Bacon",
+        "Bacon",
+        "Pancetta",
+        "Mushroom",
+        "Butter",
+        "Garlic",
+        "Spring Onion",
+        "Thyme",
+        "Fresh Thyme",
+        "Dry White Wine",
+        "Cream",
+        "Vegetable Stock",
+        "Gnocchi",
+        "Blue Cheese",
+        "White Wine",
+        "Wine",
+        "Cheese"
+    ],
+    "equipment": [
+      "Large Pan"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "name": "Prep Bacon",
+            "text": "Cut bacon into little strips and then fry until crispy. Put aside to add back in later.",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "name": "Fry Mushrooms",
+            "text": "Fry mushrooms in the butter and bacon juices for about 2 minutes.",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "name": "Wine Time",
+            "text": "Add the garlic, spring onions, thyme and wine. Continue frying for about 4 minutes.",
+            "url": 3
+        },
+        {
+            "@type": "HowToStep",
+            "name": "Sauce it up",
+            "text": "Add the cream, stock and gnocchi and bring to light boil. Mix in the blue cheese and cook until the gnocchi is ready and the sauce reaches your desired consistency. Mix bacon back in.",
+            "url": 4
+        },
+        {
+            "@type": "HowToStep",
+            "name": "Serving",
+            "text": "Serve with extra spring onions and or parmesan. Enjoy!",
+            "url": 5
+        }
+    ],
+    "notes": [
+        "If the flavour is too strong or you want to thicken it a bit just add some more cream.",
+        "For a vegetarian option, simply omit the bacon.",
+        "Feel free to adjust the amount of blue cheese based on your desired level of pungency"
+    ]
+}

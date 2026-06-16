@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "pulled_beef_ragu",
+    "name": "Pulled Beef Ragu",
+    "image": [
+      "pulled_beef_ragu_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "datePublished": "2025-07-13",
+    "lastMod": "2025-07-13",
+    "description": "A rich and hearty Pulled Beef Ragu, slow-cooked to perfection. Tender beef brisket is simmered in a savory sauce of tomatoes, red wine, onions, carrots, and celery, making it the perfect comforting main course to serve with your favorite pasta.",
+    "prepTime": "PT10M",
+    "cookTime": "PT4H",
+    "totalTime": "PT4H10M",
+    "keywords": "Pulled Beef Ragu, Beef Brisket Ragu, Slow-cooked Beef, Italian Ragu, Pasta Sauce, Red Wine Sauce, Comfort Food, Hearty Dinner, Main Course, Beef and Tomato Sauce, Simmered Beef, Braised Brisket, Celery, Carrots, Onions, Garlic, Thyme, Beef Stock, Weekend Meal, Family Dinner, Make-ahead Meal, Freezer-friendly",
+    "recipeYield": "10 servings",
+    "recipeCuisine": [
+      "Italian",
+      "European",
+      "Western"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Pasta Sauce",
+      "Comfort Food",
+      "Slow Cooker",
+      "Winter Meal",
+      "Stew"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "550-650 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "2kg Beef Brisket",
+      "Olive Oil",
+      "5 cloves Garlic",
+      "2 Onions",
+      "1 Carrot (1 cup)",
+      "2 Celery Stalks (1 cup)",
+      "800g diced Tomatoes",
+      "3 tsp Beef Stock Powder",
+      "1 cup Red Wine",
+      "2 tsp Thyme Leaves"
+    ],
+    "ingredientKeywords": [
+      "Beef",
+      "Beef Brisket",
+      "Brisket",
+      "Olive Oil",
+      "Garlic",
+      "Onion",
+      "Carrot",
+      "Celery",
+      "Tomato",
+      "Beef Stock Powder",
+      "Beef Stock",
+      "Red Wine",
+      "Wine",
+      "Thyme"
+    ],
+    "equipment": [
+      "Large Pot"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cut the brisket into a couple good sized chunks, cut off any excessively large chunks of fat (a bit here and there is fine), and aggressively sear. Set beef aside.",
+        "name": "Sear beef",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Over a medium low heat and in the same pot, slowly sweat out the onion, carrot and celery. Stir every now and then for about 10m, you don't want any browning.",
+        "name": "Sweat veg",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Simmer everything together for about 2h with the lid on and another 2 with the lid off. Throughout ensure the meat is submerged and top up if getting a bit too dry.",
+        "name": "Simmer",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Season to taste with salt and pepper. Serve with pasta of your choosing, parmesan, parsley and I like to add chili flakes or fresh chili too.",
+        "name": "Serve",
+        "url": 4
+      }
+    ],
+    "notes": [
+      "Season at the end since the sauce will reduce. You don't want to add too much salt at the beginning only for it to be too salty when it's reduced at the end.",
+      "I like to cook mine with fresh birdseye chilis for a little kick and some great extra flavour.",
+      "If the sauce is a little too runny, you can add a tsp or few of flour to thicken. Do it 1 at a time and cook for 10m between before deciding to add another."
+    ]
+  }

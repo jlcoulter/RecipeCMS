@@ -1,0 +1,115 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "chinese_bolognese",
+    "name": "Chinese Bolognese (Zha Jiang Mian)",
+    "image": [
+      "chinese_bolognese_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Chinese noodles, Zha Jiang Mian, minced pork, savory sauce, chili bean sauce, sweet bean sauce, dark soy sauce, black vinegar, garlic, ginger, brown onion, cucumber, coriander, stir-fry, quick meal, easy recipe, Asian cuisine, umami, flavorful, family-friendly",
+    "datePublished": "2025-04-28",
+    "lastMod": "2025-04-28",
+    "description": "A flavorful and quick Chinese Bolognese, also known as Zha Jiang Mian, featuring a rich minced pork sauce served over noodles with fresh cucumber and coriander.",
+    "prepTime": "PT10M",
+    "cookTime": "PT15M",
+    "totalTime": "PT25M",
+    "recipeYield": "4 Servings",
+    "recipeCuisine": [
+      "Chinese",
+      "East Asian",
+      "Asian"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Noodle Dish",
+      "Dinner",
+      "Lunch"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "450-600 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "Sauce:",
+      "1/3 cup Chicken Stock, or equivalent stock powder",
+      "1 tbsp Chili Bean Sauce",
+      "1 tbsp Sweet Bean Sauce",
+      "1 tbsp Dark Soy Sauce",
+      "2 tsp Chinese Black Vinegar",
+      "1 tsp Sugar",
+      "",
+      "Stir Fry:",
+      "2 Cloves Garlic",
+      "2 tsp Minced Ginger",
+      "1/2 Brown Onion",
+      "400g Minced Pork",
+      "",
+      "To Serve:",
+      "2 Cucumbers, julienned",
+      "Crunchy Chili Oil",
+      "Fresh Coriander",
+      "800g of your favourite Noodles"
+    ],
+    "ingredientKeywords": [
+      "Chicken Stock",
+      "Chili Bean Sauce",
+      "Sweet Bean Sauce",
+      "Dark Soy Sauce",
+      "Soy Sauce",
+      "Chinese Black Vinegar",
+      "Black Vinegar",
+      "Vinegar",
+      "Sugar",
+      "Garlic",
+      "Ginger",
+      "Brown Onion",
+      "Onion",
+      "Minced Pork",
+      "Pork",
+      "Cucumber",
+      "Chili Oil",
+      "Fresh Coriander",
+      "Coriander",
+      "Noodle"
+    ],
+    "equipment": [
+      "Medium Pan",
+      "Medium Pot"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mix the sauce ingredients together and prep the noodles. While the noodles cook you can start stir frying. If they cook quicker than the stir fry, when draining them use a little extra oil and vinegar to stop them from sticking.",
+        "name": "Prep sauce and noodles",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Heat a bit of oil in the least sticky pan or wok you own over high heat. Cook the onion for about a minute, then add the garlic and ginger and stir fry for another minute, ish.",
+        "name": "Start frying",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the pork, break it up and cook until browned all over. Add the sauce and stir fry for about 5-10 minutes, you want the sauce to almost be completely reduced, however it still works great saucy. If using powdered stock, it will dry up much faster.",
+        "name": "Add pork",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Either mix noodles through the pork mix in the pan or serve noodles into the bowls with the pork mix on top. Serve with the cucumber slices, coriander leaves and chili oil over the top.",
+        "name": "Serve",
+        "url": 4
+      }
+    ],
+    "notes": [
+      "Goes amazingly well with a super hot chili oil/paste but can use a milder one too like the one on this site. The recommended one is Xianglawang.",
+      "Can also serve with spring onions and/or sesame seeds depending on ones mood.",
+      "For the bean sauces I like the Fu Chi sweet sauce and Fu Chi chili bean sauce but you can use whatever brand.",
+      "Originally from RecipeTinEats"
+    ]
+  }

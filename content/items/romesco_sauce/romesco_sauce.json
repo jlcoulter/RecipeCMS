@@ -1,0 +1,105 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "romesco_sauce",
+    "name": "Romesco Sauce",
+    "image": [
+      "romesco_sauce_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Romesco Sauce, Sauce, Italian, Easy, Capsicum, Nutty, Tomato, Spicy, Almond Butter",
+    "datePublished": "2025-02-27",
+    "lastMod": "2026-01-10",
+    "description": "Incredibly versatile delightfully nutty sauce with a bit of a kick.",
+    "prepTime": "PT10M",
+    "cookTime": "PT1H",
+    "totalTime": "PT1H10M",
+    "recipeYield": "10 servings",
+    "recipeCategory": [
+      "Sauce",
+      "Condiment",
+      "Dip",
+      "Spread"
+    ],
+    "recipeCuisine": [
+      "Spanish",
+      "Catalan",
+      "Mediterranean"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "200 calories per serving (estimate)"
+    },
+    "recipeIngredient": [
+        "2 large diced Red Capsicums",
+        "400g tin Tomato or just diced fresh Tomatoes",
+        "5 cloves Garlic",
+        "1 tbsp Smoked Paprika",
+        "3-4 tbsp smooth Almond Butter",
+        "1 tbsp Red Wine Vinegar",
+        "Smidge of Chili/Cayenne for some kick",
+        "Olive Oil"
+    ],
+    "ingredientKeywords": [
+        "Red Capsicum",
+        "Capsicum",
+        "Roasted Capsicum",
+        "Tomato",
+        "Garlic",
+        "Smoked Paprika",
+        "Paprika",
+        "Almond Butter",
+        "Red Wine Vinegar",
+        "Vinegar",
+        "Chili",
+        "Cayenne",
+        "Cayenne Powder",
+        "Olive Oil"
+    ],
+    "equipment": [
+        "Blender",
+        "Oven",
+        "Oven Tray"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 180C. In a large baking tray lay down a single layer of the tomatoes, capsicum, and garlic. Coat everything nicely with olive oil and toss to ensure even coating all over. Bake for about 40-60 minutes to ensure you get some nice roasty bits.",
+            "name": "Prep and Bake",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add everything to a pot. Mix everything together, add about 100-200ml of water to make it easier to mix and then whiz with a stick blender.",
+            "name": "Mix in pot",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whizz with a stick blender until it gets super smooth. For ultimate smoothness, skin the capsicum and tomatoes before adding to the pot. Season with salt and pepper as desired.",
+            "name": "Blend",
+            "url": 3
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Transfer back to your baking tray. Bake again for 15-20 mins. This will result in a nice thick roasty sauce.",
+            "name": "Roast",
+            "url": 4
+        }
+    ],
+    "notes": [
+        "I like to have it with roast pork/pork belly or some sourdough bread. Also great with crispy chorizo bits and pasta but I would recommend skipping the last step to keep it more saucy to make it easier to coat the pasta, or you can just add back some water.", 
+        "Can add fresh chili to the roasting tray for a nice kick and extra flavor.",
+        "Easy to make in bulk and then store in the freezer for later use."
+    ],
+    "sharedNotes": [
+      "romesco"
+    ],
+    "relatedRecipes": [
+        "romesco_fettuccini_with_chorizo",
+        "pan_fried_salmon_and_romesco_sauce"
+    ]
+}

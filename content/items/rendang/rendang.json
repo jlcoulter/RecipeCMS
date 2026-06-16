@@ -1,0 +1,114 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "rendang",
+    "name": "Soupy Rendang",
+    "image": [
+      "rendang_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "datePublished": "2025-02-14",
+    "lastMod": "2025-02-14",
+    "description": "My families version of rendang. Beefy and creamy, perfect for a cold night in. Not at all authentic but delicious nonetheless",
+    "prepTime": "PT10M",
+    "cookTime": "PT5H",
+    "totalTime": "PT5H10M",
+    "keywords": "Rendang, Indonesian Cuisine, Beef Stew, Coconut Milk, Spices, Slow Cooker, Beef, Chuck, Lemongrass, Ginger, Garlic, Chili, Comfort Food",
+    "recipeYield": "5 servings",
+    "recipeCuisine": [
+      "Indonesian",
+      "Malaysian",
+      "Southeast Asian",
+      "Asian"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Stew",
+      "Curry",
+      "Comfort Food",
+      "Slow Cook",
+      "Winter Meal"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "Approximately 650 calories per serving (estimate)"
+    },
+    "recipeIngredient": [
+      "4 tbsp Peanut Oil",
+      "6 tsp Ground Coriander",
+      "3 tsp Ground Cumin",
+      "3 tsp Turmeric",
+      "2 tbsp Minced Lemongrass",
+      "2 tsp Minced Ginger",
+      "7 cloves Minced Garlic",
+      "3 Large Onions",
+      "1 kg Beef Chuck",
+      "2 tsp Chili Flakes",
+      "1 ½ cups Desiccated Coconut",
+      "800 ml Coconut Milk",
+      "4 tsp Beef Stock Powder"
+    ],
+    "ingredientKeywords": [
+      "Peanut Oil",
+      "Ground Coriander",
+      "Coriander",
+      "Ground Cumin",
+      "Cumin",
+      "Turmeric",
+      "Lemongrass",
+      "Ginger",
+      "Garlic",
+      "Onion",
+      "Chuck Steak",
+      "Beef",
+      "Chuck Beef",
+      "Chili Flake",
+      "Chili",
+      "Coconut",
+      "Desiccated Coconut",
+      "Coconut Milk",
+      "Beef Stock"
+    ],
+    "equipment": [
+      "Large Pot"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "name": "Prep Onions",
+        "text": "Roughly dice onions. Heat oil in the large pot and soften onions. Add the coriander, cumin, turmeric, lemongrass, ginger and garlic and fry for about 1-2 minutes.",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Brown Beef",
+        "text": "Add beef and fry in the spice mix until sealed/browned.",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Bring To Simmer",
+        "text": "Dissolve beef stock in 1 ½ cups of water. Add beef stock, coconut milk and desiccated coconut to the mix and bring to a slow boil.",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Simmer",
+        "text": "Simmer for about 4-5 hours. Over this time ensure the mix doesn't dry out.",
+        "url": 4
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Serving",
+        "text": "Once the meat is tender and the sauce reaches the desired consistency, season to taste with salt and then it is ready!",
+        "url": 5
+      }
+    ],
+    "notes": [
+      "Not true to authentic rendang but this is how my family has made it for years.",
+      "Great with lime leaves as well. If adding, add them in before you simmer for 5h."
+    ]
+  }

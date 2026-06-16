@@ -1,0 +1,109 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "oktoberfest_strudle",
+    "name": "Oktoberfest Strudle",
+    "image": [
+        "oktoberfest_strudle_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "datePublished": "2025-10-03",
+    "lastMod": "2025-10-03",
+    "description": "A rich and savory German-inspired pastry perfect for an Oktoberfest celebration. This strudel features a delicious filling of cooked bratwurst, tangy sauerkraut, onion, and melted cheese, all wrapped in a flaky puff pastry crust and seasoned with Dijon mustard and caraway seeds.",
+    "prepTime": "PT10M",
+    "cookTime": "PT40M",
+    "totalTime": "PT1H",
+    "keywords": "Oktoberfest Strudel, German recipe, savory pastry, bratwurst recipe, sauerkraut, puff pastry, main course, dinner, comfort food, hearty, German cuisine, European food, savory bake, sausage strudel, cheese pastry, caraway seeds, baked goods, holiday food, Oktoberfest, sausage recipe, German sausage",
+    "recipeYield": "3 Servings",
+    "recipeCuisine": [
+      "German",
+      "European"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Savory Pastry",
+      "Pie",
+      "Holiday"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1900-2200 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "3 Puff Pastry Sheets",
+        "25g Salted Butter",
+        "750g Bratwurst, cooked, diced",
+        "1 Brown Onion",
+        "9 tbsp Sauerkraut",
+        "1/2 cup Sour Cream",
+        "3 tbsp Dijon Mustard",
+        "2 tsp Caraway Seeds",
+        "300g melty Shredded Cheese",
+        "1 Egg"
+    ],
+    "ingredientKeywords": [
+        "Puff Pastry",
+        "Pastry",
+        "Salted Butter",
+        "Butter",
+        "Bratwurst",
+        "Brown Onion",
+        "Onion",
+        "Sauerkraut",
+        "Sour Cream",
+        "Djon Mustard",
+        "Caraway Seed",
+        "Caraway",
+        "Cheese",
+        "Egg"
+    ],
+    "equipment": [
+        "Large baking tray",
+        "Medium Pan"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Set the oven to 200C",
+            "name": "Preheat Oven",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Dice the onion and saute in the pan with butter for about 10 minutes. Add the sauerkraut and bratwurst to heat through.",
+            "name": "Saute",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "text": "On each pastry sheet, on one half, spread one third of the sour cream and mustard. On the top of the cream/mustard, spread a third of the bratwurst mixture and then cheese.",
+            "name": "Build pastry",
+            "url": 3
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Fold over the pastry and crimp along the long end. Beat the egg and then brush over the top and sprinkle the caraway seeds over the pastries. Place on a tray lined with baking paper and bake for 30 minutes.",
+            "name": "Bake",
+            "url": 4
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Let rest for 10 minutes and then serve!",
+            "name": "Rest and serve",
+            "url": 5
+        }
+    ],
+    "notes": [
+        "Great with extra cheese/onion baked on top and extra sour cream on the side.",
+        "Keeps well and can be reheated the next day.",
+        "For the melty cheese I like mozzarella but whatever you like should work well!",
+        "The puff pastry sheets I use are about 26cm x 26cm."
+    ],
+    "relatedRecipes": [
+        "bratwurst_mince",
+        "puff_pastry"
+    ]
+}

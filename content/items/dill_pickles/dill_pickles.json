@@ -1,0 +1,126 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "dill_pickles",
+    "name": "Dill Pickles",
+    "image": [
+      "dill_pickles_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Dill Pickles, Pickles, Cucumber, Pickling, Snack, Condiment, Easy, Homemade, Polish, Vinegar, Garlic, Dill, Refrigerator Pickles, Quick Pickles, Canning",
+    "datePublished": "2025-03-17",
+    "lastMod": "2025-03-17",
+    "description": "Incredibly easy and quick to make pickles that can easily be changed up to have a huge variety in flavors.",
+    "prepTime": "PT10M",
+    "cookTime": "PT5M",
+    "totalTime": "PT15M",
+    "recipeYield": "3 Servings",
+    "recipeCuisine": [
+      "Polish",
+      "Eastern European",
+      "American",
+      "European"
+    ],
+    "recipeCategory": [
+      "Snack",
+      "Condiment",
+      "Preserve",
+      "Side Dish",
+      "Vegetable"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "40 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "Brine:",
+      "1 cup Water",
+      "½ cup White Vinegar",
+      "1 tbsp Salt",
+      "1 tbsp Sugar",
+      "",
+      "Other:",
+      "3 medium Cucumbers",
+      "2 sprigs Fresh Dill",
+      "2 whole Garlic cloves",
+      "1 600ml ish jar",
+      "",
+      "Optional flavors:",
+      "1 tbsp Whole Black Peppercorns",
+      "1 tsp Caraway Seeds",
+      "2 tsp Mustard Seeds",
+      "1-2 slices of Onion",
+      "1 sliced Jalapeno",
+      "1 tsp Chili Flakes",
+      "½ tsp Turmeric",
+      "½ tsp Cayenne",
+      "1 tsp Celery Seeds"
+    ],
+    "ingredientKeywords": [
+      "White Vinegar",
+      "Salt",
+      "Sugar",
+      "Cucumber",
+      "Fresh Dill",
+      "Dill",
+      "Garlic",
+      "Whole Black Peppercorn",
+      "Black Peppercorn",
+      "Black Pepper",
+      "Caraway Seed",
+      "Mustard Seed",
+      "Onion",
+      "Jalapeno",
+      "Chili Flake",
+      "Turmeric",
+      "Cayenne",
+      "Celery Seed"
+    ],
+    "equipment": [
+      "Jars",
+      "Small Pot"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Sanitize jars by boiling them in hot water. Leave it in simmering water until you're ready to fill the jar.",
+        "name": "Prep Jars",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine brine in a pot and bring to a boil. Stire for a couple of minutes and then turn it off to let it cool slightly.",
+        "name": "Prep brine",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut cucumbers into slices that fit into the jars. Remove jars and fill with desired ingredients.",
+        "name": "Fill jars",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Poor brine over the top and ensure cucumbers are covered and not poking out the top. Put the lids on and let cool before refridgerating.",
+        "name": "Seal jars",
+        "url": 4
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ready to go after a couple of weeks.",
+        "name": "Store",
+        "url": 5
+      }
+    ],
+    "notes": [
+      "These pickles are amazingly simple and versatile. The base recipe is always the same and then you can add whatever extra flavorings you like!",
+      "My favorite combo of extra flavors are jalapenos, black pepper, mustard seeds, onion and garlic.",
+      "For faster pickles, you can enjoy them within a couple of days, but the flavor will deepen over time."
+    ],
+    "sharedNotes": [
+      "pickles"
+    ]
+  }

@@ -1,0 +1,79 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "puff_pastry",
+    "name": "Puff Pastry",
+    "image": [
+      "puff_pastry_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Puff Pastry, homemade puff pastry, French pastry, flaky pastry, butter pastry, laminated dough, baking ingredient, dough, pastry making, French cuisine, plain flour, butter, iced water, recipe, cooking, homemade, from scratch, multi-layered pastry, viennoiserie base, classic pastry",
+    "datePublished": "2025-04-22",
+    "lastMod": "2025-04-22",
+    "description": "A classic recipe for creating homemade Puff Pastry from scratch using plain flour, butter, and iced water. This versatile, flaky, laminated dough is perfect for various sweet and savory baked goods.",
+    "prepTime": "PT2H",
+    "cookTime": "PT0M",
+    "totalTime": "PT2H",
+    "recipeYield": "3 Sheets",
+    "recipeCuisine": [
+      "French",
+      "European",
+      "Western"
+    ],
+    "recipeCategory": [
+      "Ingredient",
+      "Baking Component",
+      "Dough",
+      "Base",
+      "Pastry"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "750 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "225g Plain Flour",
+      "125ml Iced Water",
+      "200g Butter"
+    ],
+    "ingredientKeywords": [
+      "Plain Flour",
+      "All Purpose Flour",
+      "Flour",
+      "Butter"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mix the water and flour into a dough and then need until it's just getting smooth. Cover with plastic wrap and refridgerate for 30 minutes.",
+        "name": "Make base dough",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Flatten the butter out with a rolling pin by smacking it between plastic wrap. Roll out the dough into a sheet that just covers the butter when folded over. Place the butter between the folded dough and roll it out. Fold and roll twice more. Wrap and refridgerate for 30m.",
+        "name": "Add the butter",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roll, fold 3 more times. Refridgerate 30m. Ready to be used!",
+        "name": "Finish it up!",
+        "url": 3
+      }
+    ],
+    "notes": [
+      "It should be folded at least 6 times, that would give you 32 layers. More folds means more layers but you run the risk of them merging together and losing those nice flakey layers.",
+      "The reason you need to refridgerate it inbetween is because you don't want the butter melting. If the butter melts it's game over. If required, roll and fold twice before refridgerating."
+    ],
+    "relatedRecipes": [
+        "cinnamon_twists",
+        "portuguese_tarts",
+        "sausage_rolls",
+        "cheesy_tartlets",
+        "oktoberfest_strudle"
+    ]
+  }

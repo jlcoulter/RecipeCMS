@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "roast_potatoes_with_sausage_and_feta",
+    "name": "Roast Potatoes with Sausage and Feta",
+    "image": [
+      "roast_potatoes_with_sausage_and_feta_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Roast Potatoes, Sausage, Feta, Rosemary, Crispy, Winter, Dinner, Potatoes, Side Dish, Easy, Family Friendly, Comfort Food, One-Pan, Sausage and Feta, Weeknight Meal, Lunch",
+    "datePublished": "2023-07-20",
+    "lastMod": "2023-07-20",
+    "description": "Delightfully crispy and soft roast potatoes enhanced with the strong flavors of sausage, feta, and rosemary",
+    "prepTime": "PT20M",
+    "cookTime": "PT60M",
+    "totalTime": "PT1H20M",
+    "recipeYield": "4 Servings",
+    "recipeCuisine": [
+      "British",
+      "Mediterranean",
+      "Fusion",
+      "European"
+    ],
+    "recipeCategory": [
+      "Tray Bake",
+      "Main Course",
+      "Side Dish",
+      "One-Pan Meal",
+      "Comfort Food",
+      "Dinner"
+    ],  
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "400 calories per serving (estimate)"
+    },
+    "recipeIngredient": [
+      "1kg Potatoes",
+      "6 Sausages, I like pork and fennel but any with strong flavors do well",
+      "200g Crumbly Feta",
+      "Olive Oil",
+      "Rosemary",
+      "Salt"
+    ],
+    "ingredientKeywords": [
+      "Potato",
+      "Sausage",
+      "Fennel Sausage",
+      "Pork Sausage",
+      "Feta Cheese",
+      "Cheese",
+      "Olive Oil",
+      "Rosemary"
+    ],
+    "equipment": [
+      "Oven",
+      "Oven Tray"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat an oven to 220C (fan) and bring a pot of water to boil.",
+        "name": "Preheat and Boil",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut your potatoes into chunks and boil for about 20 minutes or until potatoes are starting to fall apart (skin coming away).",
+        "name": "Boil Potatoes",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once potatoes are cooked, drain in a colander and toss a little bit to fluff up the potatoes a bit, this will help make better crunchy goodness.",
+        "name": "Drain and Fluff",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut sausage into small bite-sized pieces and put in a baking tray. Crumble chunks of feta and add to the tray along with the potatoes. Splash olive oil over everything and toss in the tray to ensure everything is coated well. Sprinkle some rosemary.",
+        "name": "Assemble in Tray",
+        "url": 4
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cook for about 40 minutes in the oven or until the potatoes are sufficiently crispy and golden.",
+        "name": "Roast",
+        "url": 5
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sprinkle salt over the top and enjoy with gravy or some other delicious sauce like romesco.",
+        "name": "Serve",
+        "url": 6
+      }
+    ],
+    "notes": [
+      "Great with garlic and onion roasted in the tray with everything else.",
+      "Try adding different herbs and spices to customize the flavor.",
+      "These potatoes can be served as a side dish or a main course with a salad."
+    ]
+  }

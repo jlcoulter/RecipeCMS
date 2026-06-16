@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "korean_pickled_radishes",
+  "name": "Korean Pickled Radishes",
+  "image": [
+    "korean_pickled_radishes_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "2025-07-06",
+  "lastMod": "2025-07-06",
+  "description": "A crisp and refreshing Korean side dish known as Chicken-Mu. Cubed daikon radish is quick-pickled in a sweet and tangy brine of white vinegar, sugar, and water. This crunchy banchan is the traditional perfect pairing for cutting the richness of Korean fried chicken, but serves as a delicious palate cleanser for any Asian meal.",
+  "prepTime": "PT10M",
+  "cookTime": "PT5M",
+  "totalTime": "PT15M",
+  "keywords": "Korean Pickled Radishes, Chicken-Mu, Pickled Daikon, Daikon Radish, Banchan, Korean Side Dish, Korean Cuisine, Sweet and Sour Radish, Quick Pickle, Refrigerator Pickle, Vegetarian, Vegan, Gluten-Free, Low Fat, Crunchy Side Dish, Asian Side Dish, Fried Chicken Side, Preserved Vegetables, White Radish, Easy Banchan, Pickled Vegetables, K-Food",
+  "recipeYield": "10 Servings",
+  "recipeCuisine": [
+      "Korean",
+      "East Asian"
+    ],
+    "recipeCategory": [
+      "Side Dish",
+      "Banchan",
+      "Pickle",
+      "Condiment"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "50-60 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "400g or 1 Daikon Radish",
+    "150ml Water",
+    "150ml White Vinegar",
+    "150ml Sugar",
+    "5ml Salt"
+  ],
+  "ingredientKeywords": [
+    "Daikon Radish",
+    "Radish",
+    "White Vinegar",
+    "Vinegar",
+    "Sugar"
+  ],
+  "equipment": [
+    "Small Pot",
+    "Large Pot",
+    "750ml Jar"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Boil the jar in a large pot of water. While that boils, add all ingredients except the radish to another pot and bring to a simmer.",
+      "name": "Prep jar and vinegar",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Wash and dice radishes into little cubes. Add to the jar, let the vinegar mix cool slightly then pour over the radishes and seal the jar. Let cool before refrigerating and refrigerate for about 24h before eating.",
+      "name": "Serve",
+      "url": 2
+    }
+  ],
+  "notes": [
+    "Most commonly eaten as a side with Korean fried chicken but honestly just a nice little crunchy side for many asian dishes."
+  ],
+  "sharedNotes": [
+    "pickles"
+  ]
+}

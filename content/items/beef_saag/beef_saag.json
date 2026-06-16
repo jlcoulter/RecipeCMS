@@ -1,0 +1,112 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "beef_saag",
+  "name": "Beef Saag",
+  "image": [
+    "beef_saag_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "keywords": "Beef Saag, Indian Beef Curry, Spinach and Beef, Slow Cooked Beef, Beef Chuck Recipe, Spinach Recipe, Indian Cuisine, Main Course, Comfort Food, Stew, Curry, Spices, Ginger, Garlic, Cumin, Coriander, Turmeric, Garam Masala, Yoghurt, Cinnamon, Cardamom, Cloves, Beef Stock, Easy Recipe, Family Meal",
+  "datePublished": "2025-05-03",
+  "lastMod": "2025-05-03",
+  "description": "A hearty and flavorful Beef Saag, a classic Indian dish featuring tender beef slow-cooked with spinach and aromatic spices. Perfect served with rice.",
+  "prepTime": "PT15M",
+  "cookTime": "PT4H",
+  "totalTime": "PT4H15M",
+  "recipeYield": "4 servings",
+  "recipeCuisine": [
+    "Indian",
+    "South Asian",
+    "Asian"
+  ],
+  "recipeCategory": [
+    "Main Course",
+    "Curry",
+    "Stew",
+    "Dinner"
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "450-600 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "500g frozen Spinach",
+    "1.5 kg cubed Beef Chuck",
+    "4 large Brown Onions",
+    "2 tbsp minced Garlic",
+    "3 tbsp minced Ginger",
+    "1 tbsp Ground Cumin",
+    "2 tbsp Ground Coriander",
+    "1 tsp Ground Turmeric",
+    "3 tsp Garam Masala",
+    "400g diced Tomatoes",
+    "4 tbsp Plain Greek Yoghurt",
+    "1 Cinnamon Stick",
+    "12 Green Cardamom Pods",
+    "9 whole Cloves",
+    "3 tsp Beef Stock Powder"
+  ],
+  "ingredientKeywords": [
+    "Spinach",
+    "Beef Chuck",
+    "Beef",
+    "Brown Onion",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Ground Cumin",
+    "Cumin",
+    "Ground Coriander",
+    "Coriander",
+    "Ground Turmeric",
+    "Turmeric",
+    "Garam Masala",
+    "Tomato",
+    "Plain Yoghurt",
+    "Greek Yoghurt",
+    "Yoghurt",
+    "Cinnamon Stick",
+    "Cardamom Pod",
+    "Cardamom",
+    "Green Cardamom Pod",
+    "Clove",
+    "Beef Stock"
+  ],
+  "equipment": [
+    "Large Pot"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a really large pot/dutch oven sear the beef over high heat in a bit of neutral oil to get a nice crust on all sides. Do it in batches to ensure you get a good sear. Once each batch is seared, transfer to a plate.",
+      "name": "Sear Beef",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Lower the heat, add some more oil and fry the onions for about 20-30 minutes, stirring occasionaly ensuring things to get crispy so that they'll melt into the sauce.",
+      "name": "Soften the onions",
+      "url": 2
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the garlic, ginger and spices and fry for another 2-3 minutes stirring constantly. Add everything to pot, mix thoroughly, cover and slowly simmer for 3-4 hours until the beef is tender.",
+      "name": "Slow cook",
+      "url": 3
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season to taste with salt, pepper and cayenne. Serve over rice and enjoy!",
+      "name": "Serve",
+      "url": 4
+    }
+  ],
+  "notes": [
+    "When serving it goes great with more fresh yoghurt! Also great with papadams, fresh chilis, coriander and lemon.",
+    "If you want it more like you'll find in restaurants, blend the spinach with the onion mix, remove from the pot, briefly fry the spices to bring out additional flavor and then add everything in. Then at the end once it's finished cooking add some heavy cream."
+  ]
+}

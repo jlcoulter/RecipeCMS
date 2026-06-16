@@ -1,0 +1,112 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "pavlova",
+  "name": "Pavlova",
+  "image": [
+    "pavlova_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "keywords": "Pavlova, Meringue, New Zealand Cuisine, Australian Dessert, Egg Whites, Gluten Free, Summer Dessert, Christmas Recipe, Holiday Dessert, Baked Meringue, Marshmallow Center, Crispy Shell, Fruit Topping, Dinner Party, Traditional Dessert, Sweet Treat, Vegetarian, Low Fat Dessert, Easy Baking, Cornflour, Vanilla Essence, Malt Vinegar, Family Favorite",
+  "datePublished": "2025-12-20",
+  "lastMod": "2025-12-20",
+  "description": "A classic New Zealand dessert featuring a crisp meringue shell with a soft, marshmallow-like center. Made with whipped egg whites and sugar, this Pavlova is flavored with vanilla and malt vinegar for the perfect texture. Ideally topped with fresh whipped cream and seasonal fruit.",
+  "prepTime": "PT10M",
+  "cookTime": "PT30M",
+  "totalTime": "PT1H40M",
+  "recipeYield": "8 Servings",
+  "recipeCuisine": [
+      "New Zealand",
+      "Australian",
+      "Oceanian"
+    ],
+    "recipeCategory": [
+      "Dessert",
+      "Holiday",
+      "Baking",
+      "Sweet Treat"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "250 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "Pavlova:",
+    "4 Egg Whites",
+    "pinch of Salt",
+    "1 cup Sugar",
+    "3 tbsp Cold Water",
+    "1 tsp Malt Vinegar",
+    "1 tsp Vanilla Essence",
+    "1 tbsp Cornflour",
+    "",
+    "Topping:",
+    "Whipped Cream",
+    "Raspberries",
+    "Blueberries",
+    "Passionfruit"
+  ],
+  "ingredientKeywords": [
+    "Egg",
+    "Egg White",
+    "Sugar",
+    "Malt Vinegar",
+    "Vinegar",
+    "Vanilla Essence",
+    "Vanilla",
+    "Vanilla Extract",
+    "Cornflour",
+    "Flour",
+    "Cream",
+    "Whipped Cream",
+    "Raspberry",
+    "Blueberry",
+    "Passionfruit"
+  ],
+  "equipment": [
+    "Large Bowl",
+    "Beater",
+    "Oven",
+    "Baking Tray"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Heat oven to 180C. Line your baking tray with baking paper and grease it.",
+      "name": "Prep oven",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Beat egg whites and salt until stiff, add water and gradually add sugar while still beating. Continue until straight peaks form.",
+      "name": "Beat egg whites",
+      "url": 2
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Reduce your beating speed to low and add in the vinegar, vanilla and cornflour.",
+      "name": "Mix in last ingredients",
+      "url": 3
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put on the prepped tray in a beehive like shape. Reduce oven to 160C and bake for 30 minutes. Turn the oven off and let it rest in the oven for another hour.",
+      "name": "Bake",
+      "url": 4
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top with whipped cream, passionfruit and fresh fruit, enjoy!",
+      "name": "Serve",
+      "url": 5
+    }
+  ],
+  "notes": [
+    "Easiest to use a stand mixer but an electric beater works just fine.",
+    "Regarding the peaks, don't give up on them!",
+    "Don't worry if it's crumbly and rubbish looking, thats what a good pavlova should look like."
+  ]
+}

@@ -1,0 +1,114 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "honey_soy_pork_belly_bites",
+    "name": "Honey Soy Pork Belly Bites",
+    "image": [
+      "honey_soy_pork_belly_bites_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Honey Soy Pork Belly Bites, Pork, Asian, Sweet, Salty, Snack, Ingredient, Pork Belly, Honey, Soy Sauce, Garlic, Ginger, Onion, Chilis, Sesame Oil, Sesame Seeds, Spring Onion, Appetizer, Side Dish, Easy, Quick, Flavorful, Glazed, Party Food",
+    "datePublished": "2023-07-09",
+    "lastMod": "2023-07-09",
+    "description": "Delightfully scrumptious pork belly bites with a sweet and salty honey soy glaze, perfect as a snack or served with stir-fries or rice.",
+    "prepTime": "PT15M",
+    "cookTime": "PT90M",
+    "totalTime": "PT1H45M",
+    "recipeYield": "4 Servings",
+    "recipeCuisine": [
+      "Asian",
+      "Chinese",
+      "Fusion"
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Snack",
+      "Main Course",
+      "Finger Food",
+      "Party Food"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "400 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "600g Pork Belly",
+      "2 tbsp Honey",
+      "2 tbsp Soy Sauce",
+      "2 tsp Rice Wine Vinegar",
+      "2 tsp crushed Garlic",
+      "2 tsp crushed Ginger",
+      "1 Brown Onion, finely diced",
+      "2 fresh Chilis, diced",
+      "1 tbsp Sesame Oil",
+      "2 tsp Sesame Seeds",
+      "1 Spring Onion, diced"
+    ],
+    "ingredientKeywords": [
+      "Pork Belly",
+      "Pork",
+      "Pork Rasher",
+      "Honey",
+      "Soy Sauce",
+      "Rice Wine Vinegar",
+      "Vinegar",
+      "Garlic",
+      "Ginger",
+      "Onion",
+      "Brown Onion",
+      "Chili",
+      "Fresh Chili",
+      "Birdseye Chili",
+      "Sesame Oil",
+      "Sesame Seed",
+      "Spring Onion"
+    ],
+    "equipment": [
+      "Medium Pan"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Cook the pork belly in a pan over medium heat for about 5-10 minutes until golden.",
+        "name": "Sear Pork Belly",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover the pan and cook the pork on medium-low heat for another 50-60 minutes.",
+        "name": "Cook Pork Belly",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Uncover the pork and increase the heat. Add the onions, garlic, ginger, and sesame oil. Cook for another 5 minutes.",
+        "name": "Add Aromatics",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chili, soy sauce, and honey to the pan. Cook until the sauce thickens.",
+        "name": "Add Glaze",
+        "url": 4
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Plate the pork belly bites and sprinkle with sesame seeds and diced spring onions.",
+        "name": "Plate",
+        "url": 5
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy!",
+        "name": "Serve",
+        "url": 6
+      }
+    ],
+    "notes": [
+      "These pork belly bites are also great with a side of rice or noodles.",
+      "For extra crispy pork belly, you can finish them off under the broiler for a few minutes."
+    ]
+  }

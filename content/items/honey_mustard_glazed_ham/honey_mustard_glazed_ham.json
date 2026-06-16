@@ -1,0 +1,101 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "honey_mustard_glazed_ham",
+  "name": "Honey Mustard Glazed Ham",
+  "image": [
+    "honey_mustard_glazed_ham_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "keywords": "Christmas Ham, Swedish Ham, Glazed Ham, Holiday Roast, Main Course, Pork, Roast Pork, Honey Glazed, Mustard Glaze, Brown Sugar, Orange Juice, Cloves, Festive Dinner, Christmas Dinner, Swedish Cuisine, Scandinavian Food, Baked Ham, Party Food, Crowd Pleaser, Winter Recipe, Christmas Eve, Julskinka, Roast Dinner",
+  "datePublished": "2025-12-25",
+  "lastMod": "2025-12-25",
+  "description": "A festive and succulent Christmas Ham featuring a rich, sticky glaze made from honey, brown sugar, Dijon mustard, and orange juice. Studded with aromatic whole cloves and baked to golden perfection, this 6kg centerpiece is perfect for feeding a crowd during the holidays.",
+  "prepTime": "PT15M",
+  "cookTime": "PT2H30M",
+  "totalTime": "PT2H45M",
+  "recipeYield": "30 Servings",
+  "recipeCuisine": [
+      "Swedish",
+      "Scandinavian",
+      "European",
+      "Western"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Roast",
+      "Holiday",
+      "Meat",
+      "Dinner"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "350-500 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "6kg already cooked/cured Ham",
+    "1/2 cup Orange Juice",
+    "1/3 cup Brown Sugar",
+    "1/4 cup Dijon Mustard",
+    "1/3 cup Honey",
+    "20-30 Whole Cloves"
+  ],
+  "ingredientKeywords": [
+    "Ham",
+    "Orange Juice",
+    "Orange",
+    "Brown Sugar",
+    "Sugar",
+    "Dijon Mustard",
+    "Mustard",
+    "Honey",
+    "Clove",
+    "Whole Clove"
+  ],
+  "equipment": [
+    "Oven",
+    "Baking Tray",
+    "Small Pot"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 160C. Combine honey, orange juice, mustard and brown sugar in a small pot. Whisk together and simmer until it thickens a bit.",
+      "name": "Prep glaze",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "While the glaze thickens, remove the ham skin. Try not to remove any fat while doing this. Score the fat in a diamond pattern roughly 2-3cm apart. Don't score it too deep, don't go down to the meat.",
+      "name": "Prep ham",
+      "url": 2
+    },
+    {
+      "@type": "HowToStep",
+      "text": " Stab the cloves into the fat, try and evenly distribute them. Prep your oven tray by putting down a layer of foil to catch the drippings. If you don't, it will be very hard to clean.",
+      "name": "Add cloves and prep tray.",
+      "url": 3
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add a layer of glaze and start baking. Glaze every 20ish minutes until the glaze runs out and internal temp of the ham reaches 60C. For 6kg it was about 2.5h but this will vary.",
+      "name": "Glaze and bake",
+      "url": 4
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Eat hot or let cool to room temp before storing in the fridge.",
+      "name": "Eat and store",
+      "url": 5
+    }
+  ],
+  "notes": [
+    "When storing in the fridge, you can cover the ham with a tea towel, ham bag or pillow case. Soak what you use in 2 parts water and 1 part vinegar. Make sure you wring it out first. Replace this roughly every 3 days.",
+    "Before carving, try and find the cloves as they'll ruin the wonderful slices of ham. They can be hard to spot amongst the glaze though.",
+    "If you feel your glaze is getting burnt you can cover those spots with foil. However, personally I like the darker bits of glaze and while it the picture it may looked burnt, it didn't taste it.",
+    "Stores best whole and sliced as needed. It should last about 1-2 weeks whole."
+  ]
+}

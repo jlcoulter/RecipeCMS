@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "moroccan_spice_blend",
+    "name": "Moroccan Spice Blend",
+    "image": [
+        "moroccan_spice_blend_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Moroccan Spice Blend, Spice Mix, Mediterranean, Spicy, Baked Vegetables, Chicken, Hot Smoked Paprika, Cumin, Cinnamon, Cloves, Ginger, Salt, Cayenne, Seasoning, Versatile, DIY, Pantry Staple, Make Ahead, Gift Idea",
+    "datePublished": "2023-07-21",
+    "lastMod": "2023-07-21",
+    "description": "Delicious spice blend great for spicing up baked vegetables and all sorts of proteins like chicken, prawns and salmon.",
+    "prepTime": "PT5M",
+    "cookTime": "PT0M",
+    "totalTime": "PT5M",
+    "recipeYield": "4 Tablespoons",
+    "recipeCuisine": [
+      "Moroccan",
+      "North African",
+      "Mediterranean"
+    ],
+    "recipeCategory": [
+      "Ingredient",
+      "Spice Blend",
+      "Seasoning",
+      "Pantry Staple"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "Varies"
+    },
+    "recipeIngredient": [
+      "1 tbsp Brown Sugar",
+      "4 tsp hot Smoked Paprika",
+      "4 tsp ground Cumin",
+      "2 tsp ground Cinnamon",
+      "1 tsp ground Cloves",
+      "1 tsp ground Ginger",
+      "1 tsp Salt",
+      "1 tsp Cayenne"
+    ],
+    "ingredientKeywords": [
+      "Brown Sugar",
+      "Hot Smoked Paprika",
+      "Smoked Paprika",
+      "Hot Paprika",
+      "Paprika",
+      "Cumin",
+      "Cinnamon",
+      "Clove",
+      "Ginger",
+      "Salt",
+      "Cayenne"
+    ],
+    "equipment": [
+      "Storage Container"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mix all ingredients together! Enjoy sprinkled over baked vegetables or with chicken.",
+        "name": "Mix Spices",
+        "url": 1
+      }
+    ],
+    "notes": [
+        "This Moroccan spice blend is perfect for seasoning chicken, vegetables, or even grilled salmon."
+    ]
+  }

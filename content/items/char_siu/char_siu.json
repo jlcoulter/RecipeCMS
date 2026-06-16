@@ -1,0 +1,76 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "char_siu",
+  "name": "Char Siu",
+  "image": [
+    "char_siu_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "keywords": "Char Siu, Chinese BBQ Pork, Pork, Pork Belly, Char Siu Sauce, Honey, Marinade, Glaze, Chinese Cuisine, Asian Cuisine, Baked Pork, Grilled Pork, BBQ Pork, Oven-baked, Barbecued, Side Dish, Main Dish, Cantonese, Roast Pork, Homemade Char Siu, Easy Char Siu Recipe, Sweet and Savory, Glazed Pork, Marinated Pork, Asian BBQ",
+  "datePublished": "2025-05-28",
+  "lastMod": "2025-05-28",
+  "description": "A delicious and savory Char Siu (Chinese BBQ Pork) recipe featuring tender pork belly marinated in char siu sauce and glazed with honey for a perfect sweet and savory char.",
+  "prepTime": "PT30M",
+  "cookTime": "PT50M",
+  "totalTime": "PT1H20M",
+  "recipeYield": "4 Servings",
+  "recipeCuisine": [
+      "Chinese",
+      "Cantonese",
+      "Asian"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Side Dish",
+      "BBQ",
+      "Meat"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "750-900 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "1 kg Pork Belly",
+    "3 tbsp Char Siu Sauce",
+    "2 tbsp Honey"
+  ],
+  "ingredientKeywords": [
+    "Pork",
+    "Pork Belly",
+    "Char Siu Sauce",
+    "Char Siu",
+    "Honey"
+  ],
+  "equipment": [
+    "BBQ",
+    "Oven",
+    "Oven Dish"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cut the pork belly into 4 big strips. Or 8 if you want smaller bits. Marinate in the char siu sauce for 30+ minutes in the fridge.",
+      "name": "Marinate",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 180C and bake for about 30 minutes. Now grill on a low heat bbq for another 20m during which, baste with leftover char siu sauce and drizzle with honey while grilling to get a nice sugary char.",
+      "name": "Grill",
+      "url": 2
+    }
+  ],
+  "notes": [
+    "Works great with other cuts of pork but you'll need to cook them right to not dry them out.",
+    "You don't need a BBQ, that's how I do it though. You could crank the heat in the oven or grill them in a cast iron/griddle pan for the same effect.",
+    "If you don't like chewy pork skin, remove at the start. Generally easiest after making it into strips.",
+    "For more tender pork belly, cook in the oven for longer, at least another 30m."
+  ],
+  "relatedRecipes": [
+    "laksa"
+  ]
+}

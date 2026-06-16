@@ -1,0 +1,67 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "chimichurri",
+    "name": "Chimichurri",
+    "image": [
+      "chimichurri_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "chimichurri, argentinian sauce, steak sauce, fresh herb sauce, parsley sauce, no-cook sauce, condiment, marinade, grilled meats, south american cuisine, easy sauce recipe, quick condiment, herbaceous, tangy, spicy, garlic sauce, olive oil sauce, red wine vinegar, fresh parsley, fresh oregano, gluten-free, vegan",
+    "datePublished": "2025-06-27",
+    "lastMod": "2025-06-27",
+    "description": "A vibrant and flavorful Argentinian condiment, this classic chimichurri is made with finely chopped fresh parsley, oregano, garlic, and chili. Brought together with olive oil and red wine vinegar, it creates a tangy, herbaceous, and slightly spicy sauce that is the perfect accompaniment for grilled steak, chicken, or fish.",
+    "prepTime": "PT10M",
+    "cookTime": "PT0M",
+    "totalTime": "PT10M",
+    "recipeYield": "3/4 Cup",
+    "recipeCuisine": [
+      "Argentinian",
+      "South American",
+      "Latin American"
+    ],
+    "recipeCategory": [
+      "Condiment",
+      "Sauce",
+      "Marinade",
+      "Dip"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "85-170 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "1/2 cup Olive Oil",
+      "2 tbsp Red Wine Vinegar",
+      "1/2 cup Fresh Parsley",
+      "4 cloves Garlic",
+      "2 Birdseye Chilis",
+      "2 tbsp Fresh Oregano"
+    ],
+    "ingredientKeywords": [
+      "Olive Oil",
+      "Red Wine Vinegar",
+      "Vinegar",
+      "Parsley",
+      "Fresh Parsley",
+      "Garlic",
+      "Birdseye Chili",
+      "Chili",
+      "Oregano",
+      "Fresh Oregano"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mince the garlic. Finely chop the parsley, oregano and chili. Mix everything together and season with pepper and salt to taste. Enjoy!",
+        "name": "Mix it all",
+        "url": 1
+      }
+    ],
+    "notes": [
+      "Great and simple condiment that I love to use with steak, chicken, salmon, etc etc."
+    ]
+}

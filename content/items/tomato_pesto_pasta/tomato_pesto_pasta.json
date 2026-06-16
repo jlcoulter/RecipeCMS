@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "tomato_pesto_pasta",
+  "name": "Tomato Pesto Pasta",
+  "image": [
+    "tomato_pesto_pasta_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "2024-02-15",
+  "lastMod": "2024-02-15",
+  "description": "Super cheap and easy recipe that is very quick to make!",
+  "keywords": "tomato pasta, pesto pasta, tomato pesto pasta, pasta recipe, easy pasta, quick pasta, cheap pasta, vegetarian pasta, Italian pasta, weeknight dinner, dinner recipe, lunch recipe, tomato sauce, pesto sauce, basil pasta, olive pasta, chili pasta, spicy pasta, simple pasta, 30 minute meal, budget meal, student meal, fast dinner, pasta dishes",
+  "prepTime": "PT0M",
+  "cookTime": "PT20M",
+  "totalTime": "PT20M",
+  "recipeYield": "4 servings",
+  "recipeCuisine": [
+      "Italian",
+      "Mediterranean",
+      "European"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Vegetarian",
+      "Quick & Easy",
+      "Lunch"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "500 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "800 grams Tomato Diced",
+    "3 tbsp Pesto",
+    "2 cloves minced Garlic",
+    "4 tbsp Olives",
+    "½ tsp Chili Flakes",
+    "1 tbsp Fresh Basil, shredded"
+  ],
+  "ingredientKeywords": [
+    "Tomato",
+    "Pesto",
+    "Olive",
+    "Kalamata Olive",
+    "Chili Flake",
+    "Chili",
+    "Birdseye Chili",
+    "Basil",
+    "Fresh Basil",
+    "Garlic"
+  ],
+  "equipment": [
+    "Medium Pot",
+    "Medium Pot"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Cook Sauce",
+      "url": 1,
+      "text": "Put all the tomato into a pot over a medium heat and bring to a light simmer. Add the rest of the ingredients except for the basil and keep simmering. Cook it into a consistency that you're happy with adding water if needed."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Prep Pasta",
+      "url": 2,
+      "text": "While the sauce cooks, cook your pasta."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Serve",
+      "url": 3,
+      "text": "When the pasta is ready and the sauce is once again at a consistency you're happy with serve it up!"
+    }
+  ],
+  "notes": [
+    "For this one I love to add 2-3 fresh birds-eye chillies to make it spicy and then also add a bit of crispy fried bacon. You can also add crispy chorizo or another salami but none of this is necessary.",
+    "Another variant I like to make involves mixing in about 150g of blue cheese which adds a lot of flavour and creaminess but don’t do this unless you’re into blue cheese, for some this might ruin it."
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "kiwi_dip",
+  "name": "Kiwi Dip",
+  "image": [
+    "kiwi_dip_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "keywords": "Kiwi Dip, New Zealand, Onion Dip, Reduced Cream, Maggi Onion Soup, Party Snack, Chip Dip, Easy Appetizer, 2 Ingredient Recipe, Creamy Dip, Savory Snack, BBQ Side Dish, Traditional Kiwi Food, Quick Dip, Vegetarian, Summer Food, Finger Food, Crowd Pleaser, Picnic Food, No Bake, Onion Soup Mix",
+  "datePublished": "2025-12-23",
+  "lastMod": "2025-12-23",
+  "description": "A classic and beloved New Zealand dip made with just two iconic ingredients: reduced cream and onion soup mix. This creamy, savory dip is the perfect accompaniment to crinkle-cut chips or vegetable sticks for any party or barbecue.",
+  "prepTime": "PT1H",
+  "cookTime": "PT0M",
+  "totalTime": "PT1H",
+  "recipeYield": "4 Servings",
+  "recipeCuisine": [
+      "New Zealand",
+      "Oceanian"
+    ],
+    "recipeCategory": [
+      "Dip",
+      "Party Food",
+      "Appetizer",
+      "Snack"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "130-150 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "1 250ml can Nestle Reduced Fat Cooking Cream",
+    "1 Maggi Onion Soup Mix"
+  ],
+  "ingredientKeywords": [
+    "Onion",
+    "Onion Soup",
+    "Cream"
+  ],
+  "equipment": [
+    "Small Bowl"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix ingredients together thoroughly ensuring there are no dry lumps.",
+      "name": "Combine ingredients",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Refrigerate for at least 1h, ideally 2-3, and enjoy!",
+      "name": "Refrigerate",
+      "url": 2
+    }
+  ],
+  "notes": [
+    "We normally have ours with plain crinkle cut chips.",
+    "Works well with many packet soups, doesn't just have to be onion soup. Chicken and leak or mushroom goes well as well. However, onion soup is the traditional base.",
+    "Whatever you do, don't use french onion soup, it's rubbish.",
+    "The \"official\" recipe contains 1 tbsp of lemon but I have never done that, could be nice though!"
+  ]
+}

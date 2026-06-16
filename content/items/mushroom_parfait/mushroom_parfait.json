@@ -1,0 +1,127 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "mushroom_parfait",
+  "name": "Mushroom Parfait",
+  "image": [
+    "mushroom_parfait_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "keywords": "Mushroom Parfait, Mushroom Pâté, Vegetarian Pâté, Vegetarian Spread, Savory Spread, French Appetizer, Button Mushrooms, Caramelized Onions, Red Wine Reduction, Garlic, Butter, Salted Butter, Mirin, Soy Sauce, Egg, Gluten Free Option, Dinner Party Starter, Charcuterie Board, Smooth Texture, Umami Rich, Home Cooking, Elegant Appetizer, Holiday Recipe, French Cuisine, Water Bath Baking, Savory Mousse, Party Food, Cold Appetizer",
+  "datePublished": "2025-12-21",
+  "lastMod": "2025-12-21",
+  "description": "A silky, savory Mushroom Parfait that serves as a perfect vegetarian alternative to traditional pâté. Made with deeply caramelized onions, button mushrooms, and a red wine reduction, this rich spread is blended with butter and egg for a luxuriously smooth texture. Finished with hints of mirin and soy sauce for added umami, it is baked in a water bath and served chilled. Ideal for spreading on toasted bread or adding to a charcuterie board.",
+  "prepTime": "PT5M",
+  "cookTime": "PT2H",
+  "totalTime": "PT4H",
+  "recipeYield": "10 Servings",
+  "recipeCuisine": [
+      "French",
+      "European"
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Spread",
+      "Starter",
+      "Vegetarian",
+      "Pâté"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "200-220 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "Onions:",
+    "1 Red Onion",
+    "20g Salted Butter",
+    "100ml Red Wine",
+    "",
+    "Mushrooms:",
+    "500g Button Mushrooms",
+    "100g Salted Butter",
+    "4 tbsp Mirin",
+    "2 tbsp Soy Sauce",
+    "6 Cloves Garlic",
+    "",
+    "Other:",
+    "1 Egg",
+    "100g Salted Butter",
+    "60ml Heavy Cream",
+    "Salt and Pepper to taste"
+  ],
+  "ingredientKeywords": [
+    "Red Onion",
+    "Onion",
+    "Salted Butter",
+    "Butter",
+    "Red Wine",
+    "Wine",
+    "Button Mushroom",
+    "Mushroom",
+    "Mirin",
+    "Soy Sauce",
+    "Garlic",
+    "Egg",
+    "Cream",
+    "Heavy Cream",
+    "Pepper",
+    "Black Pepper"
+  ],
+  "equipment" : [
+    "Oven",
+    "Medium Pan",
+    "Small Pot",
+    "Medium Pot",
+    "Blender"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Over a low heat, start cooking down the onions with 20g of butter. Throughout you'll need to mix to ensure they down brown and stick.",
+      "name": "Cook down onions",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "After about 45m add red wine to the onions. Dice the mushrooms and then in a different pan, add 100g of butter and the mushrooms over low heat.",
+      "name": "Add wine and start mushrooms",
+      "url": 2
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Over a low heat, cook the mushrooms down until no moisture remains and they deeply browned all over. This will take roughly 45m and will require stiring every now and then.",
+      "name": "Cook down mushrooms",
+      "url": 3
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat oven to 120C. Add the mirin, soy sauce and minced garlic to the mushrooms. Cook down until almost no liquid remains.",
+      "name": "Cook down sauce",
+      "url": 4
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add mushroom mix to a blender and briefly blend. Melt remaining 100g butter and add to blender with the egg and cream. Blend until completely smooth. Taste and add salt/pepper to taste.",
+      "name": "Blend",
+      "url": 5
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Get 2 pots of differing sizes where one fits in the other. Add mushroom mix to the inner pot and boiling water in the outer pot up to the level of the mix. Bake, covered with foil, for 25m.",
+      "name": "Bake",
+      "url": 6
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cool on the bench first and then all the way down in the fridge. Serve with toasted bread and whatever else you like!",
+      "name": "Cool and serve",
+      "url": 7
+    }
+  ],
+  "notes": [
+    "Great with pickled onion/ginger. I like mine with fried garlic and salami chips."
+  ]
+}

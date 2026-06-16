@@ -1,0 +1,110 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "pork_and_fennel_pasta",
+    "name": "Pork and Fennel Pasta",
+    "image": [
+        "pork_and_fennel_pasta_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "keywords": "Pork and Fennel Pasta, Italian, Pork, Pasta, Spaghetti, Tomato Sauce, Capsicum, Fennel Seeds, Red Wine, Chilis, Thyme, Garlic, Parmesan",
+    "datePublished": "2025-03-01",
+    "lastMod": "2025-03-01",
+    "description": "Rich saucy spaghetti with layers of flavor.",
+    "prepTime": "PT20M",
+    "cookTime": "PT50M",
+    "totalTime": "PT1H10M",
+    "recipeYield": "5 Servings",
+    "recipeCuisine": [
+      "Italian",
+      "Mediterranean",
+      "European"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Pasta",
+      "Dinner",
+      "Comfort Food"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "920 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "500g Spaghetti",
+        "6 Pork and Fennel Sausages",
+        "1 Red Capsicum, diced",
+        "400g Tomatoes, diced",
+        "1 Onion, diced",
+        "1 cup Dry Red Wine",
+        "1 tsp Beef Stock Powder",
+        "2 fresh Chilis, diced",
+        "1 tbsp Whole Fennel Seeds",
+        "1 sprig Thyme",
+        "2 tsp minced Garlic"
+    ],
+    "ingredientKeywords": [
+        "Spaghetti",
+        "Pork Sausage",
+        "Pork and Fennel Sausage",
+        "Fennel Sausage",
+        "Sausage",
+        "Red Capsicum",
+        "Capsicum",
+        "Tomato",
+        "Onion",
+        "Dry Red Wine",
+        "Red Wine",
+        "Wine",
+        "Beef Stock",
+        "Chili",
+        "Whole Fennel Seed",
+        "Fennel Seed",
+        "Fennel",
+        "Thyme",
+        "Garlic"
+    ],
+    "equipment": [
+      "Large Pan",
+      "Medium Pot"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Heat a large pan/pot with a bit of olive oil. Add onion and fennel seeds and fry over medium heat, stirring, until soft. Add tomatoes and capsicum and cook, stirring regularly, until the capsicum is soft.",
+            "name": "Prep sauce",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add garlic, thyme, chilis, beef stock, and red wine. Simmer for about 40m. Blend lightly with a stick blender to get rid of the chunks. Keep simmering, add water if it gets too dry (or more wine).",
+            "name": "Add more and simmer",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cut sausages into small bits and fry until they are crispy all over. Add sausage, oil, and fat from the pan to the sauce mix. Simmer for another 10 minutes.",
+            "name": "Fry the sausage",
+            "url": 3
+        },
+        {
+            "@type": "HowToStep",
+            "text": "While simmering for the last 10 minutes, cook your pasta to how you like it.",
+            "name": "Cook pasta",
+            "url": 4
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Serve topped with cheese of your choice (I went with parmesan) and enjoy!",
+            "name": "Serve",
+            "url": 5
+        }
+    ],
+    "notes": [
+        "You can use chorizo or bacon instead of pork and fennel sausage for a variation in flavor but damn is it good with fennel sausage.",
+        "Great with some melty cheese... mmm."
+    ]
+}

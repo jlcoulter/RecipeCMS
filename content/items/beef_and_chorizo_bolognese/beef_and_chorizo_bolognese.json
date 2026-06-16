@@ -1,0 +1,110 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "beef_and_chorizo_bolognese",
+  "name": "Beef and Chorizo Bolognese",
+  "image": [
+    "beef_and_chorizo_bolognese_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "2025-02-01",
+  "lastMod": "2025-02-01",
+  "description": "Versatile and rich Bolognese for those cold winter days full of wonderful meaty flavors. Great with a dry red wine and mountains of cheese.",
+  "keywords": "beef bolognese, chorizo bolognese, beef and chorizo bolognese, bolognese sauce, pasta sauce, meat sauce, italian sauce, ragu, beef ragu, chorizo ragu, pasta, spaghetti, comfort food, winter food, hearty meal, dinner recipe, easy bolognese, homemade bolognese, rich bolognese, slow cooked bolognese, beef and pork bolognese, spicy bolognese, chorizo pasta, beef pasta, italian cuisine, ground beef recipe, tomato sauce, red wine sauce",
+  "prepTime": "PT0H",
+  "cookTime": "PT2H",
+  "totalTime": "PT2H",
+  "recipeYield": "5 servings",
+  "recipeCuisine": [
+      "Italian",
+      "Spanish",
+      "European",
+      "Fusion"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Pasta Sauce",
+      "Dinner",
+      "Meat Sauce"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "600 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "1 kg Beef Mince",
+    "4 Medium Sized Chorizos",
+    "2 Brown Onions Diced",
+    "2 tsp Garlic Minced",
+    "2 tbsp Olive Oil",
+    "2 tsp Paprika",
+    "1 tsp Curry Powder",
+    "2 tsp Beef Stock Powder",
+    "1 Birdseye Chili Minced",
+    "3 tsp Oregano",
+    "800 g Tomatoes Diced",
+    "1 cup Dry Red Wine",
+    "2 tbsp Parmesan",
+    "2 tbsp Fresh Basil Leaves Finely Chopped"
+  ],
+  "ingredientKeywords": [
+    "Beef Mince",
+    "Beef",
+    "Chorizo",
+    "Onion",
+    "Brown Onion",
+    "Garlic",
+    "Olive Oil",
+    "Paprika",
+    "Curry Powder",
+    "Beef Stock Powder",
+    "Beef Stock",
+    "Birdseye Chili",
+    "Chili",
+    "Oregano",
+    "Tomato",
+    "Dry Red Wine",
+    "Red Wine",
+    "Wine",
+    "Parmesan",
+    "Cheese",
+    "Fresh Basil",
+    "Basil"
+  ],
+  "equipment": [
+    "Large Pan"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Brown Meat",
+      "url": 1,
+      "text": "Fry the onion and garlic in the olive oil for about 2 minutes or until the onion turns slightly translucent. Cut the Chorizos in half and then into bits. Add to the onions and brown. Add the beef mince and mix."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Add Spices",
+      "url": 2,
+      "text": "Once the beef mince is browned add the paprika, curry powder, beef stock powder, chili, oregano leaves, parmesan and basil. Mix through and fry for roughly 2 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Simmer",
+      "url": 3,
+      "text": "Add the tomatoes and red wine. Mix through and simmer. Simmer for about 1-2 hours with the top off and top up with water if it gets too dry (probably wont happen)."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Serve",
+      "url": 4,
+      "text": "Serve on your choice of pasta with some cheese and basil sprinkled on top! Enjoy!"
+    }
+  ],
+  "notes": [
+    "Can swap out the chorizo with bacon for a similarly rich flavor.",
+    "Love it over pasta with a stringy cheese like mozzarella."
+  ]
+}

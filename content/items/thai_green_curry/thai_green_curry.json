@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "thai_green_curry",
+  "name": "Thai Green Curry",
+  "image": [
+    "thai_green_curry_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "2023-02-16",
+  "lastMod": "2023-02-16",
+  "description": "Spicy curry perfect for warming yourself up in winter.",
+  "keywords": "thai green curry, green curry, thai curry, chicken curry, vegetable curry, thai chicken curry, easy curry, quick curry, weeknight dinner, dinner recipe, thai food, asian food, spicy curry, coconut curry, curry recipe, homemade curry, thai green curry paste, chicken thighs, snow peas, broccolini, thai basil, kaffir lime, fish sauce, healthy curry, winter warmer, comfort food, one pot meal, 30 minute meal",
+  "prepTime": "PT0H",
+  "cookTime": "PT40M",
+  "totalTime": "PT40M",
+  "recipeYield": "5 servings",
+  "recipeCuisine": [
+      "Thai",
+      "Southeast Asian",
+      "Asian"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Curry",
+      "Dinner",
+      "Stew",
+      "Comfort Food"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "500 calories per serving (estimate)"
+  },
+  "recipeIngredient": [
+    "120 grams Green Curry Paste (Maesri curry paste if available)",
+    "1 Red Onion",
+    "1 tbsp Peanut Oil",
+    "800 ml Coconut Milk",
+    "800 grams Chicken Thighs, cut into strips",
+    "2 tsp Chicken Stock Powder",
+    "10 Kaffir Lime Leaves",
+    "2 tbsp Thai Basil or Fresh Coriander Roughly chopped",
+    "2 tsp Fish Sauce",
+    "Assorted vegetables Snow Peas, Broccolini, Beans, Capsicum and/or Carrots work"
+  ],
+  "ingredientKeywords": [
+    "Green Curry Paste",
+    "Onion",
+    "Red Onion",
+    "Peanut Oil",
+    "Coconut Milk",
+    "Chicken",
+    "Chicken Thigh",
+    "Chicken Breast",
+    "Chicken Stock",
+    "Chicken Stock Powder",
+    "Kaffir Lime Leaf",
+    "Lime Leaf",
+    "Thai Basil",
+    "Fresh Coriander",
+    "Fish Sauce",
+    "Snow Pea",
+    "Broccolini",
+    "Green Bean",
+    "Bean",
+    "Capsicum",
+    "Carrot"
+  ],
+  "equipment": [
+    "Large Pot"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Prep Onions",
+      "url": 1,
+      "text": "Cook onion, oil and curry paste together over a medium heat until onions soften."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Cook Chicken",
+      "url": 2,
+      "text": "Add chicken and cook until sealed. Mixing while it cooks to ensure it cooks evenly."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Add The Rest",
+      "url": 3,
+      "text": "Once chicken is sealed add the rest of the ingredients and simmer until vegetables are cooked to your liking."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Serve",
+      "url": 4,
+      "text": "Ensure chicken is cooked through before serving. You can serve with just the vegetables to be healthy if you used enough or you can serve on top of some rice."
+    }
+  ],
+  "notes": [
+    "We like to have ours with just broccolini as shown in the picture. The heads soak up the juice making it super tasty. Normally we also have it with some carrots."
+  ]
+}

@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "chili_caramel_glaze",
+    "name": "Chili Caramel Glaze",
+    "image": [
+      "chili_caramel_glaze_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "datePublished": "2023-07-08",
+    "lastMod": "2023-07-08",
+    "description": "Spicy and sweet caramel glaze perfect for topping crispy pork belly or mixing into a summery noodle salad.",
+    "keywords": "Chili Caramel Glaze, Asian, Ingredient, Spicy, Sweet, Brown Sugar, Water, Lime Juice, Fish Sauce, Birdseye Chilis, Ginger, Garlic, Caramel, Glaze, Condiment, Sauce",
+    "prepTime": "PT0M",
+    "cookTime": "PT15M",
+    "totalTime": "PT15M",
+    "recipeYield": "170 ml",
+    "recipeCuisine": [
+      "Thai",
+      "Southeast Asian",
+      "Asian"
+    ],
+    "recipeCategory": [
+      "Condiment",
+      "Sauce",
+      "Glaze"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "70 calories per tablespoon (estimate)"
+    },
+    "recipeIngredient": [
+      "150g Brown Sugar",
+      "50ml Water",
+      "Juice of 1 Lime",
+      "1 tbsp Fish Sauce",
+      "6 Birdseye Chilis",
+      "1 knob of Ginger, Diced",
+      "2 Garlic Cloves, Diced"
+    ],
+    "ingredientKeywords": [
+      "Brown Sugar",
+      "Sugar",
+      "Lime Juice",
+      "Lime",
+      "Fish Sauce",
+      "Birdseye Chili",
+      "Chili",
+      "Ginger",
+      "Garlic"
+    ],
+    "equipment": [
+      "Small Pot",
+      "Storage Container"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Combine the brown sugar and water in a small pot over medium heat. Cook and stir until the mixture becomes a thick homogeneous mix.",
+        "name": "Heat sugar",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring the mixture to a boil and cook without stirring for about 6-8 minutes until the sugar caramelizes and darkens.",
+        "name": "Boil",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Stir in the lime juice and fish sauce, taking caution as it may spatter. Add the birdseye chilis, ginger, garlic, and lime zest. Cook for another 2 minutes.",
+        "name": "Mix the rest in",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove from heat, strain and allow to cool. The chili caramel glaze is now ready to serve!",
+        "name": "Strain and cool",
+        "url": 4
+      }
+    ],
+    "notes": [
+      "Absolutely fantastic over salads or crispy pork belly, or both!",
+      "Store in the fridge."
+    ]
+  }

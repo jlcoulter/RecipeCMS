@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "bratwurst_mince",
+    "name": "Bratwurst Mince",
+    "image": [
+        "bratwurst_mince_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "datePublished": "2025-01-01",
+    "lastMod": "2025-10-01",
+    "description": "A savory and aromatic German-style bratwurst mince, crafted from fatty pork and a classic blend of spices including mace, marjoram, and caraway. This versatile mix is perfect for creating homemade sausage patties, fillings for pastries, or as a flavorful base for various hearty dishes.",
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "keywords": "Bratwurst, pork mince, German recipe, homemade sausage, savory mince, ground pork, Oktoberfest food, spiced meat, marjoram, mace, caraway, white pepper, ginger, mustard powder, easy recipe, quick meal, pan-fried, comfort food, hearty, European cuisine, sausage filling, pork recipe",
+    "recipeYield": "4 Servings",
+    "recipeCuisine": [
+      "German",
+      "Central European",
+      "European"
+    ],
+    "recipeCategory": [
+      "Ingredient",
+      "Meat",
+      "Base Component"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "500-600 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "800g Fatty Pork Mince",
+        "2 tsp Salt",
+        "1 tsp ground White Pepper",
+        "1 tsp ground Black Pepper",
+        "1 tsp ground Mace",
+        "1 tsp ground Ginger",
+        "1 tsp ground Marjoram",
+        "3/4 tsp Mustard Powder",
+        "1/4 tsp ground Cardamom",
+        "1/4 tsp ground Coriander",
+        "1/4 tsp ground Caraway Seeds"
+    ],
+    "ingredientKeywords": [
+        "Pork",
+        "Pork Mince",
+        "White Pepper",
+        "Black Pepper",
+        "Pepper",
+        "Mace",
+        "Ginger",
+        "Marjoram",
+        "Mustard",
+        "Mustard Powder",
+        "Cardamom",
+        "Coriander",
+        "Caraway Seed",
+        "Caraway"
+    ],
+    "equipment": [
+        "Large Pan"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Mix everything together extremely thoroughly.",
+            "name": "Mix",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a hot pan, fry in a bit of oil until cooked through.",
+            "name": "Cook",
+            "url": 2
+        }
+    ],
+    "notes": [
+        "While depicted with sauerkraut and sour cream, this is really just a guide recipe for getting that bratwurst flavor for a mince mix so it can be used in something, like an oktoberfest strudle!",
+        "Need a fatty mince so it doesn't dry out."
+    ],
+    "relatedRecipes": [
+        "creamy_bratwurst_pasta",
+        "oktoberfest_strudle"
+    ]
+}

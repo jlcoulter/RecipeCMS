@@ -1,0 +1,77 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "aji_verde",
+    "name": "Aji Verde",
+    "image": [
+      "aji_verde_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Aji Verde, Peruvian Green Sauce, Spicy Sauce, Creamy Sauce, Jalapeno Sauce, Coriander Sauce, Cilantro Sauce, Greek Yoghurt Dip, Condiment, Dip, Peruvian Cuisine, South American, No-cook recipe, Blender recipe, Quick and Easy, Spicy, Creamy, Tangy, Garlic, Lime, Vegetarian, Gluten-Free",
+    "datePublished": "2025-06-22",
+    "lastMod": "2025-06-22",
+    "description": "A vibrant and creamy Peruvian green sauce, Aji Verde is a quick no-cook condiment that balances the spicy kick of jalapenos with the fresh taste of coriander and the tang of lime juice. Made smooth with Greek yoghurt and olive oil, it's a versatile sauce perfect as a dip or a topping for grilled meats and vegetables.",
+    "prepTime": "PT5M",
+    "cookTime": "PT0M",
+    "totalTime": "PT5M",
+    "recipeYield": "3/4 Cup",
+    "recipeCuisine": [
+      "Peruvian",
+      "South American",
+      "Latin American"
+    ],
+    "recipeCategory": [
+      "Condiment",
+      "Sauce",
+      "Dip",
+      "Side"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "60-80 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "3 Jalapenos",
+      "1 cup Fresh Coriander",
+      "2 Spring Onions",
+      "2 cloves Garlic",
+      "1/2 cup plain Greek Yoghurt",
+      "1 tbsp Lime Juice",
+      "2 tbsp Olive Oil"
+    ],
+    "ingredientKeywords": [
+      "Jalapeno",
+      "Fresh Coriander",
+      "Coriander",
+      "Spring Onion",
+      "Onion",
+      "Garlic",
+      "Greek Yoghurt",
+      "Yoghurt",
+      "Lime Juice",
+      "Olive Oil"
+    ],
+    "equipment": [
+      "Blender"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Blend all ingredients except olive oil and yoghurt. Slowly blend in olive oil. Mix in the yoghurt and season to taste with salt and pepper. Enjoy!",
+        "name": "Blend",
+        "url": 1
+      }
+    ],
+    "notes": [
+      "Original recipes contain mayonaise, personally I much prefer this with just the yoghurt but mix and match with mayo as desired!",
+      "If you blend in the yoghurt it gets watery.",
+      "Add or remove jalapenos as desired to make it milder or hotter, it doesn't change too much of the core flavour.",
+      "Fantastic fresh sauce that goes great with chicken wings, salads or rice dishes."
+    ],
+    "relatedRecipes": [
+      "peruvian_chicken_wings"
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "enoki_egg_and_bacon_breakfast",
+    "name": "Enoki Egg and Bacon Breakfast",
+    "image": [
+      "enoki_egg_and_bacon_breakfast_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "enoki mushrooms, eggs, bacon, breakfast, Japanese breakfast, savory breakfast, umami, garlic, ginger, mirin, rice wine vinegar, soy sauce, oyster sauce, honey, quick breakfast, easy breakfast, mushroom recipe, egg recipe, bacon recipe, one-pan breakfast",
+    "datePublished": "2025-04-27",
+    "lastMod": "2025-04-27",
+    "description": "A quick and flavorful Japanese-inspired breakfast featuring crispy bacon, tender enoki mushrooms, and eggs cooked in a savory sauce made with garlic, ginger, mirin, and soy sauce. A great way to start the day!",
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "recipeYield": "1 serving",
+    "recipeCuisine": [
+      "Japanese",
+      "Asian",
+      "Fusion"
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Brunch",
+      "One-Pan Meal"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "400-550 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "2 rasher of Bacon",
+      "3 Eggs",
+      "75g Enoki Mushrooms",
+      "3 cloves Garlic",
+      "1 tsp minced Ginger",
+      "2 tsp Mirin",
+      "2 tsp Rice Wine Vinegar",
+      "2 tsp Soy Sauce",
+      "2 tsp Oyster Sauce",
+      "1 tbsp Honey"
+    ],
+    "ingredientKeywords": [
+      "Bacon",
+      "Egg",
+      "Enoki Mushroom",
+      "Garlic",
+      "Ginger",
+      "Mirin",
+      "Rice Wine Vinegar",
+      "Vinegar",
+      "Soy Sauce",
+      "Oyster Sauce",
+      "Honey"
+    ],
+    "equipment": [
+      "Cast Iron Pan"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Dice the bacon and start frying it. After it crisps up a bit, add in the mushrooms, garlic and ginger. I like to cut the mushrooms in half to make them easier to fry/eat.",
+        "name": "Cook bacon",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry the mix over a medium head until the mushrooms get all floppy. Add in the sauce ingredients, mix thoroughly and crack the eggs in over the top.",
+        "name": "Fry mushrooms",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cover and cook over a medium-low heat until the eggs are cooked to your liking. Needs to be a low heat otherwise the honey will burn ruining everything. Over low you'll get a lovely caramel gooey mess.",
+        "name": "Cover and cook eggs",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once cooked to your liking, serve!",
+        "name": "Serve",
+        "url": 4
+      }
+    ],
+    "notes": [
+      "When serving I love this with fresh sourdough, kewpie mayo and fresh chili. Also really good with pickled ginger to add some freshness.",
+      "When frying up the bacon, also really good with some finely diced onion mixed in.",
+      "I love ginger so this has alot, for most people you could probably halve it. I normally do a knob of fresh ginger.",
+      "Works with just about any protein you like really, I just love it with bacon."
+    ]
+  }

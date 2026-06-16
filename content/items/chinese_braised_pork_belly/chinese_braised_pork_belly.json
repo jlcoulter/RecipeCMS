@@ -1,0 +1,91 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "chinese_braised_pork_belly",
+  "name": "Chinese Braised Pork Belly",
+  "image": [
+    "chinese_braised_pork_belly_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "keywords": "Chinese, Braised, Pork, Pork Belly, Hong Shao Rou, Shaoxing Wine, Soy Sauce, Ginger, Star Anise, Bay Leaves, Sugar, Asian Cuisine, Main Course, Comfort Food, Savory, Rich Flavor, Tender Pork, Glazed Pork, Slow Cooked, One Pot Meal, Easy Recipe, Dinner, Rice Dish, Braising, Traditional Chinese",
+  "datePublished": "2025-05-31",
+  "lastMod": "2025-05-31",
+  "description": "Amazingly simple and versatile way of preparing pork belly. Great over rice, as part of a stir fry or as a side in a huge banquet. Most importantly though... Very Delicious!",
+  "prepTime": "PT10M",
+  "cookTime": "PT1H20M",
+  "totalTime": "PT1H30M",
+  "recipeYield": "4 Servings",
+  "recipeCuisine": [
+      "Chinese",
+      "Asian",
+      "Shanghainese"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Stew",
+      "Braise",
+      "Meat",
+      "Comfort Food"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "840-900 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "600g Pork Belly",
+    "250ml Shaoxing Rice Wine",
+    "2 tbsp Light Soy Sauce",
+    "1 tbsp Dark Soy Sauce",
+    "3cm knob Ginger",
+    "2 Star Anise",
+    "2 Bay Leaves",
+    "1 tbsp White Sugar"
+  ],
+  "ingredientKeywords": [
+    "Pork",
+    "Pork Belly",
+    "Shaoxing Rice Wine",
+    "Shaoxing Wine",
+    "Shaoxing Cooking Wine",
+    "Chinese Cooking Wine",
+    "Rice Wine",
+    "Light Soy Sauce",
+    "Dark Soy Sauce",
+    "Soy Sauce",
+    "Ginger",
+    "Star Anise",
+    "Bay Leaf",
+    "White Sugar",
+    "Sugar",
+    "Rock Sugar"
+  ],
+  "equipment": [
+    "Medium Pot"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Cut the pork belly into bite sized chunks. In a large pot, bring water to boil and quickly boil the pork. Skim off any scum and then drain the pork.",
+      "name": "Prep Pork",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Put everything into a pot/pan (with a lid) except the sugar and then add water until the pork is just above the water line. Simmer with the lid on for about 1-2 hours, or until the pork is tender.",
+      "name": "Simmer",
+      "url": 2
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Uncover, add the sugar and bring to raging boil and reduce the sauce until it starts to thicken. Serve over rice with steamed vegetables or have as a side dish.",
+      "name": "Reduce Sauce and Serve",
+      "url": 3
+    }
+  ],
+  "notes": [
+    "Fantastic base recipe which is easy to play with as desired. You can add chili, garlic or other spices to add other flavors."
+  ]
+}

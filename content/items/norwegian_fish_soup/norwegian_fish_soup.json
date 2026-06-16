@@ -1,0 +1,115 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "norwegian_fish_soup",
+    "name": "Norwegian Fish Soup (Fiskesuppe)",
+    "image": [
+        "norwegian_fish_soup_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "datePublished": "2025-10-18",
+    "lastMod": "2025-10-30",
+    "description": "A rich and creamy Norwegian fish soup, featuring a delightful mix of salmon, prawns, and mussels. This hearty main course is simmered with vegetables like carrot, fennel, and leek in a flavourful fish stock and cream base, perfect for a comforting meal.",
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "keywords": "Norwegian fish soup, creamy fish soup, salmon soup, seafood chowder, Scandinavian recipe, Bergen fish soup, fiskesuppe, main course, comfort food, dinner, easy seafood recipe, fennel, leek, prawns, mussels, heavy cream, sour cream, dill, chives, potato soup, winter meal",
+    "recipeYield": "2 Servings",
+    "recipeCuisine": [
+      "Norwegian",
+      "Scandinavian",
+      "European"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Soup",
+      "Seafood",
+      "Stew",
+      "Chowder"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1000-1200 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "400g Salmon",
+        "8 large Prawns",
+        "8 Mussels",
+        "25g Salted Butter",
+        "1 medium Carrot",
+        "Half a Fennel Bulb",
+        "Half a Leek",
+        "1 medium Potato",
+        "500ml Fish Stock",
+        "150ml Heavy Cream",
+        "150ml Sour Cream",
+        "1 tsp White Wine Vinegar",
+        "Salt and Pepper to taste",
+        "Lemon Juice to taste",
+        "Dill and Chives to top"
+    ],
+    "ingredientKeywords": [
+        "Salmon",
+        "Prawn",
+        "Mussel",
+        "Salted Butter",
+        "Butter",
+        "Carrot",
+        "Fennel",
+        "Fennel Bulb",
+        "Leek",
+        "Potato",
+        "Fish Stock",
+        "Cream",
+        "Heavy Cream",
+        "Sour Cream",
+        "White Wine Vinegar",
+        "Vinegar",
+        "Dill",
+        "Chive",
+        "Lemon Juice",
+        "Lemon"
+    ],
+    "equipment": [
+        "Medium Pot"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Finely dice carrot, leek and fennel bulb. Saute with the butter in the pot for about 8 minutes.",
+            "name": "Prep veg",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add fish stock and simmer with the potatoes for about 8 minutes.",
+            "name": "Simmer potatoes",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Cut the fish and prawns into pieces and simmer with the mussels until cooked through. Lower the heat.",
+            "name": "Cook the fish",
+            "url": 3
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix the heavy cream, sour cream and couple spoons of the broth. Add back to the pot.",
+            "name": "Add cream",
+            "url": 4
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Season to taste with vinegar, sugar, salt, pepper and lemon juice. Serve with dill and chives and some sourdough on the side.",
+            "name": "Season and serve",
+            "url": 5
+        }
+    ],
+    "notes": [
+        "Good with a bit of dry white wine too in the broth. If you're adding it, add it with the fish stock.",
+        "I like it with salmon but sub in any fish you like poached. Also any other type of seafood, doesn't have to be mussels and prawn."
+    ]
+}

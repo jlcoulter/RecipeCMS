@@ -1,0 +1,114 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "dark_chocolate_fudgy_brownies",
+    "name": "Dark Chocolate Fudgy Brownies",
+    "image": [
+      "dark_chocolate_fudgy_brownies_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Chocolate, Dessert, Easy, Snack, Sweet, Brownies, Dark Chocolate, Fudgy, Baking, Treat, Party Food, Afternoon Tea, Kid Friendly, Simple, Delicious, Homemade, Chocolate Lovers",
+    "datePublished": "2024-08-20",
+    "lastMod": "2024-08-20",
+    "description": "Rich and easy to make dark chocolate brownies perfect for snacking on.",
+    "prepTime": "PT15M",
+    "cookTime": "PT45M",
+    "totalTime": "PT1H",
+    "recipeYield": "10 Servings",
+    "recipeCuisine": [
+      "American",
+      "Western"
+    ],
+    "recipeCategory": [
+      "Dessert",
+      "Baking",
+      "Snack",
+      "Sweet Treat",
+      "Comfort Food"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "200 calories per brownie (estimate)"
+    },
+    "recipeIngredient": [
+      "1/2 cup Salted Butter, melted",
+      "1 cup White Sugar",
+      "3 Eggs",
+      "2 tsp Vanilla Extract",
+      "1/2 cup Plain Flour",
+      "1/2 cup Cocoa Powder",
+      "200g Dark Chocolate, roughly chopped"
+    ],
+    "ingredientKeywords": [
+      "Butter",
+      "Salted Butter",
+      "White Sugar",
+      "Sugar",
+      "Egg",
+      "Vanilla Extract",
+      "Vanilla",
+      "Flour",
+      "Plain Flour",
+      "All Purpose Flour",
+      "Cocoa Powder",
+      "Cocoa",
+      "Dark Chocolate",
+      "Chocolate"
+    ],
+    "equipment": [
+      "16cm Square Baking Tray",
+      "Baking Paper"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat the oven to 180°C.",
+        "name": "Preheat Oven",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Line a 16cm-ish square baking tin with baking paper.",
+        "name": "Prepare Tin",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Combine the melted butter and sugar together in a bowl. Whisk for about a minute until nicely combined. Add the eggs and vanilla. Again beat until lighter in colour, for about a minute.",
+        "name": "Combine Ingredients",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Sift in the flour and cocoa powder, then add in the dark chocolate. Gently fold the ingredients together until just combined. Be careful not to overmix.",
+        "name": "Add Dry Ingredients",
+        "url": 4
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Put the batter in the tin and smooth out to be even.",
+        "name": "Pour Batter",
+        "url": 5
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake for about 30-40 minutes, longer for crispier edges and harder insides.",
+        "name": "Bake",
+        "url": 6
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Remove and allow to cool to room temperature before slicing into 10 brownies.",
+        "name": "Cool and Slice",
+        "url": 7
+      }
+    ],
+    "notes": [
+      "Also great with walnuts mixed in.",
+      "For a fudgier brownie, underbake slightly.",
+      "Dust with powdered sugar before serving for an extra touch."
+    ]
+  }

@@ -1,0 +1,100 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "spicy_pulled_pork",
+    "name": "Spicy Pulled Pork",
+    "image": [
+        "spicy_pulled_pork_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "keywords": "Spicy Pulled Pork, pulled pork recipe, slow cooker pork, Dutch oven pork, Mexican cuisine, spicy pork, pork shoulder recipe, pork scotch roast, slow-cooked pork, shredded pork, main course, dinner, easy recipe, comfort food, taco filling, burrito filling, pork and spices, tomato-based sauce, tender pork, juicy pork, party food, meal prep, cumin, cayenne, cinnamon pork",
+    "datePublished": "2025-07-05",
+    "lastMod": "2025-07-05",
+    "description": "A flavorful and tender Spicy Pulled Pork, slow-cooked to perfection with a rich blend of aromatic spices, tomatoes, onion, and leek. This versatile Mexican-inspired dish is perfect for filling tacos and burritos, or serving alongside rice.",
+    "prepTime": "PT15M",
+    "cookTime": "PT4H",
+    "totalTime": "PT4H15M",
+    "recipeYield": "10 Servings",
+    "recipeCuisine": [
+      "Mexican",
+      "Tex-Mex",
+      "Latin American"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Filling",
+      "Slow Cooker",
+      "Dinner",
+      "Comfort Food"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "550-650 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "2kg Pork Scotch Roast",
+        "1 tbsp Salt",
+        "1 tbsp Brown Sugar",
+        "1 tsp Ground Cumin",
+        "½ tsp Cayenne",
+        "½ tsp Turmeric",
+        "½ tsp Dried Oregano",
+        "1 diced Onion",
+        "1 diced Leek",
+        "6 minced Garlic Cloves",
+        "1 Cinnamon Stick",
+        "6 Cloves",
+        "800g diced Tomatoes",
+        "2 tbsp Apple Cider Vinegar"
+    ],
+    "ingredientKeywords": [
+        "Pork Scotch Roast",
+        "Pork Roast",
+        "Pork",
+        "Brown Sugar",
+        "Sugar",
+        "Ground Cumin",
+        "Cumin",
+        "Cayenne",
+        "Cayenne Pepper",
+        "Turmeric",
+        "Oregano",
+        "Dried Oregano",
+        "Onion",
+        "Leek",
+        "Garlic",
+        "Cinnamon",
+        "Clove"
+    ],
+    "equipment": [
+        "Large Pot",
+        "Dutch Oven"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "In a large pot or dutch oven brown the pork on all sides.",
+            "name": "Brown pork",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add everyone to the vessel and slow cook for about 4h or until it falls apart.",
+            "name": "Slow cook",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Fish out any chunks of cinnamon and cloves. Reduce the sauce, season to taste and enjoy!",
+            "name": "Reduce",
+            "url": 3
+        }
+    ],
+    "notes": [
+        "I like to reserve a bit of sauce and then fry the meat. Once you get crispy bits then serve. When serving, add some extra sauce for juice.",
+        "Really great with fresh lime served with rice, in a burrito or in tacos. Very versatile."
+    ]
+}

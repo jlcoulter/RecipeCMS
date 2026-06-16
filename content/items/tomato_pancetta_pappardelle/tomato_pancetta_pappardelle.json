@@ -1,0 +1,107 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "tomato_pancetta_pappardelle",
+  "name": "Tomato and Pancetta Pappardelle",
+  "image": [
+    "tomato_pancetta_pappardelle_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "keywords": "pancetta pasta, pappardelle recipe, Italian cuisine, tomato sauce, main course, dinner recipe, comfort food, red wine sauce, spicy pasta, easy pasta dish, weeknight dinner, homemade pasta sauce, crispy pancetta, cherry tomato pasta, Italian dinner, savory pasta, pasta with pancetta and tomato, garlic, onion, capsicum, chili",
+  "datePublished": "2025-08-03",
+  "lastMod": "2025-08-03",
+  "description": "A rich and savory Italian pasta dish featuring wide pappardelle noodles tossed in a flavourful sauce made from crispy pancetta, cherry and sundried tomatoes, roasted capsicum, and dry red wine. This hearty main course is given a gentle kick with birdseye chilis and finished with a sprinkle of Parmesan cheese and a squeeze of fresh lemon.",
+  "prepTime": "PT5M",
+  "cookTime": "PT45M",
+  "totalTime": "PT50M",
+  "recipeYield": "2 Servings",
+  "recipeCuisine": [
+      "Italian",
+      "Mediterranean",
+      "European"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Pasta",
+      "Dinner"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "850-950 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "150-200g Pappardelle",
+    "200g Flat Pancetta",
+    "100g Cherry Tomatoes",
+    "4 Sundried Tomatoes",
+    "1 Roasted Capsicum",
+    "4 minced Garlic Cloves",
+    "1 minced small Brown Onion",
+    "2 Birdseye Chilis",
+    "100ml Dry Red Wine",
+    "1 tsp Paprika",
+    "Parmesan to serve",
+    "Lemon Wedge"
+  ],
+  "ingredientKeywords": [
+    "Pappardelle",
+    "Pasta",
+    "Flat Pancetta",
+    "Pancetta",
+    "Cherry Tomato",
+    "Tomato",
+    "Roasted Capsicum",
+    "Capsicum",
+    "Sundried Tomato",
+    "Garlic",
+    "Onion",
+    "Brown Onion",
+    "Dry Red Wine",
+    "Red Wine",
+    "Wine",
+    "Paprika",
+    "Parmesan",
+    "Lemon",
+    "Lemon Juice",
+    "Fresh Lemon",
+    "Birdseye Chili",
+    "Chili"
+  ],
+  "equipment": [
+    "Medium Pan",
+    "Medium Pot"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Dice pancetta into small bits and fry until crisp. Remove pancetta bits from the pan, you should have a good amount of fat leftover.",
+      "name": "Crisp Pancetta",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the fat, fry the onion until soft. About 10m. Dice the tomatoes, capsicum and chilis and add to the pan. Add the garlic, paprika, wine, and cook until it starts to turn into a thick sauce. Season to taste with salt, pepper and/or sugar to your liking.",
+      "name": "Cook sauce",
+      "url": 2
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cook the pasta to how you like it. When done, mix it with a couple of tablespoons of pasta water in the sauce.",
+      "name": "Mix Pasta",
+      "url": 3
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Serve topped with parmesan, lemon juice and crispy pancetta bits. Enjoy!",
+      "name": "Serve",
+      "url": 4
+    }
+  ],
+  "notes": [
+    "Works fine with streaky bacon too in place of pancetta.",
+    "Flat pancetta is important because it has all the great fat that renders down and can be used for frying."
+  ]
+}

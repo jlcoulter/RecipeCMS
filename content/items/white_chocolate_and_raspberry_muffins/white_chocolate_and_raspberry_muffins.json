@@ -1,0 +1,113 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "white_chocolate_and_raspberry_muffins", 
+    "name": "White Chocolate and Raspberry Muffins",
+    "image": [
+        "white_chocolate_and_raspberry_muffins_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "Fin"
+    },
+    "keywords": "Muffins, White Chocolate, Raspberry, Dessert, Snack, Baking, Easy, Moist, Delicious, Gathering, Family Recipe, Quick Baking, Homemade, Bakery, Sweet Treat, Fruity, Simple Baking, Party, Teatime, Moist Muffins, Breakfast, Brunch, Easy Baking, Dense, Flavorful, Weekend Baking, Yummy, Tasty, Home Baking, Raspberry Muffins, White Chocolate Chunks, Bakery-Style, Baking Tips, Classic Recipe",
+    "datePublished": "2025-03-10",
+    "lastMod": "2025-03-10",
+    "description": "Delicious moist muffins that are great for a snack or gathering.",
+    "prepTime": "PT15M", 
+    "cookTime": "PT25M", 
+    "totalTime": "PT40M", 
+    "recipeYield": "12 muffins",
+    "recipeCuisine": [
+      "American",
+      "Western"
+    ],
+    "recipeCategory": [
+      "Dessert",
+      "Breakfast",
+      "Snack",
+      "Bakery"
+    ], 
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "438 calories per muffin (estimated)" 
+    },
+    "recipeIngredient": [
+        "3 cups All-Purpose Flour",
+        "3 tsp Baking Powder",
+        "1/4 tsp Baking Soda",
+        "100g Salted Butter, melted",
+        "100ml Vegetable Oil",
+        "1 cup Sugar",
+        "2 Eggs",
+        "1/3 cup Sour Cream",
+        "1 cup Milk",
+        "1 tsp Vanilla Extract",
+        "200g White Chocolate, in chunks",
+        "200g fresh Raspberries, roughly chopped"
+    ],
+    "ingredientKeywords": [ 
+        "All Purpose Flour",
+        "Plain Flour",
+        "Flour",
+        "Baking Powder",
+        "Baking Soda",
+        "Salted Butter",
+        "Butter",
+        "Vegetable Oil",
+        "Sugar",
+        "Egg",
+        "Sour Cream",
+        "Milk",
+        "Vanilla Extract",
+        "Vanilla",
+        "White Chocolate",
+        "Chocolate",
+        "Raspberry"
+    ],
+    "equipment": [
+      "Muffin Tray",
+      "Oven"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 180°C. Grease or line a 12 muffin tray ready for the mix.",
+            "name": "Prep", 
+            "url": 1 
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Whisk the flour, baking powder and baking soda together in a large bowl.",
+            "name": "Combine dry ingredients", 
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a separate bowl whisk the melted butter, oil, sugar, and eggs together until combined well. Whisk in the sour cream, milk, and vanilla extract until the mix turns a pale yellow.",
+            "name": "Combine wet ingredients", 
+            "url": 3
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour your wet ingredients into the bowl of dry ingredients and fold together until just combined, don't overmix. It should be nice and thick. Then fold in the chocolate chips and raspberries.",
+            "name": "Combine wet and dry ingredients", 
+            "url": 4
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Pour your batter into the muffin tray dividing it equally. Sprinkle with a bit of sugar to form a nice crust on the top when it bakes. Bake for roughly 25-30 minutes or until golden and set. Clean toothpick/skewer means done.",
+            "name": "Bake", 
+            "url": 5
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Allow to cool to room temperature before serving and enjoying!",
+            "name": "Cool and serve", 
+            "url": 6
+        }
+    ],
+    "notes": [
+        "Experiment increasing the amount of wet ingredients to create a denser muffin" 
+    ]
+}

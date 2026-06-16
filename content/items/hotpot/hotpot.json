@@ -1,0 +1,111 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "hotpot",
+    "name": "Hotpot for 1 (or more)",
+    "image": [
+        "hotpot_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "keywords": "Hotpot, Chinese Hotpot, Single Serving Hotpot, Spicy Soup, Noodle Soup, Asian Cuisine, One-Pot Meal, Quick Dinner, Easy Recipe, Customizable Hotpot, Sichuan Hotpot, Homemade Hotpot, Comfort Food, Pork, Prawns, Wontons, Fish Balls, Tofu, Enoki Mushrooms, Pak Choy, Spicy Broth, Chili Oil, Chinese Black Vinegar, Ginger Garlic Broth",
+    "datePublished": "2025-04-28",
+    "lastMod": "2025-04-28",
+    "description": "A quick and customizable single-serving hotpot featuring a savory and spicy broth made with a pre-made base, soy sauce, black vinegar, and crunchy chili oil. This one-pot meal is perfect for a satisfying dinner, allowing you to add your favorite ingredients like thinly sliced meats, seafood, wontons, tofu, fresh vegetables, and noodles.",
+    "prepTime": "PT5M",
+    "cookTime": "PT10M",
+    "totalTime": "PT15M",
+    "recipeYield": "1 serving",
+    "recipeCuisine": [
+      "Chinese",
+      "Asian",
+      "East Asian"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Soup",
+      "Dinner",
+      "Comfort Food"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "700-1500 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "Hotpot Base:",
+        "1/3 Hotpot Based (from the pic)",
+        "1 tsp Soy Sauce",
+        "1 tsp Chinese Black Vinegar",
+        "1 tbsp Crunchy Chili Oil",
+        "2 cloves of Garlic",
+        "2 fat slices of Ginger",
+        "1 cup Water",
+        "",
+        "Add ins:",
+        "Thinly sliced meat",
+        "Prawns",
+        "Wontons",
+        "Fish Balls",
+        "Puffed Tofu",
+        "Pak Choy",
+        "Enoki Mushrooms",
+        "Thinly sliced Spring Onions",
+        "Noodles",
+        "Bean Sprouts",
+        "Thinly Sliced Carrot",
+        "Thinly Sliced Capsicum",
+        "Oyster Mushrooms"
+    ],
+    "ingredientKeywords": [
+        "Soy Sauce",
+        "Chinese Black Vinegar",
+        "Black Vinegar",
+        "Vinegar",
+        "Crunchy Chili Oil",
+        "Chili Oil",
+        "Garlic",
+        "Ginger",
+        "Pork",
+        "Beef",
+        "Lamb",
+        "Prawn",
+        "Wonton",
+        "Fish Ball",
+        "Fish",
+        "Puffed Tofu",
+        "Tofu",
+        "Pak Choy",
+        "Enoki Mushroom",
+        "Spring Onion",
+        "Onion",
+        "Noodle",
+        "Bean Sprout",
+        "Sprout",
+        "Carrot",
+        "Capsicum",
+        "Oyster Mushroom",
+        "Mushroom"
+    ],
+    "equipment": [
+        "Medium Pot"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Bring hotpot base ingredients to a boil.",
+            "name": "Prep base",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add ingredients in order of cook time. Top with water as required. Once desired items cooked, take off the heat and top with sprouts and spring onions.",
+            "name": "Prep base",
+            "url": 2
+        }
+    ],
+    "notes": [
+        "The add ins are all optional. They're a list of ones I enjoy. My core ones that I go for are the thinly sliced pork, puffed tofu, enoki mushrooms, wontons, noodles, pak choy, sprouts and spring onions."
+    ]
+}

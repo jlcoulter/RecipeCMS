@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "porchetta_sandwich",
+  "name": "Porchetta Sandwich",
+  "image": [
+    "porchetta_sandwich_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "keywords": "Porchetta, Sandwich, Italian Cuisine, Pork, Pork Belly, Rocket, Arugula, Onion Relish, Lemon Mayo, Bread, Main Course, Quick Meal, Easy Recipe, Savory, Meat, Lunch, Dinner, Panini, Ciabatta, Rustic Bread",
+  "datePublished": "2025-04-11",
+  "lastMod": "2025-04-11",
+  "description": "A flavorful Porchetta Sandwich featuring succulent slices of porchetta, fresh rocket, sweet onion relish, and zesty lemon mayo, all nestled in delicious bread. A delightful Italian-inspired main course perfect for a quick and satisfying meal.",
+  "prepTime": "PT20M",
+  "cookTime": "PT0M",
+  "totalTime": "PT20M",
+  "recipeYield": "1 Serving",
+  "recipeCuisine": [
+      "Italian",
+      "Modern European",
+      "Western"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Sandwich",
+      "Lunch",
+      "Quick Meal"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "600-800 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "Slices of Porchetta",
+    "Rocket",
+    "Onion Relish",
+    "Lemon Mayo",
+    "Bread"
+  ],
+  "ingredientKeywords": [
+    "Pork",
+    "Pork Belly",
+    "Porchetta",
+    "Rocket",
+    "Onion",
+    "Onion Relish",
+    "Lemon",
+    "Mayo",
+    "Lemon Mayo",
+    "Bread"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "For the lemon mayo, mix some lemon zest, lemon juice and mayo together until you get a wonderfully lemony mayo.",
+      "name": "Prep the mayo",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stack the sandwich with all your ingredients and make sure you get some thick slices of porchetta!",
+      "name": "Stack the sandwich",
+      "url": 2
+    }
+  ],
+  "notes": [
+    "Easy and fantastic way of having porchetta. Also really great with salsa verde, really brings an explosion of flavors to the mix, not that you really need it but still!"
+  ]
+}

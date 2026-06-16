@@ -1,0 +1,96 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "kedgeree",
+    "name": "Kedgeree",
+    "image": [
+      "kedgeree_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "datePublished": "2025-02-08",
+    "lastMod": "2025-02-08",
+    "description": "Curried fishy goodness with plenty of flavor!",
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "keywords": "Kedgeree, Indian Cuisine, Fish Recipe, Salmon Dish, Rice Dish, Curry Powder, Hardboiled Eggs, Ghee, Coriander, Lemon, Quick Dinner, Easy Meal",
+    "recipeYield": "4 servings",
+    "recipeCuisine": [
+      "Anglo-Indian",
+      "British",
+      "Indian"
+    ],
+    "recipeCategory": [
+      "Breakfast",
+      "Brunch",
+      "Main Course",
+      "Rice Dish"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "550 calories"
+    },
+    "recipeIngredient": [
+      "2 cups Cooked Rice",
+      "2 400g tins Pink Salmon",
+      "2 Onions diced",
+      "6 hardboiled Eggs",
+      "2 Lemons juiced",
+      "3 tbsp Curry Powder",
+      "2 tbsp Ghee",
+      "Fresh Coriander to serve"
+    ],
+    "ingredientKeywords": [
+      "White Rice",
+      "Brown Rice",
+      "Rice",
+      "Salmon",
+      "Pink Salmon",
+      "Onion",
+      "Egg",
+      "Hardboiled Egg",
+      "Lemon",
+      "Lemon Juice",
+      "Curry Powder",
+      "Coriander",
+      "Fresh Coriander",
+      "Coriander Leaf",
+      "Ghee"
+    ],
+    "equipment": [
+      "Large Pan"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "name": "Prep Onion",
+        "text": "Heat ghee and fry the onion in a large pan. Stirring and cooking until softened, about 5m.",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Add Curry Powder",
+        "text": "Add the curry powder and cook for about 1 minute, stirring the whole time to ensure it doesn't start to burn.",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Mix everything",
+        "text": "Lower the heat. Add the salmon, rice and lemon juice mixing thoroughly. If you want a healthy addition you can add peas and/or corn at this stage. Taste and add some salt to improve flavor. Cut the heat.",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Serve it up",
+        "text": "Serve with coriander, sliced eggs and additional lemon slices for those who want more lemony goodness.",
+        "url": 4
+      }
+    ],
+    "notes": [
+      "Great with crispy bacon or topped with crispy chilli oil for an extra kick.",
+      "I like to add fresh chilis during the cooking process to add a bit of heat to it along with some extra flavor."
+    ]
+  }

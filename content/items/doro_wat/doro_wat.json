@@ -1,0 +1,117 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "doro_wat",
+  "name": "Doro Wat",
+  "image": [
+    "doro_wat_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "keywords": "Doro Wat, Ethiopian Chicken Stew, Berbere Recipe, Niter Kibbeh, Spicy Chicken, African Cuisine, Slow Cooked Onions, Main Course, Dinner Party Recipes, Comfort Food, Chicken Thighs, Hard Boiled Eggs, Traditional Ethiopian, Spicy Stew, Winter Warmer, High Protein, Stewed Chicken, Caramelized Onions, Exotic Dinner, Hearty Meal, Gluten Free Options",
+  "datePublished": "2025-12-22",
+  "lastMod": "2025-12-22",
+  "description": "A rich and spicy Ethiopian chicken stew, slow-cooked with a deep base of caramelized red onions, aromatic berbere spice, and niter kibbeh. This hearty main course features tender chicken thighs and hard-boiled eggs, perfect for serving with injera or rice.",
+  "prepTime": "PT10M",
+  "cookTime": "PT2H30M",
+  "totalTime": "PT2H40M",
+  "recipeYield": "6 Servings",
+  "recipeCuisine": [
+      "Ethiopian",
+      "East African",
+      "African"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Stew",
+      "Curry",
+      "Spicy",
+      "Poultry"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "450-550 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "1kg Chicken Thighs",
+    "8 minced Garlic Cloves",
+    "2 inches minced Ginger",
+    "6 Red Onions",
+    "2 tbsp Tomato Paste",
+    "3 tbsp Berbere",
+    "3 tbsp Niter Kibbeh",
+    "8 Green Cardamom Pods",
+    "1 cup Chicken Stock",
+    "6 hard boiled Eggs",
+    "Salt and Pepper to taste",
+    "",
+    "To Serve:",
+    "Lemon Juice",
+    "Fresh Coriander",
+    "Greek Yoghurt",
+    "Injera (Or some other kind of flatbread)"
+  ],
+  "ingredientKeywords": [
+    "Chicken Thigh",
+    "Chicken",
+    "Chicken Stock",
+    "Garlic",
+    "Ginger",
+    "Red Onion",
+    "Onion",
+    "Tomato Paste",
+    "Tomato",
+    "Berbere",
+    "Niter Kibbeh",
+    "Cardamom Pod",
+    "Green Cardamom Pod",
+    "Cardamom",
+    "Egg",
+    "Hardboiled Egg",
+    "Pepper",
+    "Black Pepper",
+    "Lemon",
+    "Lemon Juice",
+    "Coriander",
+    "Fresh Coriander",
+    "Greek Yoghurt",
+    "Yoghurt",
+    "Injera"
+  ],
+  "equipment": [
+    "Large Pot"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Dice onions and add them to a large pot with a little bit of the niter kibbeh. Over a low heat with the lid off, cook the onions down for about 1-1.5 hours until the onions are a deep golden colour.",
+      "name": "Cook down onions",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add to the pot the minced garlic, minced ginger and the tomato paste. Saute for about 3-4 minutes.",
+      "name": "Saute garlic",
+      "url": 2
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add berbere and saute for about 2 minutes. Add the rest of the niter kibbeh, cardamom pods, the chicken stock and the chicken. Add just enough water to cover the chicken and simmer for about 40 minutes.",
+      "name": "Add the rest",
+      "url": 3
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once the chicken is tender and cooked through, add the eggs and simmer for about 10 minutes. Add salt and pepper to taste, and depending on how thick you want want the sauce, add a bit more water to your liking. Serve with injera if you have any otherwise rice goes pretty well too.",
+      "name": "Add eggs and serve",
+      "url": 4
+    }
+  ],
+  "notes": [
+    "The yoghurt and coriander aren't traditional (the whole recipe probably isn't) but I quite like them as an addition.",
+    "Definitely best with injera but if you don't have any, it can be hard to find/make, other flatbread will do.",
+    "Also great with rice as many curries are. Really, just eat it how you like or with what you have!"
+  ]
+}

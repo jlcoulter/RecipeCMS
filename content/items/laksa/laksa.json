@@ -1,0 +1,147 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "laksa",
+  "name": "Laksa",
+  "image": [
+    "laksa_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "keywords": "Laksa, Noodle Soup, Spicy Soup, Coconut Milk Soup, Southeast Asian Cuisine, Malaysian Cuisine, Singaporean Cuisine, Asian Noodles, Lemongrass, Chili Pepper, Kaffir Lime Leaves, Laksa Paste, Tom Yum Paste, Coconut Milk, Hokkien Noodles, Prawns, Chicken, Tofu, Main Course, Homemade Recipe, Spicy Broth, Aromatic Soup, Fish Sauce, Ginger, Coriander, Bean Sprouts, Comfort Food, Curry Laksa",
+  "datePublished": "2025-05-29",
+  "lastMod": "2025-05-29",
+  "description": "Indulge in this homemade Laksa, a rich and aromatic Southeast Asian spicy noodle soup. This recipe features a creamy coconut milk broth infused with lemongrass, ginger, kaffir lime leaves, Laksa paste, and Tom Yum paste, offering a customisable experience with various optional fillings like chicken, prawns, tofu, and fresh vegetables, all topped with vibrant garnishes.",
+  "prepTime": "PT10M",
+  "cookTime": "PT50M",
+  "totalTime": "PT1H",
+  "recipeYield": "4 Servings",
+  "recipeCuisine": [
+      "Malaysian",
+      "Peranakan",
+      "Singaporean",
+      "Southeast Asian"
+    ],
+    "recipeCategory": [
+      "Noodle Soup",
+      "Main Course",
+      "Soup",
+      "One-Pot Meal"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "700-1100 calories per serving (estimated, assumes 4-6 servings and includes noodles and some fillings)"
+  },
+  "recipeIngredient": [
+    "Broth:",
+    "1 tbsp Peanut Oil",
+    "1 tsp Chili Oil",
+    "1 Red Onion",
+    "1 tbsp Lemongrass, minced",
+    "1 inch knob Ginger",
+    "4 cloves Garlic, minced",
+    "10 Kaffir Lime Leaves",
+    "1 tbsp Laksa Paste",
+    "2 tbsp Tom Yum Paste",
+    "2 tbsp Palm Sugar",
+    "2 tbsp Fish Sauce",
+    "1/2 cup Chicken Stock",
+    "3 400g tins Coconut Milk",
+    "",
+    "Fillings (all optional):",
+    "Char Siu",
+    "Chicken",
+    "Prawns",
+    "Beans",
+    "Carrot",
+    "Capsicum",
+    "Brocolli",
+    "Puffed Tofu",
+    "Pak Choy",
+    "Hokkien Noodles",
+    "Vermicelli Noodles",
+    "",
+    "Garnish (all optional):",
+    "Fresh Chili",
+    "Lime",
+    "Fresh Coriander",
+    "Bean Sprouts",
+    "Crispy Onion or Garlic bits"
+  ],
+  "ingredientKeywords": [
+    "Peanut Oil",
+    "Chili Oil",
+    "Red Onion",
+    "Onion",
+    "Lemongrass",
+    "Ginger",
+    "Lime Leaf",
+    "Kaffir Lime Leaf",
+    "Laksa Paste",
+    "Tom Yum Paste",
+    "Palm Sugar",
+    "Fish Sauce",
+    "Chicken Stock",
+    "Coconut Milk",
+    "Char Siu",
+    "Chicken",
+    "Prawn",
+    "Bean",
+    "Carrot",
+    "Capsicum",
+    "Broccoli",
+    "Broccolini",
+    "Puffed Tofu",
+    "Tofu",
+    "Pak Choy",
+    "Chili",
+    "Lime",
+    "Fresh Lime",
+    "Lime Juice",
+    "Coriander",
+    "Fresh Coriander",
+    "Coriander Leaf",
+    "Bean Sprout",
+    "Hokkien Noodle",
+    "Vermicelli Noodles"
+  ],
+  "equipment": [
+    "Large Pot"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a large pot head up the oil and saute the lemongrass, minced ginger, onions, minced garlic, and some sliced chilis. After a few minutes add the laksa and tom yum pastes.",
+      "name": "Saute aromatics",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir continuously and add the fish sauce, sugar, lime leaves and chicken stock. Simmer for about 10 minutes.",
+      "name": "Sauce it up",
+      "url": 2
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the coconut milk and simmer for aboutm 30 minutes. At this point you can either strain it for a nice clean broth or you can keep all the bits and not bother.",
+      "name": "Simmer and strain",
+      "url": 3
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add whatever meat and veges to the broth to cook as required or prep them ahead of time to add on top. Serve with your garnishes and enjoy!",
+      "name": "Serve with garnish",
+      "url": 4
+    }
+  ],
+  "notes": [
+    "I love this most on a cold winters day with some amazing char siu added on top.",
+    "As seen in the fillings and garnishes, really versatile and great to have with many different things. Really fantastic batch cooked and frozen and then brought out to clean out the fridge of leftover veg/meat.",
+    "For the best results, use fresh garlic, ginger and lemongrass. You can also use galangal if your hear so desires."
+  ],
+  "relatedRecipes": [
+    "char_siu"
+  ]
+}

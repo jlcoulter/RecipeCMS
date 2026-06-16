@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "chili_tomato_chicken_drumsticks",
+    "name": "Chili Tomato Chicken Drumsticks",
+    "image": [
+        "chili_tomato_chicken_drumsticks_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "datePublished": "2025-04-13",
+    "lastMod": "2025-04-13",
+    "description": "These flavorful chili tomato chicken drumsticks are a simple and delicious dinner. Perfect for a weeknight meal, these drumsticks are easy to prepare and require minimal effort. Serve with rice or your favorite sides for a complete and satisfying dish.",
+    "prepTime": "PT5M",
+    "cookTime": "PT1H10M",
+    "totalTime": "PT1H15M",
+    "keywords": "chicken drumsticks, baked chicken, chili chicken, tomato chicken, moroccan spices, easy dinner, weeknight meal, family dinner, comfort food, chicken recipe",
+    "recipeYield": "3 servings",
+    "recipeCuisine": [
+      "Mediterranean",
+      "Italian",
+      "Fusion"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Dinner",
+      "Baked Dish"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "450 calories per serving (estimate)"
+    },
+    "recipeIngredient": [
+        "6 Chicken Drumsticks",
+        "400g Diced Tomato",
+        "1 Clove Minced Garlic",
+        "1 tsp Garlic Salt",
+        "Handful Fresh Basil",
+        "Olive Oil",
+        "Chili Flakes",
+        "Moroccan Spice Blend"
+    ],
+    "ingredientKeywords": [
+        "Chicken",
+        "Chicken Drumstick",
+        "Drumstick",
+        "Tomato",
+        "Tinned Tomato",
+        "Garlic",
+        "Basil",
+        "Fresh Basil",
+        "Olive Oil",
+        "Chili Flake",
+        "Chili",
+        "Moroccan Spice",
+        "Garlic Salt"
+    ],
+    "equipment": [
+      "Oven",
+      "Oven Tray"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "name": "Preheat Oven",
+            "text": "Preheat oven to 180 C.",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "name": "Prep Tray",
+            "text": "In a large baking tray that can comfortably sit your drumsticks side by side (like in the above picture) lay down your tomato and garlic and mix together. Place your drumsticks in the mix pushing the tomato base aside as you do. Drizzle olive oil over the tray ensuring that the drumsticks are evenly coated. Sprinkle the garlic salt a layer of basil and Moroccan spice blend over with extra chili flakes as desired creating a nice even coating.",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "name": "Bake",
+            "text": "Bake the mix in the oven for about 50-70 minutes depending on the thickness of the drumsticks.",
+            "url": 3
+        },
+        {
+            "@type": "HowToStep",
+            "name": "Serve",
+            "text": "Serve with whatever you want and enjoy! We like to have ours with rice.",
+            "url": 3
+        }
+    ],
+    "notes": [
+        "Fantastic with bacon bits sprinkled over the top before baking.",
+        "Whole cumin seeds sprinkled over before baking adds a wonderful flavor."
+    ]
+}

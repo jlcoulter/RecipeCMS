@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "spicy_chicken_wings",
+  "name": "Spicy Chicken Wings",
+  "image": [
+    "spicy_chicken_wings_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "2025-02-14",
+  "lastMod": "2026-01-10",
+  "description": "Barbecued spicy chicken wings, super simple and so full of flavor. Great to have with salads, breads and other bits and pieces as part of a family banquet.",
+  "prepTime": "PT1H",
+  "cookTime": "PT45M",
+  "totalTime": "PT1H45M",
+  "keywords": "Spicy Chicken Wings, Chicken Wings, Wings, BBQ, Grilled, Spicy, American Cuisine, Appetizer, Snack, Party Food, Chicken, Cumin, Paprika, Cayenne, Garlic",
+  "recipeYield": "5 servings",
+  "recipeCategory": [
+      "Appetizer",
+      "Finger Food",
+      "Party Food",
+      "Barbecue",
+      "Main Course"
+    ],
+    "recipeCuisine": [
+      "American",
+      "Southern",
+      "Western"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "Approximately 400 calories per serving (estimate)"
+  },
+  "recipeIngredient": [
+    "1 kg Chicken Wings",
+    "2 tsp Cumin",
+    "1 tsp Paprika",
+    "1 tsp Cayenne",
+    "1 tsp Garlic Salt",
+    "2 tbsp Olive Oil"
+  ],
+  "ingredientKeywords": [
+    "Chicken Wing",
+    "Chicken",
+    "Cumin",
+    "Paprika",
+    "Cayenne",
+    "Garlic Salt",
+    "Olive Oil"
+  ],
+  "equipment": [
+    "BBQ"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Prep Wings",
+      "text": "Mix all ingredients together in a large container ensuring the wings are evenly coated in the spice mix. Refrigerate for 1-6 hours.",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Cook Wings",
+      "text": "Cook on a low heat BBQ (roughly 150°C) for about 45 minutes or until cooked through. Turning roughly every 5-10 minutes",
+      "url": 2
+    }
+  ],
+  "notes": [
+    "You can also use whole cumin seeds for a stronger flavour, if you do this use 2-3 tsp of whole cumin seeds.",
+    "Great with a fresh salad for dinner, like a greek salad.",
+    "If you aren't great with chili, just remove a bit of the cayenne, still great!"
+  ],
+  "sharedNotes": [
+    "bbq_wings"
+  ]
+}

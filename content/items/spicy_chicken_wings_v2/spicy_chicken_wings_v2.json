@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "spicy_chicken_wings_v2",
+    "name": "Spicy Chicken Wings V2",
+    "image": [
+      "spicy_chicken_wings_v2_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "datePublished": "2025-03-03",
+    "lastMod": "2026-01-10",
+    "description": "An alternative take on the original spicy chicken wing recipe. Barbecued spicy chicken wings, great to have with other things to create a main meal.",
+    "prepTime": "PT1H",
+    "cookTime": "PT45M",
+    "totalTime": "PT1H45M",
+    "keywords": "Spicy Chicken Wings, Chicken Wings, Wings, BBQ, Grilled, Spicy, American Cuisine, Appetizer, Snack, Party Food, Chicken, Cumin, Paprika, Cayenne, Garlic",
+    "recipeYield": "5 servings",
+    "recipeCuisine": [
+      "American",
+      "Western",
+      "Barbecue"
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Snack",
+      "Party Food",
+      "Finger Food",
+      "Side Dish"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "Approximately 400 calories per serving (estimate)"
+    },
+    "recipeIngredient": [
+      "1 kg Chicken Wings",
+      "2 tsp Turmeric",
+      "1 tsp Paprika",
+      "1 tsp Cayenne",
+      "1 tsp Garlic Salt",
+      "2 tbsp Olive Oil"
+    ],
+    "ingredientKeywords": [
+      "Chicken Wing",
+      "Chicken",
+      "Turmeric",
+      "Paprika",
+      "Cayenne",
+      "Garlic Salt",
+      "Olive Oil"
+    ],
+    "equipment": [
+      "BBQ"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "name": "Prep Wings",
+        "text": "Mix all ingredients together in a large container ensuring the wings are evenly coated in the spice mix. Refrigerate for 1-6 hours.",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Cook Wings",
+        "text": "Cook on a low heat BBQ (roughly 150°C) for about 45 minutes or until cooked through. Turning roughly every 5-10 minutes",
+        "url": 2
+      }
+    ],
+    "notes": [
+      "A simple alternative to the original spicy chicken wing recipe. You can mix and match spices to make a mix the way you want. Add some cumin here, remove some paprika there, etc etc. Once you get comfortable making them its nice to try adding new things.",
+      "If you aren't great with chili, just remove a bit of the cayenne, still great!"
+    ],
+    "sharedNotes": [
+      "bbq_wings"
+    ]
+  }

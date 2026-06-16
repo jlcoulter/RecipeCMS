@@ -1,0 +1,46 @@
+{
+    "name": "The Classics",
+    "datePublished": "2025-05-31",
+    "lastMod": "2025-05-31",
+    "folder": "the_classics",
+    "description": "A collection of my favorite recipes, mostly from my childhood, reminders of a simpler time. They're all relatively cheep, simple and yet still scrumptious.",
+    "image": "kedgeree",
+    "recipes": [
+        {
+            "folder": "spicy_chicken_wings",
+            "description": "My favorite chicken wings recipe. Chicken wings are probably my favorite food, and these are my favorite wings! They're also easy as to make and cheap as, just wonderful."
+        },
+        {
+            "folder": "kedgeree",
+            "description": "A classic from my childhood. Again another simple but wonderfully tasty recipe. Can never get enough."
+        },
+        {
+            "folder": "rendang",
+            "description": "The go to curry in winter for my family. Creamy, rich and super simple. Great as a freezer meal as well if you're into batch cooking like that."
+        },
+        {
+            "folder": "spicy_chicken_wings_v2",
+            "description": "The alternative spice mix for the first recipe in this list, the spicy chicken wings. Mix and match spices to make this however you like!"
+        },
+        {
+            "folder": "apricot_and_white_chocolate_slice",
+            "description": "My favorite and go to lunch box treat as a kid. Amazingly moist and tasty and endlessly moreish! Always reminds me of simpler times in primary school."
+        },
+        {
+            "folder": "laksa",
+            "description": "Something my mum has made for a long long time now always as a treat! Amazingly versatile with its fillings and incredibly tasty."
+        },
+        {
+            "folder": "tomato_pesto_pasta",
+            "description": "The cheap and easy weeknight dinner from my childhood. Incredibly simple and easy to elevate."
+        },
+        {
+            "folder": "thai_chicken_satay_skewers",
+            "description": "As kids we got to pick our birthday dinners and this was my pick for a long time! Just brilliantly bold thai flavours and grilled chicken, can't go wrong."
+        },
+        {
+            "folder": "pavlova",
+            "description": "The dessert we have every Christmas and have done for many years. It is just such a fluffy delight that I wouldn't ever say no to."
+        }
+    ]
+}

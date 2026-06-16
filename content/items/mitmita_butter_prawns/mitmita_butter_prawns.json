@@ -1,0 +1,95 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "mitmita_butter_prawns",
+  "name": "Mitmita Butter Prawns",
+  "image": [
+    "mitmita_butter_prawns_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "2026-01-12",
+  "lastMod": "2026-01-12",
+  "description": "Succulent prawns pan-fried in a rich, spicy butter sauce flavored with Ethiopian mitmita and tomato paste.",
+  "keywords": "Ethiopian, Prawns, Spicy, Seafood, Quick Dinner, Shellfish, Shrimp, East African Cuisine, Fusion, Butter Sauce, Mitmita Spice, 10 Minute Meal, Easy Weeknight Dinner, High Protein, Pescatarian, Pan Fried, Sauté, Tomato Butter, Spicy Prawns, Main Course, Lunch, Gluten Free Option, Dairy",
+  "prepTime": "PT5M",
+  "cookTime": "PT5M",
+  "totalTime": "PT10M",
+  "recipeYield": "2 Servings",
+  "recipeCuisine": [
+      "Ethiopian",
+      "East African",
+      "African",
+      "Fusion"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Seafood",
+      "Quick Meal",
+      "Stir Fry"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "320 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "Prawns:",
+    "300g prawns, peeled and deveined",
+    "40g butter",
+    "1 tbsp tomato paste",
+    "1 1/2 tsp mitmita",
+    "1/2 tsp sugar",
+    "Pinch of salt",
+    "",
+    "To Serve:",
+    "Rice",
+    "Greek Yoghurt",
+    "Lemon Juice",
+    "Fresh Coriander"
+  ],
+  "ingredientKeywords": [
+    "Prawn",
+    "Butter",
+    "Tomato Paste",
+    "Tomato",
+    "Mitmita",
+    "Sugar",
+    "Salt",
+    "Rice",
+    "Greek Yoghurt",
+    "Yoghurt",
+    "Lemon Juice",
+    "Lemon",
+    "Fresh Coriander",
+    "Coriander"
+  ],
+  "equipment": [
+    "Medium Pan"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Prepare Sauce Base",
+      "url": "1",
+      "text": "Heat the frying pan over medium heat and melt the butter. Once just starting to foam, stir in the tomato paste, mitmita, and sugar. Cook for 1 minute until fragrant."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Cook Prawns",
+      "url": "2",
+      "text": "Increase heat to medium-high. Add the prawns to the pan and toss to coat in the spicy butter mix. Fry for 3-4 minutes, or until the prawns are opaque and cooked through."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Season and Serve",
+      "url": "3",
+      "text": "Season with a pinch of salt to taste (mitmita often contains salt, so taste first). Serve immediately with yoghurt, lemon and fresh coriander."
+    }
+  ],
+  "notes": [
+    "Mitmita can be quite spicy, adjust the amount based on your heat tolerance.",
+    "Great served with rice or flatbread for carbs."
+  ]
+}

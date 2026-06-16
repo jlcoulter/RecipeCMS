@@ -1,0 +1,114 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "spanish_chorizo_rice",
+    "name": "Spanish Chorizo Rice",
+    "image": [
+        "spanish_chorizo_rice_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "keywords": "Spanish Chorizo Rice, Chorizo, Bacon, Rice, Easy, Wine, Capsicum, Tomato, Flavorful, Rice Mashup, One-Pot Meal, Spanish Cuisine, Spicy Rice, Hearty, One-Pot Dish, Family Meal, Comfort Food, Budget-Friendly",
+    "datePublished": "2025-03-08",
+    "lastMod": "2025-03-08",
+    "description": "Warm and exceptionally tasty rice mashup with chunks of delicious chorizo.",
+    "prepTime": "PT15M",
+    "cookTime": "PT30M",
+    "totalTime": "PT45M",
+    "recipeYield": "3 Servings",
+    "recipeCategory": [
+      "Main Course",
+      "One-Pot Meal",
+      "Dinner"
+    ],
+    "recipeCuisine": [
+      "Spanish",
+      "Mediterranean",
+      "European"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1300 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "300g Chorizo, diced",
+        "300g Bacon, diced",
+        "3 Tomatoes, diced",
+        "1 Red Capsicum, diced",
+        "1 Onion, diced",
+        "4 cloves Garlic, minced",
+        "1 cup Dry Red Wine",
+        "1 cup Beef Stock",
+        "2 tbsp Paprika",
+        "3 small Chilis, chopped",
+        "Handful of herbs (Oregano, Thyme, and Rosemary)",
+        "1/2 cup uncooked Rice",
+        "Fresh Basil"
+    ],
+    "ingredientKeywords": [
+        "Chorizo",
+        "Bacon",
+        "Tomato",
+        "Red Capsicum",
+        "Capsicum",
+        "Onion",
+        "Garlic",
+        "Dry Red Wine",
+        "Red Wine",
+        "Wine",
+        "Beef Stock",
+        "Paprika",
+        "Chili",
+        "Birdseye Chili",
+        "Oregano",
+        "Thyme",
+        "Rosemary",
+        "Rice",
+        "White Rice",
+        "Brown Rice",
+        "Basil",
+        "Fresh Basil",
+        "Feta"
+    ],
+    "equipment": [
+      "Large Pot"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Fry chorizo and bacon until slightly crispy.",
+            "name": "Fry Chorizo",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add onions and fry until soft.",
+            "name": "Fry Onions",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add tomatoes, capsicum, garlic, and cook for about 5 minutes.",
+            "name": "Add veg",
+            "url": 3
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add the remaining ingredients except the fresh basil. Cook until the rice is tender (about 30 minutes). Add a little bit of water if it gets too dry for the rice to keep cooking.",
+            "name": "Cook rice",
+            "url": 4
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Serve topped with fresh basil and enjoy!",
+            "name": "Serve",
+            "url": 5
+        }
+    ],
+    "notes": [
+        "I like to enjoy mine with fresh chili and a nice dry red wine.",
+        "Also great with crumbly feta."
+    ]
+}

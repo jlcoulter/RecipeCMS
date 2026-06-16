@@ -1,0 +1,84 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "burnt_butter_sage_pappardelle",
+  "name": "Burnt Butter and Sage Pappardelle",
+  "image": [
+    "burnt_butter_sage_pappardelle_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "keywords": "Burnt Butter Sage Pappardelle, Brown Butter Pasta, Sage Butter Sauce, Pappardelle Recipe, Italian Pasta Dish, Quick Weeknight Dinner, Easy Pasta Recipe, Vegetarian Main Course, Hazelnut Pasta, Parmesan Cheese, Fresh Sage Recipe, Simple Italian Food, Comfort Food, Gourmet Pasta, Homemade Pasta Sauce, 20-Minute Meal, Nutty Pasta, Savory Dinner, Lemony Pasta, European Cuisine",
+  "datePublished": "2025-08-02",
+  "lastMod": "2025-08-02",
+  "description": "A simple yet elegant Italian dish featuring wide pappardelle pasta tossed in a rich, nutty burnt butter and crispy sage sauce. This quick main course is finished with the crunch of toasted hazelnuts, a bright squeeze of fresh lemon, and a generous grating of Parmesan cheese.",
+  "prepTime": "PT5M",
+  "cookTime": "PT15M",
+  "totalTime": "PT20M",
+  "recipeYield": "1 Large Serving",
+  "recipeCuisine": [
+    "Italian",
+    "European"
+  ],
+  "recipeCategory": [
+    "Main Course",
+    "Pasta",
+    "Vegetarian",
+    "Dinner"
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "850-1000 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "75-100g Pappardelle",
+    "2 tbsp Hazelnuts",
+    "50g Salted Butter",
+    "15ish Sage Leaves",
+    "Parmesan to serve",
+    "Lemon Wedge"
+  ],
+  "ingredientKeywords": [
+    "Pappardelle",
+    "Pasta",
+    "Hazelnut",
+    "Butter",
+    "Salted Butter",
+    "Sage",
+    "Fresh Sage",
+    "Parmesan",
+    "Lemon",
+    "Lemon Juice",
+    "Fresh Lemon"
+  ],
+  "equipment": [
+    "Medium Pan",
+    "Medium Pot"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "If not already toasted, toast hazelnuts in a pan over medium heat. Move them around constantly so they don't burn. When toasted, crush or cut into small bits.",
+      "name": "Toast nuts",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Boil your pasta until done to how you like it. While the pasta is cooking, heat butter in a pan, chop the leaves roughly and mix with butter.",
+      "name": "Pasta and Sauce",
+      "url": 2
+    },
+    {
+      "@type": "HowToStep",
+      "text": "When the butter browns and the sage crisps up, take off the heat and mix through the cooked pasta. Serve topped with fresh lemon juice, parmesan and the toasted hazelnuts.",
+      "name": "Serve",
+      "url": 3
+    }
+  ],
+  "notes": [
+    "Easily able to increase servings by just increasing recipe ingredients.",
+    "Personally liked it best with a good squeeze of lmeon juice and extra parmesan. Without I'd probably season with a bit of salt/pepper or add in some crispy bacon, but it's definitely not needed."
+  ]
+}

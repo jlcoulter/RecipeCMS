@@ -1,0 +1,103 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "wonton_soup",
+  "name": "Wonton Soup",
+  "image": [
+    "wonton_soup_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "2026-01-17",
+  "lastMod": "2026-01-17",
+  "description": "A comforting and savory Chinese classic, this Wonton Soup features tender wontons simmered in a chicken broth infused with aromatic ginger, garlic, and sesame oil. Finished with fresh wombok and a touch of chili oil, it makes for a quick, warming, and satisfying main course.",
+  "prepTime": "PT5M",
+  "cookTime": "PT15M",
+  "totalTime": "PT20M",
+  "keywords": "Wonton Soup, Chinese Cuisine, Asian Comfort Food, Dumpling Soup, Chicken Broth, Ginger Garlic Soup, Quick Dinner, Easy Lunch, Wombok, Napa Cabbage, Sesame Oil, Chili Oil, Spring Onions, Soy Sauce, Shaoxing Wine, Chinese Dumplings, One Pot Meal, Winter Soup, Savory Broth, Homemade Soup, Main Course, 20 Minute Meal, Toasted Sesame Seeds",
+  "recipeYield": "2 Servings",
+  "recipeCuisine": [
+      "Chinese",
+      "Asian"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Soup",
+      "Comfort Food"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "450-550 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "20 Wontons",
+    "500ml Chicken Broth",
+    "4 cloves Garlic",
+    "4 slices Ginger",
+    "1 tbsp Soy Sauce",
+    "1 tbsp Shaoxing Cooking Wine",
+    "1 tsp Sugar",
+    "1 tsp Sesame Oil",
+    "3 large Wombok Leaves",
+    "",
+    "To Serve:",
+    "Spring Onions",
+    "Chili Oil",
+    "Toasted Sesame Seeds"
+  ],
+  "ingredientKeywords": [
+    "Pork Mince",
+    "Chicken Broth",
+    "Sugar",
+    "Spring Onion",
+    "Onion",
+    "Garlic",
+    "Ginger",
+    "Chinese Cooking Wine",
+    "Wine",
+    "Shaoxing Wine",
+    "Shaoxing Cooking Wine",
+    "Sesame Oil",
+    "Wonton",
+    "Soy Sauce",
+    "Chili Oil",
+    "Sesame Seed",
+    "Toasted Sesame Seed",
+    "Wombok"
+  ],
+  "equipment": [
+    "Small Pot"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Bring the chicken stock to a boil in a small pot with the slices of ginger and garlic to extract the flavours. Boil for about 5 minutes and then remove the ginger and garlic. Add an extra 150ml of water.",
+      "name": "Prep soup base",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the wontons, soy sauce, cooking wine, sugar and sesame oil. Boil for about 5 minutes or until the wontons are cooked through. Cut the wombok into strips and add to the soup for about 1 minute.",
+      "name": "Complete soup",
+      "url": 2
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Top up with water if required and taste for seasoning. Serve immediately topped with diced spring onions, chili oil and toasted sesame seeds.",
+      "name": "Season and serve",
+      "url": 3
+    }
+  ],
+  "notes": [
+    "You can use whatever wontons you like, I like to use pork or pork and prawn wontons.",
+    "While I use wombok in the recipe, you could use any number of asian greens, whichever one you prefer.",
+    "Specifically use chicken broth. Chicken stock will contain other flavours that aren't necessary for this.",
+    "If you like a clearer taste that focuses more on the chicken broth, ginger and garlic I would recommend ditching the soy sauce and using a couple pinches of salt instead."
+  ],
+  "relatedRecipes": [
+    "pork_wontons",
+    "crunchy_chili_oil"
+  ]
+}

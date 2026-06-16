@@ -1,0 +1,110 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "lavosh",
+  "name": "Lavosh",
+  "image": [
+    "lavosh_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "keywords": "Lavosh, Lavash, Armenian Cuisine, Flatbread, Cracker, Savory Biscuit, Snack, Appetizer, Crispbread, Sesame Seeds, Black Sesame, White Sesame, Oregano, Herb Cracker, Olive Oil, Baking, Homemade Crackers, Wholemeal Flour, Vegan, Vegetarian, Dairy Free, Party Food, Charcuterie Board, Dip Accompaniment, Healthy Snack",
+  "datePublished": "2025-12-24",
+  "lastMod": "2025-12-24",
+  "description": "A crisp and nutty Armenian-style flatbread cracker featuring a blend of plain and wholemeal flours. These thin, crunchy crackers are speckled with black and white sesame seeds and fresh oregano, making them a perfect accompaniment for dips or cheese boards.",
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "recipeYield": "10 Servings",
+  "recipeCuisine": [
+      "Armenian",
+      "Middle Eastern",
+      "Caucasian"
+    ],
+    "recipeCategory": [
+      "Flatbread",
+      "Cracker",
+      "Appetizer",
+      "Side",
+      "Snack"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "140-150 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "Dry Ingredients:",
+    "1 cup Plain Flour",
+    "1/3 cup Wholemeal Flour",
+    "2 tbsp Black Sesame Seeds",
+    "2 tbsp White Sesame Seeds",
+    "1 tbsp Fresh Oregano",
+    "1 tsp Salt",
+    "",
+    "Wet Ingredients:",
+    "1/4 cup Olive Oil",
+    "1 tsp Sesame Oil",
+    "1/2 cup Water",
+    "",
+    "To Finish:",
+    "Olive Oil",
+    "Salt"
+  ],
+  "ingredientKeywords": [
+    "Plain Flour",
+    "All Purpose Flour",
+    "Flour",
+    "Wholemeal Flour",
+    "Black Sesame Seed",
+    "White Sesame Seed",
+    "Fresh Oregano",
+    "Oregano",
+    "Dried Oregano",
+    "Salt",
+    "Olive Oil",
+    "Sesame Oil"
+  ],
+  "equipment": [
+    "Oven",
+    "Baking Tray"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Preheat oven to 165C, fan forced. Cut oregano into little pieces. Combine dry ingredients, then combine wet ingredients, then combine the 2.",
+      "name": "Combine ingredients",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Stir together until a dough forms. Make sure everything is mixed through evenly.",
+      "name": "Form dough",
+      "url": 2
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Split into 4 and roll each one out onto a baking sheet as thin as possible. You really don't want it to be any thicker than a sesame seed. You shouldn't need baking paper because of the oil.",
+      "name": "Roll dough",
+      "url": 3
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Before baking, lightly brush with additional olive oil and sprinkle extra salt over it. Bake for 15-20m.",
+      "name": "Bake",
+      "url": 4
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Let fully cool before breaking into chunks and enjoying!",
+      "name": "Enjoy",
+      "url": 5
+    }
+  ],
+  "notes": [
+    "Can use 1 tsp of dried oregano instead of fresh if it's easier",
+    "Rolling it thin is very important. After rolling, if you want them to be uniform cut the dough into the sizes and shapes you want.",
+    "If you rolled it too thick and it doesn't quite turn into a cracker after cooking for 15-20m, just bake for another 15-20m. It won't be as good if you roll it thin but it still works."
+  ]
+}

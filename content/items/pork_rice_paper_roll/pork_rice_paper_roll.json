@@ -1,0 +1,132 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "pork_rice_paper_roll",
+  "name": "Pork Rice Paper Roll",
+  "image": [
+    "pork_rice_paper_roll_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "2025-01-03",
+  "lastMod": "2025-01-03",
+  "description": "Rice paper rolls with pork filling. Perfect for a quick lunchtime snack if the meat is already prepped or great for a social dinner.",
+  "keywords": "pork rice paper rolls, rice paper rolls, spring rolls, summer rolls, vietnamese rolls, pork rolls, asian rolls, appetizer, snack, lunch, dinner, party food, finger food, healthy snack, light meal, vietnamese food, asian cuisine, rice paper, pork filling, dipping sauce, hoisin sauce, vermicelli noodles, fresh herbs, cucumber, avocado, capsicum, coriander, basil, easy recipe, quick recipe, make ahead, party appetizer",
+  "prepTime": "PT1H",
+  "cookTime": "PT20M",
+  "totalTime": "PT1H20M",
+  "recipeYield": "3 servings",
+  "recipeCuisine": [
+      "Vietnamese",
+      "Southeast Asian",
+      "Asian"
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Lunch",
+      "Summer Food",
+      "Finger Food",
+      "Healthy Snack",
+      "Light Meal"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "300 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "Pork Filling:",
+    "½ cup Hoisin Sauce",
+    "3 tsp Minced Ginger",
+    "3 tbsp Soy Sauce",
+    "600 g Pork Fillet",
+    "3 tsp Vegetable Oil",
+    "",
+    "Dipping Sauce:",
+    "⅓ cup Lime Juice",
+    "¼ cup Fish Sauce",
+    "2 tsp White Sugar",
+    "1 Birdseye Chili Diced",
+    "",
+    "Other:",
+    "1 Cucumber",
+    "2 Avocados",
+    "1 Capsicum",
+    "¼ cup Fresh Coriander and/or Fresh Basil",
+    "Rice Paper Rounds",
+    "125 g Vermicelli Noodles"
+  ],
+  "ingredientKeywords": [
+    "Hoisin Sauce",
+    "Hoisin",
+    "Ginger",
+    "Soy Sauce",
+    "Pork",
+    "Pork Fillet",
+    "Vegetable Oil",
+    "Lime",
+    "Lime Juice",
+    "Fish Sauce",
+    "White Sugar",
+    "Sugar",
+    "Birdseye Chili",
+    "Chili",
+    "Cucumber",
+    "Avocado",
+    "Capsicum",
+    "Fresh Basil",
+    "Basil",
+    "Coriander",
+    "Fresh Coriander",
+    "Coriander Leaf",
+    "Rice Paper Round",
+    "Rice Paper",
+    "Vermicelli Noodle"
+  ],
+  "equipment": [
+    "Non-Stick Pan"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Marinate Pork",
+      "url": 1,
+      "text": "Combine ginger, hoisin and soy sauce well. Put half the mixture in another bowl with the pork sliced into long thin pieces. Mix the pork with the mixture thoroughly. Marinate for 1 hour."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Prep Sauce",
+      "url": 2,
+      "text": "Mix the fish sauce, lime juice, sugar and chilli thoroughly in a bowl. If its too strong add a little bit of water until its to your liking."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Prep Noodles",
+      "url": 3,
+      "text": "Add vermicelli noodles to a bowl with hot water. Cover and leave for 8-10 minutes or until noodles are tender. Drain."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Prep Veg",
+      "url": 4,
+      "text": "Thinly slice your vegetables. Lay plate out with warm water in it."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Cook Pork",
+      "url": 5,
+      "text": "Heat a non-stick pan, add the oil and the pork and cook for about 5 minutes or until the pork is cooked through and tender. Put aside for rolls."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Put together",
+      "url": 6,
+      "text": "Submerge rice paper in water for 3 seconds and lay flat on a cloth. Don't worry if its not immediately soft, it will soften up very quickly. Lay your desired filling out in the middle of your rice paper. Fold in sides and roll into a nice little log. Enjoy with the dipping sauce and leftover hoisin mix!"
+    }
+  ],
+  "notes": [
+    "You can sub out the pork for all types of protein like chicken, beef, prawns, duck, etc. For beef I would recommend a lemongrass, ginger and soy sauce mix.",
+    "If you prep ingredients earlier can be great for easy lunches or dinners."
+  ]
+}

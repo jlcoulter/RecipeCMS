@@ -1,0 +1,84 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "hummus",
+    "name": "Hummus",
+    "image": [
+      "hummus_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Hummus, Vegetarian, Dip, Appetizer, Snack, Easy, Homemade, Chickpeas, Lemon Juice, Olive Oil, Tahini, Garlic, Healthy, Vegan, Mediterranean, Party Food, Middle Eastern, Quick, Simple, Pantry Staple",
+    "datePublished": "2024-12-21",
+    "lastMod": "2024-12-21",
+    "description": "Delicious homemade hummus that's super easy to make.",
+    "prepTime": "PT1H",
+    "cookTime": "PT20M",
+    "totalTime": "PT1H20M",
+    "recipeYield": "10 Servings",
+    "recipeCuisine": [
+      "Middle Eastern",
+      "Levantine",
+      "Mediterranean",
+      "Arab"
+    ],
+    "recipeCategory": [
+      "Dip",
+      "Spread",
+      "Appetizer",
+      "Snack",
+      "Side"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "25 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "1 cup Dried Chickpeas",
+      "2 tbsp Lemon Juice",
+      "2 tbsp Olive Oil",
+      "4 tbsp Tahini",
+      "3 cloves of minced Garlic",
+      "Water"
+    ],
+    "ingredientKeywords": [
+      "Chickpea",
+      "Dried Chickpea",
+      "Lemon Juice",
+      "Lemon",
+      "Olive Oil",
+      "Tahini",
+      "Garlic",
+      "Roasted Garlic"
+    ],
+    "equipment": [
+      "Blender",
+      "Storage Container"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Boil chickpeas for 1 hour. Drain.",
+        "name": "Boil Chickpeas",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add everything but the water to the blender and blend until smooth. Will take a bit of mixing in between blending sessions to get smooth. Add water and olive oil to help blend and make the mix smoother. Don't forget to taste and add extra salt, lemon juice or garlic to your liking.",
+        "name": "Blend Ingredients",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Enjoy with cut up carrots, a nice sourdough or whatever you like dipping in hummus!",
+        "name": "Serve",
+        "url": 3
+      }
+    ],
+    "notes": [
+      "Great with roasted garlic instead of regular minced garlic for added flavor.",
+      "It's a healthy and vegan-friendly dip option for snacks and appetizers."
+    ]
+  }

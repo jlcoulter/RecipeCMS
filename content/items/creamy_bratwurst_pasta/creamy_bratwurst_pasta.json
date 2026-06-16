@@ -1,0 +1,107 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "creamy_bratwurst_pasta",
+    "name": "Creamy Bratwurst Pasta",
+    "image": [
+        "creamy_bratwurst_pasta_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "datePublished": "2025-10-27",
+    "lastMod": "2025-10-27",
+    "description": "A rich and savory German-inspired main course. This Creamy Bratwurst Pasta features hearty bratwurst sausage cooked in a flavorful tomato and cream sauce with garlic, herbs, and Parmesan cheese, all tossed with pasta. A quick and satisfying meal ready in 25 minutes.",
+    "prepTime": "PT5M",
+    "cookTime": "PT20M",
+    "totalTime": "PT25M",
+    "keywords": "Creamy Bratwurst Pasta, Bratwurst Pasta, Creamy Pasta, German recipe, German pasta, Sausage pasta, Main Course, Dinner, Comfort food, Quick meal, 25 minute meal, Weeknight dinner, Garlic, Olive Oil, Tomato, Diced Tomatoes, Bratwurst, Cream, Parmesan, Cheese, Thyme, Oregano, Pasta",
+    "recipeYield": "1 Serving",
+    "recipeCuisine": [
+      "German",
+      "Italian",
+      "European",
+      "Fusion"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Pasta",
+      "Comfort Food",
+      "Dinner",
+      "Quick Meal"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1100-1350 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "4 cloves Garlic",
+        "1 tbsp good Olive Oil",
+        "200g Diced Tomatoes",
+        "150g Bratwurst",
+        "50ml Cream",
+        "1 tsp Apple Cider Vinegar",
+        "20g Parmesan Cheese",
+        "1/4 tsp dried Thyme",
+        "1/4 tsp dried Oregano",
+        "Salt and Pepper to taste",
+        "100g Pasta"
+    ],
+    "ingredientKeywords": [
+        "Garlic",
+        "Olive Oil",
+        "Tomato",
+        "Bratwurst",
+        "Cream",
+        "Parmesan",
+        "Cheese",
+        "Parmesan Cheese",
+        "Thyme",
+        "Fresh Thyme",
+        "Dried Thyme",
+        "Oregano",
+        "Dried Oregano",
+        "Pepper",
+        "Pasta",
+        "Apple Cider Vinegar",
+        "Vinegar"
+    ],
+    "equipment": [
+        "Medium Pot",
+        "Medium Pan"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Thinly slice garlic and fry in the olive oil until browned.",
+            "name": "Fry Garlic",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Start cooking pasta. Add tomato, bratwurst and herbs to garlic and olive oil. Bring to vigorous simmer and crush the tomatoes.",
+            "name": "Develop Sauce",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "text": "After it simmers a bit, add the cream, parmesan and vinegar, and allow it to thicken a bit.",
+            "name": "Thicken Sauce",
+            "url": 3
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Once the pasta is cooked, add to the sauce and mix together. Season to taste with salt and pepper. Serve with extra cheese and enjoy.",
+            "name": "Finish and Serve",
+            "url": 4
+        }
+    ],
+    "notes": [
+        "Great with any sausage but I made it with the bratwurst mince also on this site.",
+        "Great with a tsp of capers or a bit of chili."
+    ],
+    "relatedRecipes": [
+        "bratwurst_mince"
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "spiced_honey_bacon_popcorn",
+    "name": "Spiced Honey Bacon Popcorn",
+    "image": [
+        "spiced_honey_bacon_popcorn_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "datePublished": "2025-08-21",
+    "lastMod": "2025-08-21",
+    "description": "A tantalizing fusion snack featuring fluffy popcorn coated in a sweet and spicy glaze of honey and Berbere spice, with the savory crunch of crispy bacon bits. This easy-to-make recipe offers a unique and addictive flavor combination, perfect for movie nights or as a party treat.",
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "keywords": "Spiced Honey Bacon Popcorn, bacon popcorn, honey popcorn, spicy popcorn, sweet and savory snack, Berbere spice recipe, homemade popcorn, gourmet popcorn, fusion cuisine, movie night snack, party food, easy snack recipe, quick snack, crispy bacon, savory popcorn, sweet popcorn, Ethiopian spice, addictive snack, crunchy treat, flavored popcorn",
+    "recipeYield": "2 Servings",
+    "recipeCategory": [
+      "Snack",
+      "Party Food",
+      "Appetizer",
+      "Movie Night Snack"
+    ],
+    "recipeCuisine": [
+      "Fusion",
+      "American",
+      "Ethiopian"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "520-600 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "100g plain Popcorn",
+        "3 tbsp Honey",
+        "2 tsp Berbere",
+        "150g Streaky Bacon"
+    ],
+    "ingredientKeywords": [
+        "Popcorn",
+        "Honey",
+        "Berbere",
+        "Streaky Bacon",
+        "Bacon",
+        "Mekelesha"
+    ],
+    "equipment": [
+        "Medium Bowl",
+        "Medium Pan"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "If the not already popped, pop the corn. Finely dice the bacon and start frying it.",
+            "name": "Pop corn and fry bacon",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Once bacon crisps up and the honey and berbere. Once that starts to bubble pour over the popcorn and mix thoroughly. Enjoy!",
+            "name": "Mix it all up and serve",
+            "url": 2
+        }
+    ],
+    "notes": [
+        "I like to eat popcorn with chopsticks. Slows myself down and stops myself from getting sticky fingers. Especially relevant considering the spice here.",
+        "Also really great with mekelesha. A different but still fantastic flavour."
+    ]
+}

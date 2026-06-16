@@ -1,0 +1,137 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "braised_beef_rendang",
+    "name": "Braised Beef Rendang",
+    "image": [
+        "braised_beef_rendang_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "datePublished": "2025-10-19",
+    "lastMod": "2025-10-19",
+    "description": "A rich and aromatic Indonesian slow-cooked beef stew. This Braised Beef Rendang features tender beef chuck simmered in a complex spice paste and coconut milk until the liquid evaporates and the meat is caramelized and bursting with flavor from lemongrass, galangal, chilis, and kaffir lime.",
+    "prepTime": "PT15M",
+    "cookTime": "PT4H",
+    "totalTime": "PT4H15M",
+    "keywords": "Beef Rendang, Indonesian cuisine, slow-cooked beef, braised beef, coconut milk recipe, spicy beef dish, main course, dinner recipe, authentic Rendang, Asian food, beef chuck recipe, lemongrass, galangal, kaffir lime, tamarind, spice paste, traditional Indonesian food, comfort food, rich beef stew, caramelized beef",
+    "recipeYield": "4 Servings",
+    "recipeCuisine": [
+      "Indonesian",
+      "Southeast Asian",
+      "Asian"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Stew",
+      "Dinner",
+      "Slow Cook"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "750-900 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "For Braising:",
+        "1kg Beef Chuck",
+        "2 tbsp Vegetable Oil",
+        "2 stalks Lemongrass",
+        "1 inch knob Ginger",
+        "1 inch knob Galangal",
+        "6 cloves Garlic",
+        "1 tbsp Tamarind Paste",
+        "4 Kaffir Lime Leaves",
+        "1 stick Cinnamon",
+        "",
+        "Spice Paste:",
+        "6 dried Birdseye Chilis",
+        "2 fresh Birdseye Chilis",
+        "80g minced Lemongrass",
+        "1 inch knob Ginger",
+        "1 inch knob Galangal",
+        "6 cloves Garlic",
+        "6 Shallots",
+        "",
+        "Other:",
+        "400ml Coconut Milk",
+        "1 tsp Beef Stock Powder"
+    ],
+    "ingredientKeywords": [
+        "Beef Chuck",
+        "Beef Shortrib",
+        "Shortrib",
+        "Beef",
+        "Vegetable Oil",
+        "Lemongrass",
+        "Ginger",
+        "Galangal",
+        "Garlic",
+        "Tamarind",
+        "Tamarind Paste",
+        "Kaffir Lime Leaf",
+        "Lime",
+        "Cinnamon",
+        "Cinnamon Stick",
+        "Birdseye Chili",
+        "Coconut Milk",
+        "Coconut",
+        "Beef Stock",
+        "Beef Stock Powder",
+        "Shallot"
+    ],
+    "equipment": [
+        "Large Pot",
+        "Large Pan",
+        "Blender",
+        "Mortar & Pestle"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Cut the beef into bite sized pieces. If using shortrib, you can do that after braising. Heat the oil in a large pot and sear the beef on all sides, ensure good even browning.",
+            "name": "Sear Beef",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add the rest of the braising ingredients to the pot and add water until just above the beef. Bring to a simmer, cover and leave for about 3h or until tender.",
+            "name": "Braise Beef",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "text": "While the beef braises, mince all of the spice paste ingredients in a blender or mortar & pestle. Add a bit of water if needed.",
+            "name": "Mince Spice Paste",
+            "url": 3
+        },
+        {
+            "@type": "HowToStep",
+            "text": "About an hour before the beef in tender, in a large pan, simmer the coconut milk down until nice and thick and almost sticking.",
+            "name": "Simmer Coconut Milk",
+            "url": 4
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add the spice paste to the large pan and start to simmer down.",
+            "name": "Simmer Spice Paste",
+            "url": 5
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Stir spice paste continuously and when the spice paste starts to stick and brown, add a spoonful of braising liquid and scrape the bottom of the pan. Repeat until the mix is thick, a rich dark brown and there is no braising liquid left. Can take about an hour.",
+            "name": "Simmer Spice Paste Further",
+            "url": 6
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Remove bits (garlic, cinnamon etc) from beef. Add beef and beef stock powder to the spice paste, mix through. Add salt to taste. Serve and enjoy!",
+            "name": "Add Beef, Season and Serve",
+            "url": 7
+        }
+    ],
+    "notes": [
+        "Requires constant attention for the spice paste simmering to ensure it doesn't burn but it creates an amazing caramelised flavour."
+    ]
+}

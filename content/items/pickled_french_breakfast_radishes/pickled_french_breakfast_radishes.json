@@ -1,0 +1,83 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "pickled_french_breakfast_radishes",
+  "name": "Pickled French Breakfast Radishes",
+  "image": [
+    "pickled_french_breakfast_radishes_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "2025-07-07",
+  "lastMod": "2025-07-07",
+  "description": "Tangy, crisp, and vibrant, these Pickled French Breakfast Radishes are a delightful condiment. Preserved in a quick brine of white vinegar, garlic, and peppercorns, they offer a perfect balance of acidity and crunch. Ideal for topping sandwiches, mixing into salads, or serving as a zesty side dish. Ready in 24 hours.",
+  "prepTime": "PT10M",
+  "cookTime": "PT5M",
+  "totalTime": "PT15M",
+  "keywords": "Pickled French Breakfast Radishes, Quick Pickles, Refrigerator Pickles, Pickled Vegetables, Radish Recipes, French Breakfast Radish, Vegetarian, Vegan, Gluten-Free, Low Calorie, Healthy Snack, Condiment, Side Dish, Salad Topper, Sandwich Topping, Summer Recipes, Easy Canning, Vinegar Brine, Preserved Food, Crunchy Vegetables, Small Batch, Appetizer, Fusion Cuisine, Garlic, Peppercorn",
+  "recipeYield": "10 Servings",
+  "recipeCuisine": [
+      "French",
+      "European",
+      "Western"
+    ],
+    "recipeCategory": [
+      "Condiment",
+      "Side Dish",
+      "Pickle",
+      "Preserve",
+      "Garnish",
+      "Snack"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "15 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "400g French Breakfast Radishes",
+    "250ml Water",
+    "250ml White Vinegar",
+    "10ml Salt",
+    "10ml Sugar",
+    "5ml Whole Black Peppercorns",
+    "2 Garlic cloves"
+  ],
+  "ingredientKeywords": [
+    "French Breakfast Radish",
+    "Radish",
+    "White Vinegar",
+    "Vinegar",
+    "Sugar",
+    "Whole Black Peppercorn",
+    "Black Pepper",
+    "Pepper",
+    "Garlic"
+  ],
+  "equipment": [
+    "Small Pot",
+    "Large Pot",
+    "750ml Jar"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Boil the jar in a large pot of water to sterilize. While that boils, add all ingredients except the garlic and radishes (water, vinegar, salt, sugar, peppercorns) to another pot and bring to a simmer to dissolve solids.",
+      "name": "Prep jar and vinegar",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Wash and thinly slice the radishes. Add them to the sterilized jar along with the garlic cloves. Let the vinegar brine cool slightly, then pour it over the radishes to fill the jar. Seal tight. Let the jar cool to room temperature before refrigerating. Refrigerate for at least 24 hours before eating for best flavor.",
+      "name": "Serve",
+      "url": 2
+    }
+  ],
+  "notes": [
+    "Great mixed through salad to bring some flavor and crunch or also on a sandwich for the same purpose."
+  ],
+  "sharedNotes": [
+    "pickles"
+  ]
+}

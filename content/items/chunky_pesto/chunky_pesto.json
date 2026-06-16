@@ -1,0 +1,82 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "chunky_pesto",
+    "name": "Chunky Pesto",
+    "image": [
+        "chunky_pesto_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "datePublished": "2024-12-14",
+    "lastMod": "2024-12-14",
+    "description": "This classic chunky pesto recipe is a vibrant and flavorful condiment perfect for pasta, grilled meats, or as a spread on bread. Made with fresh basil, garlic, pine nuts, Parmesan cheese, and extra virgin olive oil, this pesto is easy to make and tastes incredible.",
+    "prepTime": "PT0M",
+    "cookTime": "PT15M",
+    "totalTime": "PT15M",
+    "keywords": "basil pesto, chunky pesto, fresh pesto, parmesan pesto, pasta sauce, pesto sauce, sandwich spread, cracker spread, basil, garlic, parmesan cheese, olive oil, pine nuts, almonds, macadamia nuts, blender pesto, easy pesto, homemade pesto, quick pesto, Italian food, fresh flavor, freezer-friendly, vegetarian, condiment, sauce",
+    "recipeYield": "20 tbsp",
+    "recipeCuisine": [
+      "Italian",
+      "Mediterranean",
+      "European"
+    ],
+    "recipeCategory": [
+      "Condiment",
+      "Sauce",
+      "Dip",
+      "Spread",
+      "Vegetarian"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "400-500 calories"
+    },
+    "recipeIngredient": [
+        "1 Cup Fresh Basil",
+        "½ Cup Pine Nuts, Almonds or Macadamias",
+        "2 Cloves Garlic",
+        "125 Grams Shredded/Shaved Parmesan",
+        "½ Cup Olive Oil"
+    ],
+    "ingredientKeywords": [
+        "Basil",
+        "Fresh Basil",
+        "Pine Nut",
+        "Almond",
+        "Macadamia",
+        "Garlic",
+        "Parmesan",
+        "Olive Oil",
+        "Cheese"
+    ],
+    "equipment": [
+        "Blender"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "name": "Whizz nuts",
+            "text": "Whizz all the nuts in the blender into a chunky mix.",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "name": "Whizz others",
+            "text": "Whizz the garlic and basil separately.",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "name": "Whizz mix",
+            "text": "Whizz everything together slowly adding the olive oil until you reach the desired consistency.",
+            "url": 3
+        }
+    ],
+    "notes": [
+        "Can be easily stored frozen to keep it as fresh as possible. Just make into tablespoon sized balls and leave on a tray in the freezer. Once frozen, just scoop the balls into a plastic bag or container for easy access and put back into the freezer.",
+        "Lasts up to 6 months!"
+    ]
+}

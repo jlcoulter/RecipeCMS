@@ -1,0 +1,104 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "peanut_snaps",
+    "name": "Peanut Snaps",
+    "image": [
+        "peanut_snaps_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "datePublished": "2025-11-06",
+    "lastMod": "2025-11-06",
+    "description": "A delicious Dutch snack, these Peanut Snaps are a crunchy, sweet treat made with butter, brown sugar, golden syrup, flour, chopped peanuts, and a hint of cinnamon. Simple to bake and perfect for a snack.",
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "keywords": "Peanut Snaps, Peanut, Peanut Brittle, Peanut Cookie, Dutch, Dutch Snack, Snack, Dessert, Sweet, Crunchy, Baked, Easy, Quick, Homemade, Simple, Brown Sugar, Golden Syrup, Butter, Cinnamon, Flour, Nutty, Treat, Easy Recipe",
+    "recipeYield": "10 Servings",
+    "recipeCuisine": [
+      "Dutch",
+      "European",
+      "Western"
+    ],
+    "recipeCategory": [
+      "Snack",
+      "Dessert",
+      "Cookie",
+      "Biscuit",
+      "Sweet Treat"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "165 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "75g Salted Butter",
+        "1/2 cup Brown Sugar",
+        "1/4 cup Golden Syrup",
+        "1/2 cup All Purpose Flour",
+        "1/4 cup Chopped Peanuts",
+        "1/2 tsp Ground Cinnamon"
+    ],
+    "ingredientKeywords": [
+        "Salted Butter",
+        "Butter",
+        "Brown Sugar",
+        "Sugar",
+        "Golden Syrup",
+        "All Purpose Flour",
+        "Plain Flour",
+        "Flour",
+        "Peanut",
+        "Cinnamon",
+        "Ground Cinnamon"
+    ],
+    "equipment": [
+        "Large baking tray",
+        "Small Pot"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Set the oven to 180C",
+            "name": "Preheat Oven",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "In a small pot, over medium heat stir together the brown sugar, golden syrup and butter. Mix until sugar disolves.",
+            "name": "Melt sugar",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Set mix aside to cool for a few minutes. While that happens line your baking tray with baking paper and mix try ingredients.",
+            "name": "Prep while mix cools",
+            "url": 3
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mix all ingredients together. When laying out on the tray, if you want them to be thin then do about 5 blobs each tray, each one about 1 tbsp. Bake for about 10-15m or until mix is bubbling vigorously and has spread.",
+            "name": "Bake",
+            "url": 4
+        },
+        {
+            "@type": "HowToStep",
+            "text": "If you want them to be thicker, lay the whole mix out on the tray and bake for about 20+ minutes, again until bubbling away.",
+            "name": "Bake",
+            "url": 5
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Let it cool completely. It should become crunchy. At this point break into pieces and store.",
+            "name": "Cool",
+            "url": 6
+        }
+    ],
+    "notes": [
+        "Probably also easily modified with ginger to make ginger snaps. Haven't tried though.",
+        "If you're lazy like me and don't measure out the golden syrup, if you don't add enough it won't spread out as much. Ultimately it will still work."
+    ]
+}

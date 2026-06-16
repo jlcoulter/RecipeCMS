@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "corn_salsa",
+  "name": "Corn Salsa",
+  "image": [
+    "corn_salsa_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "keywords": "sweet corn, corn salsa, fresh salsa, mexican side dish, taco topping, burrito filler, vegan dip, gluten-free appetizer, vegetarian recipe, easy corn salsa, homemade salsa, healthy snack, cilantro lime corn, jalapeno corn dip, no-cook recipe, summer side dish, party food, tex-mex garnish, dairy-free salsa, raw vegetable salad, quick appetizer, pico de gallo with corn",
+  "datePublished": "2023-12-22",
+  "lastMod": "2023-12-22",
+  "description": "A fresh, vibrant, and easy-to-make Corn Salsa perfect for any Mexican feast. Featuring sweet corn, diced tomatoes, crisp onions, and spicy jalapenos tossed in zesty lime juice and coriander. This naturally vegan and gluten-free side dish is ready in just 15 minutes.",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT15M",
+  "recipeYield": "3 Servings",
+  "recipeCuisine": [
+      "Mexican",
+      "Tex-Mex",
+      "Latin American"
+    ],
+    "recipeCategory": [
+      "Side Dish",
+      "Appetizer",
+      "Dip",
+      "Condiment",
+      "Salad",
+      "Vegan"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "110-125 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "1 400g can Sweet Corn",
+    "1 large Tomato",
+    "half an Onion",
+    "1 Jalapeno",
+    "2 tbsp finely chopped Coriander",
+    "Juice of 1 Lime",
+    "Salt and Pepper to taste"
+  ],
+  "ingredientKeywords": [
+    "Sweet Corn",
+    "Corn",
+    "Tomato",
+    "Fresh Tomato",
+    "Onion",
+    "Brown Onion",
+    "Red Onion",
+    "Jalapeno",
+    "Coriander",
+    "Fresh Coriander",
+    "Lime",
+    "Lime Juice",
+    "Pepper",
+    "Black Pepper",
+    "Green Chili"
+  ],
+  "equipment": [
+    "Large Bowl"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Dice ingredients and mix together with the lime juice. Season to taste.",
+      "name": "Dice",
+      "url": 1
+    }
+  ],
+  "notes": [
+    "Add or remove tomato/corn as desired for whatever ratio you prefer.",
+    "Also goes well with avocado added.",
+    "Great with other Mexican food such as burritos or tacos. Can also be had alone."
+  ]
+}

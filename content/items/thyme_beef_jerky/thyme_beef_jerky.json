@@ -1,0 +1,93 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "thyme_beef_jerky",
+  "name": "Thyme Beef Jerky",
+  "image": [
+    "thyme_beef_jerky_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "2025-01-16",
+  "lastMod": "2025-01-16",
+  "description": "A super simple beef jerky recipe anyone can make at home with their oven. No need for a food dehydrator or fancy equipment, just a couple of oven racks and away you go!",
+  "keywords": "beef jerky, homemade jerky, oven jerky, thyme jerky, beef snack, dried beef, jerky recipe, easy jerky, simple jerky, no dehydrator jerky, american snack, protein snack, high protein, savory snack, beef jerky recipe, thyme beef jerky, homemade beef jerky, oven beef jerky, jerky seasoning, jerky marinade, dried meat, cured meat, snack recipe, game day snack, tailgating food",
+  "prepTime": "PT1H",
+  "cookTime": "PT4H",
+  "totalTime": "PT5H",
+  "recipeYield": "2 servings",
+  "recipeCuisine": [
+      "American",
+      "Western"
+    ],
+    "recipeCategory": [
+      "Snack",
+      "Appetizer",
+      "Preserved Food"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "250 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "350g Lean Beef",
+    "1 tbsp Ground Black Pepper",
+    "1 tbsp Fresh Thyme",
+    "40ml Soy Sauce"
+  ],
+  "ingredientKeywords": [
+    "Beef",
+    "Lean Beef",
+    "Black Pepper",
+    "Pepper",
+    "Ground Black Pepper",
+    "Ground Pepper",
+    "Thyme",
+    "Fresh Thyme",
+    "Soy Sauce"
+  ],
+  "equipment": [
+    "Oven",
+    "Oven Tray"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Cut Beef",
+      "url": 1,
+      "text": "Trim the beef of excess fat and sinew. Cut the beef to your desired width (I prefer 3-5mm) and your desired way (with or against the grain). Personally I prefer mine to be cut against the grain that way its easier to eat."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Mix",
+      "url": 2,
+      "text": "Mix the beef thoroughly with the soy sauce, pepper and thyme and refrigerate for about 30 minutes. Mix the beef again and refrigerate for another 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Prep for Oven",
+      "url": 3,
+      "text": "Preheat oven to 80°C. Strain beef and squeeze out excess soy sauce (stops it from being too salty). Lay beef out on racks ensuring it does not overlap and sprinkle a bit of extra fresh thyme and pepper over the top for more flavor if desired."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Dry",
+      "url": 4,
+      "text": "Dry out in the oven for about 3-5 hours depending on thickness and desired dryness. Personally I like mine thin and dry so I go for about 4-5 hours. I would check it at about 2-3 hours just to see how its going."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Prep for Oven",
+      "url": 5,
+      "text": "Once you take it out of the oven it will continue to dry so take that into account. Once its cooled down on the bench (don't cover during this) its ready to store in the fridge!"
+    }
+  ],
+  "notes": [
+    "The thyme can be replaced with something like rosemary for a different but still super easy to make flavor."
+  ],
+  "sharedNotes": [
+    "jerky"
+  ]
+}

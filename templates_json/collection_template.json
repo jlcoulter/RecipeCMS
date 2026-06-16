@@ -1,0 +1,18 @@
+{
+    "name": "Listacle Name",
+    "datePublished": "2025-05-31",
+    "lastMod": "2025-05-31",
+    "folder": "listacle_template",
+    "description": "Some description",
+    "image": "recipeName",
+    "recipes": [
+        {
+            "folder": "recipeName",
+            "description": "A custom description of this recipe for the listacle."
+        },
+        {
+            "folder": "recipeName2",
+            "description": "A custom description of this recipe for the listacle."
+        }
+    ]
+}

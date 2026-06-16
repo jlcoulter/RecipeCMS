@@ -1,0 +1,71 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "thai_peanut_sauce",
+    "name": "Thai Peanut Sauce",
+    "image": [
+        "thai_peanut_sauce_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Thai Peanut Sauce, Peanut Sauce, Thai, Dip, Condiment, Snack, Spicy, Red Curry Paste, Coconut Milk, Peanut Butter, Soy Sauce, Lime Juice, Sauce, Versatile, Easy, Quick, Party Food, Skewers, Vegetables, Rice, Noodles",
+    "datePublished": "2023-07-22",
+    "lastMod": "2023-07-22",
+    "description": "Rich and tasty peanut sauce that's great with skewers and sauce but is also delicious with grilled vegetables and sausages.",
+    "prepTime": "PT0M",
+    "cookTime": "PT10M", 
+    "totalTime": "PT25M", 
+    "recipeYield": "6 Servings",
+    "recipeCuisine": [
+      "Thai",
+      "Southeast Asian",
+      "Asian"
+    ],
+    "recipeCategory": [
+      "Condiment",
+      "Dip",
+      "Sauce",
+      "Side",
+      "Dressing"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "260 calories per servering (estimated)"  
+    },
+    "recipeIngredient": [
+      "2 tbsp Red Curry Paste",
+      "300 ml Coconut Milk",
+      "3/4 cup natural Peanut Butter",
+      "1/4 cup White Sugar",
+      "2 tsp Soy Sauce",
+      "1 tsp Salt",
+      "2 tsp Lime Juice"
+    ],
+    "ingredientKeywords": [
+      "Red Curry Paste",
+      "Curry Paste",
+      "Coconut Milk",
+      "Peanut Butter",
+      "Sugar",
+      "White Sugar",
+      "Soy Sauce",
+      "Salt",
+      "Lime Juice"
+    ],
+    "equipment": [
+      "Small Pot"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Add everything to a pot and bring to a simmer for about 5-10 minutes or until it has reached the desired thickness. Taste to ensure it is well balanced. Add more sugar, soy sauce, lime, or curry paste as required. You can also add water to make it less thick and less strong. Enjoy!",
+        "name": "Simmer Sauce",
+        "url": 1
+      }
+    ],
+    "notes": [
+        "This Thai peanut sauce is perfect as a dipping sauce for skewers or equally delicious with rice. You can use crunchy or smooth peanut butter according to your preference."
+    ]
+  }

@@ -1,0 +1,99 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "massaman_lamb_shoulder",
+  "name": "Massaman Lamb Shoulder",
+  "image": [
+      "massaman_lamb_shoulder_0.jpg"
+  ],
+  "author": {
+      "@type": "Person",
+      "name": "F"
+  },
+  "keywords": "Massaman Curry, Lamb Shoulder, Thai Cuisine, Slow Cooked Lamb, Potatoes, Coconut Milk, Cinnamon, Star Anise, One-Pot Meal, Comfort Food, Rich Flavor, Aromatic Spices, Easy Recipe, Family Meal, Autumn Recipes, Winter Recipes, Festive Food, Curry, Braised Lamb, Oven-Baked, Savory",
+  "datePublished": "2025-04-23",
+  "lastMod": "2025-04-23",
+  "description": "A flavorful and tender Massaman Lamb Shoulder recipe featuring slow-cooked lamb with potatoes in a rich coconut milk and Massaman curry sauce, infused with aromatic spices like cinnamon and star anise.",
+  "prepTime": "PT10M",
+  "cookTime": "PT4H30M",
+  "totalTime": "PT4H40M",
+  "recipeYield": "6 Servings",
+  "recipeCuisine": [
+      "Thai",
+      "Asian",
+      "Southeast Asian"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Curry",
+      "Slow Roast",
+      "Comfort Food"
+    ],
+  "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "600-800 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+      "1.5kg+ Lamb Shoulder",
+      "120g Massaman Curry Paste",
+      "400g can Coconut Milk",
+      "3 cups Chicken Stock",
+      "1 Large Brown Onion",
+      "2 Cinnamon Stick",
+      "2 Star Anise",
+      "500g Small Potatoes",
+      "500g Brussel Sprouts"
+  ],
+  "ingredientKeywords": [
+      "Lamb Shoulder",
+      "Lamb",
+      "Massaman Curry Paste",
+      "Curry Paste",
+      "Coconut Milk",
+      "Chicken Stock",
+      "Brown Onion",
+      "Onion",
+      "Cinnamon Stick",
+      "Cinnamon",
+      "Star Anise",
+      "Potato",
+      "Sprout",
+      "Brussel Sprout"
+  ],
+  "equipment": [
+    "Oven",
+    "Oven Tray"
+  ],
+  "recipeInstructions": [
+      {
+          "@type": "HowToStep",
+          "text": "Preheat oven to 220C. Whisk the curry paste, coconut milk and chicken stock together. Put the lamb shoulder into a large baking dish and pour over the mix.",
+          "name": "Prep lamb",
+          "url": 1
+      },
+      {
+          "@type": "HowToStep",
+          "text": "Turn lamb fat side down, add the onion, cinnamon sticks, star anise and potatoes to the dish. Cover with foil and roast for 1h.",
+          "name": "Start roasting",
+          "url": 2
+      },
+      {
+          "@type": "HowToStep",
+          "text": "Lower the heat to 180C and then roast for another 2-3h. Remove foil, check the lamb is fall apart tender. If not, keep cooking covered. If fall apart, turn the lamb fat side up, baste and bake for a further 30 minutes to get nice crusty bits made amazing thanks to the maillard reaction.",
+          "name": "Slow cook",
+          "url": 3
+      },
+      {
+          "@type": "HowToStep",
+          "text": "Skim off excess fat before serving with fresh coriander and fresh chilis.",
+          "name": "Serve",
+          "url": 4
+      }
+  ],
+  "notes": [
+      "Amazingly simple, really great with rice or just with the potatoes. Also like it with broccolini baked with it.",
+      "Best curry paste to use is Maesri but others will do if you don't have a choice.",
+      "No need to change the quantities if increasing or decreasing the amount of meat. You'll end up with glorious amounts of gravy regardless.",
+      "Originally from RecipeTinEats"
+  ]
+}

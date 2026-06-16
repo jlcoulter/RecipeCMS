@@ -1,0 +1,133 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "thai_chicken_satay_skewers",
+  "name": "Thai Chicken Satay Skewers",
+  "image": [
+      "thai_chicken_satay_skewers_0.jpg"
+  ],
+  "author": {
+      "@type": "Person",
+      "name": "F"
+  },
+  "datePublished": "2025-02-22",
+  "lastMod": "2025-02-22",
+  "description": "Delicious Thai chicken satay skewers with a spicy peanut sauce. Perfect for a flavorful dinner.",
+  "keywords": "thai chicken satay, chicken satay skewers, thai skewers, asian chicken, spicy chicken skewers, peanut sauce, satay, thai food, asian cuisine, grilled chicken, appetizer, dinner, party food, chicken thighs, coconut milk, curry, peanut butter",
+  "prepTime": "PT30M",
+  "cookTime": "PT30M",
+  "totalTime": "PT1H",
+  "recipeYield": "3 servings",
+  "recipeCuisine": [
+      "Thai",
+      "Southeast Asian",
+      "Asian"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Appetizer",
+      "Party Food",
+      "Finger Food",
+      "BBQ"
+    ],
+  "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "550 calories per serving (estimate)"
+  },
+  "recipeIngredient": [
+      "Marinade:",
+      "600g Chicken Thighs, diced",
+      "1 tbsp Curry Powder",
+      "1 tsp White Sugar",
+      "2 tsp Red Curry Paste",
+      "1 tsp Salt",
+      "",
+      "Sauce:",
+      "2 tbsp Red Curry Paste",
+      "3/4 cup Natural Peanut Butter, smooth",
+      "1/4 cup White Sugar",
+      "2 tsp Dark Soy Sauce",
+      "1 tsp Salt",
+      "3/4 cup Water",
+      "",
+      "Other:",
+      "400 g Coconut Milk",
+      "10 Bamboo Skewers",
+      "2 tbsp Peanuts Finely Chopped",
+      "Lime Wedges",
+      "Coriander Leaves", 
+      "Sliced Red Chilis"
+  ],
+  "ingredientKeywords": [
+      "Chicken",
+      "Chicken Thigh",
+      "Curry Powder",
+      "White Sugar",
+      "Red Curry Paste",
+      "Curry Paste",
+      "Peanut Butter",
+      "Dark Soy Sauce",
+      "Soy Sauce",
+      "Coconut Milk",
+      "Peanut",
+      "Lime",
+      "Coriander",
+      "Fresh Coriander",
+      "Coriander Leaf",
+      "Chili",
+      "Birdseye Chili"
+  ],
+  "equipment": [
+      "BBQ",
+      "Skewers",
+      "Large Bowl"
+  ],
+  "recipeInstructions": [
+      {
+          "@type": "HowToStep",
+          "name": "Skewer Prep",
+          "url": 1,
+          "text": "Soak skewers for 2 hours in water or skip this and use metal skewers."
+      },
+      {
+          "@type": "HowToStep",
+          "name": "Marinate Chicken",
+          "url": 2,
+          "text": "Mix the chicken and marinade ingredients with 1/4 of the can of coconut milk. Let it marinate for 20 minutes to 24 hours."
+      },
+      {
+          "@type": "HowToStep",
+          "name": "Skewer Chicken",
+          "url": 3,
+          "text": "Thread the chicken onto the skewers, about 3-5 pieces per skewer."
+      },
+      {
+          "@type": "HowToStep",
+          "name": "Prep Pan",
+          "url": 4,
+          "text": "Heat oil in a large non-stick pan over high heat or fire up the BBQ."
+      },
+      {
+          "@type": "HowToStep",
+          "name": "Cook Skewers",
+          "url": 5,
+          "text": "Cook the skewers in batches for about 3 minutes on each side until golden. Reduce the heat if the chicken starts to burn before being cooked through."
+      },
+      {
+          "@type": "HowToStep",
+          "name": "Prep Sauce",
+          "url": 6,
+          "text": "For the sauce, place the remaining coconut milk and peanut sauce ingredients in a small pot over medium heat. Mix well and lower the heat once it starts to bubble. Taste for seasoning and adjust if needed. Add a little water if the sauce gets too thick."
+      },
+      {
+          "@type": "HowToStep",
+          "name": "Serve",
+          "url": 7,
+          "text": "Serve the Thai chicken satay skewers with rice, vegetables, lime wedges, coriander leaves, sliced red chilli, and sprinkle chopped peanuts on top. Enjoy!"
+      }
+  ],
+  "notes": [
+      "One of my personal favorite recipes. The skewers are great as part of a larger banquet as well.",
+      "Doesn't need to be on skewers, you can just prep the chicken and then fry that in batches. Make sure not to crowd the pan so it still gets nice and golden."
+  ]
+}

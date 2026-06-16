@@ -1,0 +1,127 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "sausage_rolls",
+    "name": "Pork and Fennel Sausage Rolls",
+    "image": [
+        "sausage_rolls_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "keywords": "Pork and Fennel Sausage Rolls, Homemade Sausage Rolls, Pork Sausage Rolls, Pork Mince Recipe, Savoury Pastry, Appetizer, Snack, Main Course, British Cuisine, Australian Cuisine, Party Food, Comfort Food, Easy Recipe, Flaky Pastry, Baking, Oven-baked, Pork, Bacon, Fennel, Panko, Puff Pastry, Parsley, Carrot, Onion",
+    "datePublished": "2025-08-22",
+    "lastMod": "2025-08-22",
+    "description": "A delicious and savoury recipe for homemade Pork and Fennel Sausage Rolls. This dish features a flavourful filling of pork mince, streaky bacon, carrot, and onion, seasoned with aromatic fennel seeds and fresh parsley, all wrapped in flaky, golden-brown puff pastry.",
+    "prepTime": "PT15M",
+    "cookTime": "PT45M",
+    "totalTime": "PT1H",
+    "recipeYield": "4 Large Rolls",
+    "recipeCategory": [
+      "Appetizer",
+      "Party Food",
+      "Snack",
+      "Picnic Food",
+      "Lunch"
+    ],
+    "recipeCuisine": [
+      "Australian",
+      "British",
+      "Western"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "1250-1350 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "500g Pork Mince",
+        "120g Carrot",
+        "Half an Onion",
+        "150g Streaky Bacon",
+        "5 cloves Garlic",
+        "2 tsp Fennel Seeds",
+        "1/2 cup Panko",
+        "2 Eggs",
+        "1 tsp Salt",
+        "1 tsp Ground Pepper",
+        "15g Fresh Parsley",
+        "2 sheets Puff Pastry"
+    ],
+    "ingredientKeywords": [
+        "Pork",
+        "Pork Mince",
+        "Carrot",
+        "Onion",
+        "Streaky Bacon",
+        "Bacon",
+        "Garlic",
+        "Fennel Seed",
+        "Whole Fennel Seed",
+        "Fennel",
+        "Panko",
+        "Egg",
+        "Ground Pepper",
+        "Ground Black Pepper",
+        "Pepper",
+        "Puff Pastry",
+        "Pastry",
+        "Fresh Parsley",
+        "Parsley",
+        "Berbere"
+    ],
+    "equipment": [
+        "Oven",
+        "Oven Tray",
+        "Baking Paper",
+        "Medium Pan"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Preheat oven to 180C. Finely dice bacon and start frying over a medium heat in a medium sized pan.",
+            "name": "Prep bacon",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Mince the carrot, onion and garlic. Add to the bacon with the fennel seeds and slowly cook to get rid of some of the moisture.",
+            "name": "Prep veg mix",
+            "url": 2
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Let the bacon and veg mix cool, finely mince the parsley, then mix everything except 1 egg and the pastry.",
+            "name": "Mix sausage filling",
+            "url": 3
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Slice pastry sheets in half, and 1/4 of the filling and roll up.",
+            "name": "Roll the rolls",
+            "url": 4
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Transfer to a tray lined with baking paper. Whisk the remaining egg and brush over the top. Sprinkle some extra fennel seeds over the top.",
+            "name": "Brush the rolls",
+            "url": 5
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Bake at 180C for 30m or until golden and cooked through. Enjoy with your choice of sauces!",
+            "name": "Bake and Serve!",
+            "url": 6
+        }
+    ],
+    "notes": [
+        "Puff pastry sheets I use are about 26cm x 26cm.",
+        "Add 2 tbsp of berbere for an amazing spiced version of already fantastic sausage rolls.",
+        "Goes great with kasundi, ketchup, aioli, mayo, chipotle mayo and more.",
+        "If you like soggier bottoms don't fry the onion and carrot. They'll then release their juices as the rolls cook."
+    ],
+    "relatedRecipes": [
+        "puff_pastry",
+        "kasundi"
+    ]
+}

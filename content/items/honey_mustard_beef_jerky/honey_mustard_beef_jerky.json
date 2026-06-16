@@ -1,0 +1,105 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "honey_mustard_beef_jerky",
+  "name": "Honey Mustard Beef Jerky",
+  "image": [
+    "honey_mustard_beef_jerky_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "2026-01-01",
+  "lastMod": "2026-01-01",
+  "description": "A super simple Honey Mustard Beef Jerky recipe that combines the tangy kick of Dijon mustard with sweet honey and savory soy sauce. This high-protein snack is made with lean beef and requires no food dehydrator or fancy equipment—just a standard home oven and racks.",
+  "keywords": "Beef Jerky, Homemade Beef Jerky, Honey Mustard, Oven Dried Beef, High Protein Snack, Lean Beef, Soy Sauce Marinade, Dijon Mustard, Sweet and Savory, Road Trip Snacks, Easy Jerky Recipe, No Dehydrator Jerky, Meat Snacks, Preserved Meat, Cured Beef, American Cuisine, Savory Snacks, Marinated Beef, Dried Meat, Beef Strips, Healthy Snacks, Oven Jerky",
+  "prepTime": "PT1H",
+  "cookTime": "PT4H",
+  "totalTime": "PT5H",
+  "recipeYield": "2 servings",
+  "recipeCuisine": [
+    "American",
+    "Western"
+  ],
+  "recipeCategory": [
+    "Snack",
+    "Appetizer",
+    "Preserved Food",
+    "High Protein"
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "300-350 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "350g Lean Beef (Topside)",
+    "2 tsp Ground Black Pepper",
+    "30ml Soy Sauce",
+    "15ml Dijon Mustard",
+    "15ml Honey",
+    "10ml Red Wine Vinegar",
+    "5ml Paprika"
+  ],
+  "ingredientKeywords": [
+    "Beef",
+    "Lean Beef",
+    "Topside",
+    "Topside Beef",
+    "Topside Roast",
+    "Black Pepper",
+    "Pepper",
+    "Ground Black Pepper",
+    "Ground Pepper",
+    "Soy Sauce",
+    "Dijon Mustard",
+    "Mustard",
+    "Honey",
+    "Red Wine Vinegar",
+    "Vinegar",
+    "Paprika"
+  ],
+  "equipment": [
+    "Oven",
+    "Oven Tray",
+    "Small Bowl"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Cut Beef",
+      "url": 1,
+      "text": "Cut the beef to your desired width (I prefer 3-5mm) and your desired way (with or against the grain). Personally I prefer mine to be cut against the grain that way its easier to eat."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Mix",
+      "url": 2,
+      "text": "Mix the beef thoroughly with all of the ingredients and leave in the fridge for about 30 minutes. Mix the beef again and leave for another 30 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Prep for Oven",
+      "url": 3,
+      "text": "Preheat oven to 80°C. Strain beef and squeeze out excess soy sauce (stops it from being too salty). Lay beef out on racks ensuring it does not overlap."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Dry",
+      "url": 4,
+      "text": "Dry out in the oven for about 3-5 hours depending on thickness and desired dryness. Personally I like mine thin and dry so I go for about 4-5 hours. I would check it at about 2-3 hours just to see how its going."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Cool and store",
+      "url": 5,
+      "text": "Once you take it out of the oven it will continue to dry so take that into account. Once its cooled down on the bench (don't cover during this) its ready to store in the fridge!"
+    }
+  ],
+  "notes": [
+    "I really like this with a bit of extra honey added on afterwards (really just a little bit)."
+  ],
+  "sharedNotes": [
+    "jerky"
+  ]
+}

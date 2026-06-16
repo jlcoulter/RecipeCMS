@@ -1,0 +1,105 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Recipe",
+    "folder": "sticky_pork_belly_bowl",
+    "name": "Sticky Pork Belly Bowl",
+    "image": [
+        "sticky_pork_belly_bowl_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Sticky Pork Belly, Pork Bowl, Asian Cuisine, Korean Flavors, Easy Dinner, Pork Recipe, Rice Bowl, Quick and Easy, Soy Sauce, Flavorful, Pak Choy, Ginger, Chili Flakes, Sesame Oil, Garlic, Onion, Brown Sugar, Rice Vinegar, Sesame Seeds, Spring Onions, Tasty, Savory, Homemade, Simple Cooking, Healthy, Delicious, Family Meal, Asian Inspired, Dinner Recipe, Stir-Fry, Caramelized Sauce, Pork Rashers, Cooking Techniques, Cooking Tips, Rice Dish, Wholesome, Weeknight Meal, Meal Prep",
+    "datePublished": "2023-02-10",
+    "lastMod": "2025-02-10",
+    "description": "Easy sticky pork belly rice bowl that packs a flavor punch sure to brighten anyone's day.",
+    "prepTime": "PT10M",
+    "cookTime": "PT40M",
+    "totalTime": "PT50M",
+    "recipeYield": "2 Servings",
+    "recipeCuisine": [
+      "Asian",
+      "Korean Inspired",
+      "Fusion"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Rice Bowl",
+      "Dinner",
+      "Comfort Food",
+      "One Bowl Meal"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "600 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "2 cloves Garlic, minced",
+      "2cm knob fresh Ginger, minced",
+      "1 Spring Onion, minced",
+      "1/2 tsp Chili Flakes",
+      "1/2 tbsp Rice Wine Vinegar",
+      "1/4 cup Soy Sauce",
+      "2 tbsp Brown Sugar",
+      "2 tbsp Sesame Oil",
+      "2 Boneless Pork Rashers, halved",
+      "2 large bunches of Pak Choy",
+      "2 servings of Rice to serve",
+      "Sesame Seeds and Spring Onions for serving"
+    ],
+    "ingredientKeywords": [
+      "Garlic",
+      "Ginger",
+      "Spring Onion",
+      "Chili Flake",
+      "Rice Wine Vinegar",
+      "Vinegar",
+      "Soy Sauce",
+      "Brown Sugar",
+      "Sesame Oil",
+      "Pork Rasher",
+      "Pork",
+      "Pak Choy",
+      "Rice",
+      "Sesame Seed"
+    ],
+    "equipment": [
+      "Large Pan"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "In about a teaspoon of oil, start frying the pork rashers in a pan with a lid on. Keep the pan on medium heat. Cook for about 45 minutes and flip halfway to brown on both sides.",
+        "name": "Fry Pork",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the pork cooks, add the garlic, ginger, onion, chili, vinegar, soy sauce, brown sugar, and sesame oil to a pan and start reducing the mixture over medium heat.",
+        "name": "Make Sauce",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "While the pork cooks and the sauce thickens, cook rice.",
+        "name": "Cook Rice",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once the pork is brown and slightly crisp on both sides, add the sauce to the pan and continue to cook down until the sugar starts to caramelize. As the sugar caramelizes, add the pak choy and mix until the pak choy is heated through.",
+        "name": "Combine and Finish",
+        "url": 4
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve on the rice topped with sesame seeds and spring onions. Enjoy!",
+        "name": "Serve",
+        "url": 5
+      }
+    ],
+    "notes": [
+        "Also great with some thinly sliced carrots in with the pak choy."
+    ]
+  }

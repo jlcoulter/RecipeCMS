@@ -1,0 +1,125 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "larb",
+    "name": "Larb",
+    "image": [
+      "larb_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Larb, Thai, Pork, Mince, Stir Fry, Salad, Lemongrass, Ginger, Garlic, Chili, Fish Sauce, Lime, Peanuts, Coriander, Basil, Spicy, Savory, Quick, Easy, Main Course, Asian, Southeast Asian, Fresh, Flavorful, Red Onion, Brown Sugar, Soy Sauce, Birdseye Chili, Cherry Tomatoes, Cucumber, Lettuce, Avocado, Spring Onion, Weeknight Dinner, Gluten-Free (check soy sauce), Healthy",
+    "datePublished": "2025-05-05",
+    "lastMod": "2025-05-05",
+    "description": "A flavorful Thai Larb recipe featuring stir-fried pork mince seasoned with lemongrass, ginger, garlic, chili, and brown sugar, served over a fresh salad with vibrant toppings like fish sauce, lime juice, peanuts, and fresh herbs.",
+    "prepTime": "PT5M",
+    "cookTime": "PT15M",
+    "totalTime": "PT20M",
+    "recipeYield": "3 servings",
+    "recipeCuisine": [
+      "Laotian",
+      "Isan",
+      "Thai",
+      "Southeast Asian"
+    ],
+    "recipeCategory": [
+      "Meat Salad",
+      "Main Course",
+      "Appetizer",
+      "Salad"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "700-800 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "Stir Fry:",
+      "500g Pork Mince",
+      "1 Red Onion",
+      "40g minced Lemongrass",
+      "1 tbsp minced Ginger",
+      "2 tsp minced Garlic",
+      "1 tbsp Brown Sugar",
+      "2 tbsp Soy Sauce",
+      "2 Birdseye Chilis",
+      "",
+      "Salad:",
+      "Cherry Tomatoes",
+      "Cucumbers",
+      "Lettuce",
+      "Avocado",
+      "",
+      "Toppings:",
+      "Fish Sauce",
+      "Lime Juice",
+      "Crushed Peanuts",
+      "Toasted Sesame Seeds",
+      "Sesame Oil",
+      "Thinly Sliced Chilis",
+      "Fresh Coriander",
+      "Fresh Basil",
+      "Spring Onions"
+    ],
+    "ingredientKeywords": [
+      "Pork",
+      "Pork Mince",
+      "Red Onion",
+      "Onion",
+      "Lemongrass",
+      "Ginger",
+      "Garlic",
+      "Brown Sugar",
+      "Sugar",
+      "Soy Sauce",
+      "Birdseye Chili",
+      "Chili",
+      "Cherry Tomato",
+      "Tomato",
+      "Cucumber",
+      "Lettuce",
+      "Avocado",
+      "Fish Sauce",
+      "Lime Juice",
+      "Lime",
+      "Peanut",
+      "Chili",
+      "Coriander",
+      "Fresh Basil",
+      "Basil",
+      "Fresh Coriander",
+      "Spring Onion",
+      "Sesame Seed",
+      "Sesame Oil"
+    ],
+    "equipment": [
+      "Large Pan"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prep the salad ingredients, cut into pieces and mix through. Divide evenly into bowls for the number of servings.",
+        "name": "Prep Salad",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry pork mince over high heat until browned all over. Add the rest of the stir fry ingredients and fry until the sauce is dried up and things are getting crispy. Taste for seasoning and add more soy sauce/brown sugar as desired.",
+        "name": "Stir Fry",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve the pork mince mix over the salad with your choice of toppings. Always top with fish sauce and lime juice (see notes for recommended amounts), the rest is optional as desired.",
+        "name": "Serve",
+        "url": 3
+      }
+    ],
+    "notes": [
+      "Goes great with rice noodles mixed through as well for a bit of extra filling if you want more than just a salad!",
+      "For the best flavor, use fresh garlic and ginger. Pre-minced just doesn't hit quite right.",
+      "Some of my toppings aren't really authentic but this is how I love it. The sesame seeds and the crushed nuts add a great crunch beyond what you get from your salad bits.",
+      "For the fish sauce and lime juice toppings, I use about 2 tsp fish sauce and 3-4 tsp lime juice per serving. Add some, mix it up, taste and decide how much you like!"
+    ]
+  }

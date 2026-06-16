@@ -1,0 +1,94 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "chili_caramel_chicken_noodle_salad",
+    "name": "Chili Caramel Chicken Noodle Salad",
+    "image": [
+      "chili_caramel_chicken_noodle_salad_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "Fin"
+    },
+    "keywords": "Chili Caramel Chicken Noodle Salad, Spicy, Asian, Chicken, Dinner, Noodles, Chicken Thighs, Chili Caramel Glaze, Rice Noodles, Vegetables, Coriander, Salad, Summer, Easy, Quick, One-Pan, Family Friendly, Healthy, Flavorful, Lunch",
+    "datePublished": "2024-12-09",
+    "lastMod": "2024-12-09",
+    "description": "Delightfully sweet and spicy noodle salad with chili caramel chicken, perfect for a summer meal.",
+    "prepTime": "PT15M",
+    "cookTime": "PT15M",
+    "totalTime": "PT30M",
+    "recipeYield": "3 Servings",
+    "recipeCuisine": [
+      "Asian Fusion",
+      "Thai",
+      "Asian"
+    ],
+    "recipeCategory": [
+      "Salad",
+      "Main Course",
+      "Noodle Dish",
+      "Lunch"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "500 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "600g Chicken Thighs, diced",
+      "Chili Caramel Glaze",
+      "2-3 servings of Rice Noodles",
+      "Misc vegetables for 3 (Cucumber, Capsicum, Avocado)",
+      "Fresh Coriander"
+    ],
+    "ingredientKeywords": [
+      "Chicken Thigh",
+      "Chicken",
+      "Chili Caramel Glaze",
+      "Chili",
+      "Rice Noodle",
+      "Cucumber",
+      "Capsicum",
+      "Avocado",
+      "Coriander"
+    ],
+    "equipment": [
+      "Medium Pan",
+      "Medium Pot"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Prepare your vegetables by cutting them up for later use.",
+        "name": "Prep Vegetables",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Boil water and soak the rice noodles according to package instructions.",
+        "name": "Soak Noodles",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a frying pan, cook the diced chicken thighs over high heat until nicely browned and cooked through.",
+        "name": "Cook Chicken",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Add the chili caramel glaze to the cooked chicken and stir to coat evenly.",
+        "name": "Glaze Chicken",
+        "url": 4
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Plate the rice noodles and top with the chili caramel chicken. Add the prepared vegetables and garnish with coriander. Add some more glaze as desired and enjoy!",
+        "name": "Assemble Salad",
+        "url": 5
+      }
+    ],
+    "notes": [
+      "This salad is a great way to use leftover cooked chicken.",
+      "Feel free to customize the vegetables based on your preferences or what you have on hand."
+    ]
+  }

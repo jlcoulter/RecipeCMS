@@ -1,0 +1,107 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "tibs",
+  "name": "Tibs",
+  "image": [
+    "tibs_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "keywords": "Tibs, Ethiopian recipe, African cuisine, beef stew, spicy beef, berbere spice, niter kibbeh, slow-cooked beef, main course, dinner, comfort food, traditional Ethiopian food, beef chuck recipe, stewed beef, spicy stew, one-pan meal, simmered beef, garlic ginger beef, Ethiopian beef tibs, authentic tibs recipe, what is tibs",
+  "datePublished": "2025-08-05",
+  "lastMod": "2025-08-05",
+  "description": "A rich and aromatic Ethiopian beef stew, Tibs features tender chunks of beef simmered in a flavourful sauce of berbere spice, niter kibbeh (spiced clarified butter), tomatoes, onion, garlic, and ginger. This traditional main course is known for its deep, spicy flavours and is often served with fresh chilies.",
+  "prepTime": "PT10M",
+  "cookTime": "PT3H",
+  "totalTime": "PT3H10M",
+  "recipeYield": "5 Servings",
+  "recipeCuisine": [
+      "Ethiopian",
+      "African"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Stew",
+      "Dinner"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "500-700 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "1kg Beef Chuck",
+    "3 tbsp Berbere",
+    "2 tbsp Niter Kibbeh",
+    "1 large Brown Onion",
+    "1 tbsp Garlic Paste",
+    "1 tbsp Ginger Paste",
+    "400g tinned Diced Tomatoes",
+    "250ml Beef Stock",
+    "2 Fresh Tomatoes",
+    "4 Green Chilis"
+  ],
+  "ingredientKeywords": [
+    "Beef Chuck",
+    "Beef",
+    "Berbere",
+    "Niter Kibbeh",
+    "Brown Onion",
+    "Onion",
+    "Garlic",
+    "Garlic Paste",
+    "Ginger",
+    "Ginger Paste",
+    "Tomato",
+    "Tinned Tomato",
+    "Fresh Tomato",
+    "Beef Stock",
+    "Green Chili",
+    "Chili",
+    "Jalapeno"
+  ],
+  "equipment": [
+    "Large Pan"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Dice beef into small chunks and seer them in a large pan in a bit of neutral oil. Remove from pan.",
+      "name": "Seer beef",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Dice the onion. Add the niter kibbeh to the pan and fry the onion until soft. Add the berbere, garlic and giner and saute for about 2 minutes.",
+      "name": "Cook onion",
+      "url": 2
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add tinned tomato, beef stock and beef to the pan. Cover and simmer until beef is tender. This will take about 3-4h depending on how tender you like your beef.",
+      "name": "Simmer",
+      "url": 3
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Towards the end of the simmering, let it steam off a bit to reduce. Season to taste with salt, pepper and more berbere as desired.",
+      "name": "Reduce",
+      "url": 4
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Before serving, dice your chilis and tomatoes and then mix them through.",
+      "name": "Serve",
+      "url": 5
+    }
+  ],
+  "notes": [
+    "I love this curry with fresh garlic and ginger rather than paste. It brings fantastic extra flavours.",
+    "Can substitute niter kibbeh with ghee but then I'd add some extra spice.",
+    "Great with some cardamoms and cloves added in when simmering. Adds some fabulous extra flavours.",
+    "Supposed to be serve with injera but I love it with rice.",
+    "Goes great served with fresh lemon, greek yoghurt and coriander."
+  ]
+}

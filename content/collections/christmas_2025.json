@@ -1,0 +1,46 @@
+{
+    "name": "Christmas 2025",
+    "datePublished": "2025-12-31",
+    "lastMod": "2025-12-31",
+    "folder": "christmas_2025",
+    "description": "For this Christmas we had Ethipian curries and wings which was great! We still had staples like the ham, kiwi dip and pavlova. We also tried some new things, like the new jerky flavors and the lavosh. Altogether a great collection of random bits and pieces to munch on over a few days.",
+    "image": "honey_mustard_glazed_ham",
+    "recipes": [
+        {
+            "folder": "honey_mustard_glazed_ham",
+            "description": "The Christmas staple, likely to show in every Christmas recipe list I make. The best bits being the glazed fat... Hot out the oven I could just sit there and nibble for hours."
+        },
+        {
+            "folder": "lavosh",
+            "description": "We always have crackers and cheese but in the last few years when visiting aunts/uncles they had a great lavosh recipe, this is it. So now instead of having to buy crackers, we can make them!"
+        },
+        {
+            "folder": "kiwi_dip",
+            "description": "Another certified Christmas staple. Although it often comes out when the family gathers regardless of occasion."
+        },
+        {
+            "folder": "doro_wat",
+            "description": "The first of 2 Ethiopian curries we had for Christmas. A wonderful almost sweet from the onions chicken curry that goes great with flatbread. Likely to become a staple at home."
+        },
+        {
+            "folder": "tibs",
+            "description": "The second of the 2 Ethiopian curries and another great one. Less sweet and more flavor from the tomatoes but still great."
+        },
+        {
+            "folder": "gochujang_beef_jerky",
+            "description": "The first of the jerky flavors I experimented with this Christmas and immediately smashed it. The jerky didn't last very long."
+        },
+        {
+            "folder": "honey_mustard_beef_jerky",
+            "description": "The second jerky flavor, this one needed a bit of revision before I decided to write it down."
+        },
+        {
+            "folder": "spicy_chicken_wings",
+            "description": "Really we didn't have these wings, we had ones with berbere and ghee to fit the Ethiopian theme. They went pretty well but needed some revision mostly since when mixing everything together, the ghee solidified and took the spices with it. Still delicious but if we did it again we might add the spice with oil and then add ghee after cooking to toss the wings in."
+        },
+        {
+            "folder": "pavlova",
+            "description": "Like the ham, we have this dessert almost every year. A fluffy delight that is so easy to overconsume."
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "pancetta_pesto_pasta",
+  "name": "Pancetta Pesto Pasta",
+  "image": [
+    "pancetta_pesto_pasta_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "keywords": "Pancetta, Pesto, Pasta, Italian, Main Course, Quick, Easy, Savory, Tomato, Garlic, Chili, Smoked Paprika, Chicken Stock, Parmesan, Bacon, Weeknight Dinner, Comfort Food, Simple Recipe, Hearty, Flavorful, Creamy (if sauce is creamy), Spicy, Herbaceous, Classic, Family Meal, Dinner Idea, European Cuisine, Rich, Umami, Basil (if added), One-pan (if applicable)",
+  "datePublished": "2024-09-02",
+  "lastMod": "2024-09-24",
+  "description": "A quick and flavorful Italian-inspired pasta dish featuring crispy pancetta, diced tomatoes, spicy birdseye chilis, garlic, and chunky pesto, tossed with your favorite pasta and finished with Parmesan.",
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "recipeYield": "2 servings",
+  "recipeCuisine": [
+      "Italian",
+      "Mediterranean",
+      "European"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Pasta",
+      "Quick Meal",
+      "Dinner",
+      "Lunch"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "600-800 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "150g diced Flat Pancetta",
+    "200g diced Tomatoes",
+    "2 Birdseye Chilis",
+    "3 minced Garlic Cloves",
+    "1 tsp Smoked Paprika",
+    "1 tsp Chicken Stock Powder",
+    "2 tbsp Chunky Pesto",
+    "200g of your favourite Pasta",
+    "Parmesan to serve"
+  ],
+  "ingredientKeywords": [
+    "Pancetta",
+    "Flat Pancetta",
+    "Onion",
+    "Garlic",
+    "Smoked Paprika",
+    "Paprika",
+    "Pasta",
+    "Spaghetti",
+    "Linguine",
+    "Fettuccini",
+    "Rigatoni",
+    "Parmesan",
+    "Pesto",
+    "Chunky Pesto",
+    "Birdseye Chili",
+    "Chili",
+    "Tomato",
+    "Chicken Stock Powder",
+    "Chicken Stock"
+  ],
+  "equipment": [
+    "Medium Pot",
+    "Large Pan"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Fry the pancetta until it crisps up and the fat renders out. Start cooking the pasta.",
+      "name": "Crisp Pancetta",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "In the fat, with the pancetta, fry the garlic and chili until crisp.",
+      "name": "Crisp Garlic",
+      "url": 2
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add tomato, pesto, chicken stock powder and paprika. Mix and bring to a simmer and then add your pasta.",
+      "name": "Mix up sauce",
+      "url": 3
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Season with salt and pepper and serve up with parmesan.",
+      "name": "Serve",
+      "url": 4
+    }
+  ],
+  "notes": [
+    "Super easy and tasty, if you want to be cheap you could also use streaky bacon, you still need something with high fat content.",
+    "Great with shredded fresh basil on top as well.",
+    "Flat pancetta is important because it has all the great fat that renders down and can be used for frying."
+  ]
+}

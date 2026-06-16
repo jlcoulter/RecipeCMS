@@ -1,0 +1,9 @@
+{
+    "name": "Notes name",
+    "folder": "notes_name",
+    "description": "Notes title that shows on recipe pages that reference it",
+    "notes": [
+        "Some notes that are shared between multiple recipes 1",
+        "Some notes that are shared between multiple recipes 2"
+    ]
+}

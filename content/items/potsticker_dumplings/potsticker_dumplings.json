@@ -1,0 +1,117 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "potsticker_dumplings",
+  "name": "Potsticker Dumplings",
+  "image": [
+    "potsticker_dumplings_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "2023-02-22",
+  "lastMod": "2023-02-22",
+  "description": "A super simple dumpling recipe that brings the whole family together for dinner. Make sure you have a super non-stick pan or this will NOT work very well.",
+  "keywords": "potstickers, dumplings, pork dumplings, chinese dumplings, pan-fried dumplings, gyoza, asian appetizers, dim sum, party food, finger food, family dinner, homemade dumplings, easy dumplings, dumpling recipe, pork filling, chinese cuisine, asian cooking, weeknight dinner, snack, appetizer, lunch, dinner, how to make dumplings, dumpling wrappers, sesame oil, soy sauce, ginger, garlic",
+  "prepTime": "PT10M",
+  "cookTime": "PT1H20M",
+  "totalTime": "PT1H30M",
+  "recipeYield": "5 Servings",
+  "recipeCuisine": [
+      "Chinese",
+      "Asian",
+      "East Asian"
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Side Dish",
+      "Dim Sum",
+      "Finger Food",
+      "Snack",
+      "Starter"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "400 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "Filling:",
+    "500 g Pork Mince",
+    "2 tbsp Shaoxing Rice Wine",
+    "3 tbsp Soy Sauce",
+    "4 tbsp Sesame Oil",
+    "1 Diced Brown Onion",
+    "1 tbsp Minced Ginger",
+    "1 tsp Minced Garlic",
+    "1 tsp Ground Black Pepper",
+    "½ cup Button Mushrooms Finely Diced",
+    "",
+    "Other:",
+    "60 Dumpling Wrappers",
+    "Peanut Oil",
+    "Water"
+  ],
+  "ingredientKeywords": [
+    "Pork",
+    "Pork Mince",
+    "Shaoxing Rice Wine",
+    "Shaoxing Cooking Wine",
+    "Shaoxing Wine",
+    "Rice Wine",
+    "Chinese Cooking Wine",
+    "Soy Sauce",
+    "Sesame Oil",
+    "Onion",
+    "Brown Onion",
+    "Ginger",
+    "Garlic",
+    "Black Pepper",
+    "Mushroom",
+    "Button Mushroom",
+    "Dumpling Wrapper",
+    "Peanut Oil"
+  ],
+  "equipment": [
+    "Non-Stick Pan"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix all of the filling ingredients into a large bowl. Mix well to ensure everything is evenly distributed throughout the filling.",
+      "name": "Mix filling",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place a slightly heaped teaspoon of filling into a dumpling wrapper (the less filling the easier it is to fold). Slightly wet the edges of the dumpling wrapper. Fold over into a half moon shape and pleat the edges from furthest away towards yourself. There are plenty of videos online demonstrating this but it is also not necessary. My Family likes to make little moneybags and spring roll looking things. As long as theyre sealed well and the filling isn't spilling out then it should be fine.",
+      "name": "Wrap Dumpling",
+      "url": 2
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Repeat the above step until you have about 10-12 dumplings. Make sure you cover folded ones with a damp tea towel so they don't dry out.",
+      "name": "Make 10-12",
+      "url": 3
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat about 1 tbsp of oil in your large non-stick pan over medium heat. Add the dumplings flat side down around the edge of the pan to ensure they cook evenly. Fry them until a golden crust forms on the bottom, normally takes about 2 minutes. Do not let it cook too long or it will ruin them. Add about 150ml of water to the pan and cover. Cook for about 10 minutes or until almost all the water has evaporated. Continue cooking uncovered until the dumplings regain their crispy base. Don't forget, while cooking this batch continue folding more so that there are always dumplings ready for the pan.",
+      "name": "Fry",
+      "url": 4
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Continue wrapping and cooking until they're all done!",
+      "name": "Wrap, Fry, Repeat",
+      "url": 5
+    }
+  ],
+  "notes": [
+    "My family and I like to cook and eat these at the same time rather than preparing a big batch to eat at the table. Its nice this way as we get to all work on making dinner while chatting about our days.",
+    "For filling you can also experiment and add all sorts of things, it's very flexible. We have done these with spring onions, carrots and capsicum before (not all in the same filling).",
+    "The pork mince we use is only 5-10% fat which is why we use so much sesame oil. If you find fattier mince you can use less sesame oil (or more if you're into that).",
+    "Easiest cooked in a non-stick pan. In sticky pans I personally find it impossible to get them off the bottom without ripping them apart (I'm probably just bad).",
+    "Find a vid showing how to fill them! It really helps..."
+  ]
+}

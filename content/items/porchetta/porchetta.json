@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "porchetta",
+    "name": "Porchetta",
+    "image": [
+      "porchetta_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Italian cuisine, pork belly, roasted pork, herbs, spices, fennel seeds, rosemary, sage, orange zest, pine nuts, crispy skin, main course, family meal, special occasion, oven-baked, savory, flavorful, easy recipe, make-ahead, sandwich filling, salad topping",
+    "datePublished": "2025-04-11",
+    "lastMod": "2025-04-11",
+    "description": "Super rich crispy pork belly rolled up with the best of the best herbs/spices/seasoning inside.",
+    "prepTime": "PT20M",
+    "cookTime": "PT3H",
+    "totalTime": "PT3H20M",
+    "recipeYield": "5 Servings",
+    "recipeCuisine": [
+      "Italian",
+      "Mediterranean",
+      "European"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Roast",
+      "Dinner",
+      "Meat",
+      "Sunday Roast"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "600-800 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "2-4kg slab Pork Belly",
+      "Orange Zest",
+      "Sage",
+      "Rosemary",
+      "Fennel Seeds",
+      "Toasted Pine Nuts",
+      "Salt",
+      "Black Pepper",
+      "Chili Flakes",
+      "Fresh Minced Garlic"
+    ],
+    "ingredientKeywords": [
+      "Pork",
+      "Pork Belly",
+      "Orange",
+      "Orange Zest",
+      "Sage",
+      "Rosemary",
+      "Fennel",
+      "Fennel Seed",
+      "Pine Nut",
+      "Toasted Pine Nut",
+      "Black Pepper",
+      "Chili Flake",
+      "Garlic"
+    ],
+    "equipment": [
+      "Oven",
+      "Oven Tray"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 150C. Before seasining, roll it up and cut off any extra skin that would end up being rolled inside.",
+        "name": "Cut excess skin",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Deeply score the meat side of the pork in a diamond pattern and rub generous amounts of seasoning into the meats.",
+        "name": "Season pork",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roll and tie it up as tightly as you can. Pour a jug of boiling water over it (over the sink) to dry out the skin. Score the skin and rub salt into it.",
+        "name": "Roll and prep",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bake in the oven on a wire rack over a tray to catch the drippings, there will be alot. Bake for 2-3h until cooked through. If required, crank the oven to 220C at the end to crisp up the skin.",
+        "name": "Cook",
+        "url": 4
+      }
+    ],
+    "notes": [
+      "Amazing way to have pork belly and incredibly versatile. I love it on a sandwich but it's also great cut up and tossed through a fresh salad."
+    ]
+  }

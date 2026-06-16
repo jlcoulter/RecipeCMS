@@ -1,0 +1,89 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "kasundi",
+    "name": "Kasundi",
+    "image": [
+        "kasundi_0.jpg"
+    ],
+    "author": {
+        "@type": "Person",
+        "name": "F"
+    },
+    "keywords": "Kasundi, Indian condiment, Bengali mustard relish, tomato kasundi, spicy tomato chutney, mustard seed recipe, homemade kasundi, Indian sauce, spicy condiment, tomato relish, cumin, cayenne, turmeric, ginger, garlic, apple cider vinegar, birdseye chili, simmered sauce, easy kasundi recipe, vegetarian, gluten-free, chutney, relish",
+    "datePublished": "2025-04-21",
+    "lastMod": "2025-04-21",
+    "description": "A flavorful Indian condiment, Kasundi, made from simmering tomatoes with mustard seeds, ginger, garlic, chili, and aromatic spices like cumin, turmeric, and cayenne. Creates a spicy, tangy relish perfect as a versatile sauce.",
+    "prepTime": "PT5M",
+    "cookTime": "PT40M",
+    "totalTime": "PT45M",
+    "recipeYield": "2 cups",
+    "recipeCuisine": [
+      "Bengali",
+      "Indian",
+      "South Asian"
+    ],
+    "recipeCategory": [
+      "Condiment",
+      "Relish",
+      "Chutney",
+      "Sauce",
+      "Preserve"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "20-50 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+        "1 tbsp Mustard Seeds",
+        "1 tbsp Ground Cumin",
+        "1 tsp Cayenne",
+        "2 tsp Ground Turmeric",
+        "3 tsp minced Ginger",
+        "5 cloves minced Garlic",
+        "800g diced Tomatoes",
+        "1/2 cup Apple Cider Vinegar",
+        "1/4 cup Sugar",
+        "2 Birdseye Chilis"
+    ],
+    "ingredientKeywords": [
+        "Mustard Seed",
+        "Ground Cumin",
+        "Cumin",
+        "Cayenne",
+        "Ground Turmeric",
+        "Turmeric",
+        "Ginger",
+        "Garlic",
+        "Tomato",
+        "Apple Cider Vinegar",
+        "Vinegar",
+        "Sugar",
+        "Birdseye Chili",
+        "Chili"
+    ],
+    "equipment": [
+      "Blender",
+      "Storage Container"
+    ],
+    "recipeInstructions": [
+        {
+            "@type": "HowToStep",
+            "text": "Put a splash of neutral oil in a saucepan and add the spices, garlic and ginger. Fry slightly but don't let it burn.",
+            "name": "Release spice flavors",
+            "url": 1
+        },
+        {
+            "@type": "HowToStep",
+            "text": "Add the rest to pot and simmer. At this point, you can either blend the mix and continue to simmer down or you can just simmer down and let it be a bit chunky. Simmer down to a nice sauce and season with salt as desired.",
+            "name": "Simmer",
+            "url": 2
+        }
+    ],
+    "notes": [
+        "Amazingly tasty sauce that goes great with sausage rolls, pies, sausages, a bit of bread, on a sandwich, you name it!"
+    ],
+    "relatedRecipes": [
+        "sausage_rolls"
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "goulash",
+    "name": "Goulash",
+    "image": [
+      "goulash_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "datePublished": "2025-02-08",
+    "lastMod": "2025-02-08",
+    "description": "A simple hearty goulash or as my family calls it, brown meat and gravy. BMG for short.",
+    "prepTime": "PT10M",
+    "cookTime": "PT6H",
+    "totalTime": "PT6H10M",
+    "keywords": "Goulash, Hungarian Cuisine, Beef Stew, Slow Cooker Recipe, Comfort Food, Family Meal, Brown Meat and Gravy, BMG, Chuck Steak, Onions, Paprika, Tomato, Thyme, Garlic, Curry Powder",
+    "recipeYield": "5 servings",
+    "recipeCuisine": [
+      "Hungarian",
+      "Central European",
+      "European"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Stew",
+      "Dinner",
+      "Comfort Food",
+      "Slow Cooker"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "760 calories"
+    },
+    "recipeIngredient": [
+      "6 Medium Brown Onions Diced",
+      "4 tbsp Olive Oil",
+      "1.2 kilos Chuck Steak",
+      "400 grams Tomato Diced",
+      "3 tsp Beef Stock Powder",
+      "1½ tbsp Paprika",
+      "1 tsp Curry Powder",
+      "3 tsp Black Pepper Ground",
+      "3 cups Water",
+      "1 tbsp Fresh Thyme Leaves",
+      "2 cloves Garlic Minced"
+    ],
+    "ingredientKeywords": [
+      "Brown Onion",
+      "Onion",
+      "Olive Oil",
+      "Chuck Steak",
+      "Beef",
+      "Chuck Beef",
+      "Garlic",
+      "Tomato",
+      "Thyme",
+      "Fresh Thyme",
+      "Beef Stock",
+      "Paprika",
+      "Curry Powder",
+      "Black Pepper",
+      "Hot Paprika",
+      "Hot Smoked Paprika"
+    ],
+    "equipment": [
+      "Large Pot"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "name": "Prep onions and beef",
+        "text": "Fry the onions with all of the oil in the large pot. While the onions soften up quickly brown your beef in a large pan.",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Slow cook",
+        "text": "Once the beef is browned, add everything to the large pot and simmer very slowly on a low heat for about 6 hours. Remember to check back to ensure the mixture is not drying out and sticking to the pot. If required add more water.",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Serve and enjoy!",
+        "text": "Once the beef starts to fall apart, season with salt to your liking and then it's ready to eat!",
+        "url": 3
+      }
+    ],
+    "notes": [
+      "We normally serve this with rice, peas, carrot or potato. Sometimes a mixture of them.",
+      "If adding carrot or potato, add them 30-40 minutes before you’re ready to serve to allow them to cook through. If you like your potatoes mushy and full of flavour like I do add them about 1-1.5 hours before you’re ready to serve.",
+      "If adding peas (my personal favourite way to have it) simply put them into the mixture and bring it back to a slow boil to cook the peas and then it is ready to serve!",
+      "Best to use smoked paprika. I like mine smoked and hot, I often add whole chillies to mine as well."
+    ]
+  }

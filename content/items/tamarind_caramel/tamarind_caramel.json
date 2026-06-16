@@ -1,0 +1,78 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "tamarind_caramel",
+    "name": "Tamarind Caramel",
+    "image": [
+      "tamarind_caramel_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Tamarind Caramel, homemade caramel sauce, tangy caramel, sweet and sour sauce, tamarind paste recipe, easy condiment, dessert topping, unique caramel flavor, citrus caramel, simple sauce recipe, homemade glaze, ice cream topping, fusion cuisine, Asian inspired dessert, quick caramel, no-bake recipe, butter caramel, cream caramel, tamarind dessert, flavorful condiment",
+    "datePublished": "2025-06-22",
+    "lastMod": "2025-06-22",
+    "description": "A unique twist on classic caramel, this recipe introduces the tangy, citrusy flavor of tamarind for a delightful sweet and sour condiment. It's incredibly simple to make and versatile enough to elevate desserts, accompany savory dishes, or be enjoyed as a unique topping.",
+    "prepTime": "PT0M",
+    "cookTime": "PT15M",
+    "totalTime": "PT15M",
+    "recipeYield": "3/4 Cup",
+    "recipeCuisine": [
+      "Fusion",
+      "Asian Inspired"
+    ],
+    "recipeCategory": [
+      "Condiment",
+      "Sauce",
+      "Dessert Topping",
+      "Glaze",
+      "Dip"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "140-160 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "1/2 cup White Sugar",
+      "40g Unsalted Butter",
+      "4 tbsp Cream",
+      "1 tsp Tamarind Paste"
+    ],
+    "ingredientKeywords": [
+      "White Sugar",
+      "Sugar",
+      "Butter",
+      "Unsalted Butter",
+      "Cream",
+      "Tamarind Paste",
+      "Tamarind"
+    ],
+    "equipment": [
+      "Small Saucepan"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Heat sugar in a small saucepan over low heat. Whisk frequently. Eventually it will start to clump and then melt.",
+        "name": "Heat sugar",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Once sugar is fully melted take it off the heat and whisk in the butter. This should sizzle and thats fine.",
+        "name": "Add butter",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Now add cream and tamarind. Whisk through until combined fully. Cool and enjoy!",
+        "name": "Add cream and tamarind",
+        "url": 3
+      }
+    ],
+    "notes": [
+      "Add a little more tamarind for a stronger citrusy flavor.",
+      "In small amounts, can work great with braised beef or steaks with some other condiments, like chimichurri."
+    ]
+  }

@@ -1,0 +1,144 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "apple_crumble_muffins",
+  "name": "Apple Crumble Muffins",
+  "image": [
+    "apple_crumble_muffins_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "2026-02-16",
+  "lastMod": "2026-02-16",
+  "description": "Decadent jumbo apple crumble muffins featuring a moist, cinnamon-spiced base packed with chunks of Granny Smith apples. Topped with a generous buttery oat streusel, these muffins are perfect for a comforting breakfast or dessert.",
+  "keywords": "Apple Crumble Muffins, Apple Cinnamon Muffins, Granny Smith Apples, Oat Crumble Topping, Streusel Topping, Jumbo Muffins, Breakfast Pastry, Sweet Snack, Dessert Muffins, Baking with Apples, Sour Cream Muffins, Moist Muffins, Cinnamon Spice, Fall Recipes, Autumn Baking, Vegetarian Recipe, Homemade Muffins, Fruit Muffins, Easy Baking, Comfort Food, American Cuisine, Baked Goods",
+  "prepTime": "PT20M",
+  "cookTime": "PT30M",
+  "totalTime": "PT50M",
+  "recipeYield": "6 Servings",
+  "recipeCategory": [
+    "Snack",
+    "Breakfast",
+    "Dessert",
+    "Baked Goods"
+  ],
+  "recipeCuisine": [
+    "American",
+    "Western"
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "600-650 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "Muffin Base:",
+    "1 1/2 cups All-Purpose Flour",
+    "1 1/2 tsp Baking Powder",
+    "1/8 tsp Baking Soda",
+    "120g Salted Butter, melted",
+    "1/2 cup White Sugar",
+    "1 Egg",
+    "1/4 cup Sour Cream",
+    "1/2 cup Milk",
+    "1 tsp Vanilla Extract",
+    "1/2 tsp Cinnamon Powder",
+    "",
+    "Apples:",
+    "400g Granny Smith Apples",
+    "1 tbsp Lemon Juice",
+    "1/2 tsp Cinnamon Powder",
+    "3 tbsp White Sugar",
+    "",
+    "Crumble:",
+    "1/2 cup Rolled Oats",
+    "1/2 cup All-Purpose Flour",
+    "1/2 cup Brown Sugar (loose)",
+    "1/2 tsp Cinnamon Powder",
+    "70g Salted Butter, melted"
+  ],
+  "ingredientKeywords": [
+    "All-Purpose Flour",
+    "Plain Flour",
+    "AP Flour",
+    "Flour",
+    "All Purpose Flour",
+    "Baking Soda",
+    "Butter",
+    "Salted Butter",
+    "Sugar",
+    "White Sugar",
+    "Egg",
+    "Sour Cream",
+    "Milk",
+    "Vanilla Extract",
+    "Vanilla",
+    "Cinnamon Powder",
+    "Cinnamon",
+    "Granny Smith Apple",
+    "Apple",
+    "Lemon",
+    "Lemon Juice",
+    "Rolled Oat",
+    "Oat",
+    "Brown Sugar"
+  ],
+  "equipment": [
+    "Jumbo Muffin Tray",
+    "Baking Paper",
+    "Large Bowl",
+    "Medium Bowl",
+    "Small Bowl"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Prep Apples",
+      "url": 1,
+      "text": "Preheat oven to 180C. Prep the apples by skinning them, cutting out the core and then cutting them into chunks. Mix all apple ingredients together in a medium bowl and set aside."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Prep Crumble",
+      "url": 2,
+      "text": "In a small bowl, mix all the crumble ingredients until crumbly. Make sure you don't have large clumps."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Mix Dry Ingredients",
+      "url": 3,
+      "text": "In a large bowl, whisk together the flour, baking soda, baking powder and cinnamon powder from the muffin base ingredients."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Mix Wet Ingredients",
+      "url": 4,
+      "text": "In a medium bowl, whisk together the butter, sugar and eggs from the muffin base ingredients until combined well. Add the rest of the wet muffin base ingredients and whisk until fully combined."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Prep Muffin Mix",
+      "url": 5,
+      "text": "In the large bowl with the dry ingredients for the muffin base, add the wet ingredients, and fold together. You don't want to mix them too well. Add the apples and fold them in."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Prep Tray",
+      "url": 6,
+      "text": "Line a 6 tray muffin tin with baking paper allowing room for the muffins to expand (they will, a lot). Split the muffin mix equally and top with the crumble mixture. Ensure the crumble mix isn't clumping and nicely covers the muffin mix."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Bake",
+      "url": 7,
+      "text": "Bake for around 30 minutes. When ready they should have expanded, skewer comes out clean and the crumble is set nicely. Allow to cool a bit at room temp before serving. Great while still warm."
+    }
+  ],
+  "notes": [
+    "You can increase the amount of wet ingredients slightly if you want a denser muffin.",
+    "Don't worry if the mix seems quite gloppy, it'll work out!",
+    "Great served warm with vanilla ice-cream!",
+    "You can split the mix across smaller muffin trays if you don't like such large muffins. You will just want to bake for less time. I haven't tested but I imagine around 20-25 minutes."
+  ]
+}

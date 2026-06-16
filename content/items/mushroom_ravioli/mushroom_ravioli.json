@@ -1,0 +1,152 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "mushroom_ravioli",
+    "name": "Mushroom Ravioli",
+    "image": [
+        "mushroom_ravioli_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Dinner, Creamy, Mushroom, Ravioli, Italian, Homemade pasta, Wild mushrooms, Onion, Garlic, Thyme, Parmesan cheese, Prosciutto, White wine, Chicken stock, Cream sauce, Fresh pasta, Handmade, Flavorful, Elegant, Pasta, Homemade, Stuffed Pasta, Comfort Food, Date Night, Vegetarian,  One-Pan",
+    "datePublished": "2023-04-13",
+    "lastMod": "2023-04-13",  
+    "description": "Creamy flavorful mushroom ravioli that destroys any store-bought stuff you get. Bit of effort but worth it.",
+    "prepTime": "PT30M",  
+    "cookTime": "PT1H20M",
+    "totalTime": "PT1H50M",
+    "recipeYield": "3 Servings",
+    "recipeCuisine": [
+      "Italian",
+      "European"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Pasta",
+      "Vegetarian",
+      "Stuffed Pasta"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "Approximately 600 calories per serving" 
+    },
+    "recipeIngredient": [
+      "Pasta Dough:",
+      "2 Eggs",
+      "1 Egg Yolk",
+      "1 ⅔ cups All Purpose Flour extra fine",
+      "Pinch of Salt",
+      "",
+      "Filling:",
+      "¼ kilo Assorted Wild Mushrooms, finely diced",
+      "¼ cup Onion, finely diced",
+      "2 cloves Garlic, minced",
+      "50 g Butter",
+      "1 tbsp Thyme Leaves",
+      "½ cup Parmesan Cheese",
+      "",
+      "Sauce:",
+      "100 g Prosciutto, diced",
+      "¼ kilo Assorted Wild Mushrooms, chopped",
+      "50 g Butter",
+      "⅓ cup White Wine",
+      "⅓ cup Chicken Stock",
+      "⅓ cup Cream",
+      "1 tbsp Thyme Leaves",
+      "1 tsp Flour"
+    ],
+    "ingredientKeywords": [
+      "Egg",
+      "Flour",
+      "Wild Mushroom",
+      "Mushroom",
+      "Onion",
+      "Garlic",
+      "Butter",
+      "Thyme",
+      "Fresh Thyme",
+      "Parmesan Cheese",
+      "Prosciutto",
+      "White Wine",
+      "Chicken Stock",
+      "Cream"
+    ],
+    "equipment": [
+      "Pasta Roller",
+      "Large Pan",
+      "Medium Pot"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place flour on a table in a mound and form a well in the middle. Lightly beat eggs and salt and place in the well of the flour. Gradually mix by pulling in the flour until it forms a shaggy ball of dough. It might require 1-2 tbsp water to bring it together.",
+        "name": "Make Dough",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Knead the dough for about 10-15 minutes, ensuring it's elastic and smooth. Wrap in plastic wrap and chill in the fridge for an hour. During this time, prep the filling and sauce so that it's ready for when you put the ravioli together.",
+        "name": "Knead and Rest Dough",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry the mushrooms, onion, garlic, thyme, and butter together from the filling ingredients in a pan for about 5-10 minutes over high heat. If it dries out, add a bit more butter so that it continues to fry nicely.",
+        "name": "Fry Filling Ingredients",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Transfer to a bowl and mix the Parmesan through.",
+        "name": "Finish Filling",
+        "url": 4
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry the prosciutto until nice and crispy. Put aside for later.",
+        "name": "Fry Prosciutto",
+        "url": 5
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry the mushrooms in the butter for about 5 minutes. Add the wine, cream, stock, and flour and boil down to a nice consistency.",
+        "name": "Make Sauce Base",
+        "url": 6
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the prosciutto through and set aside the pan for mixing the ravioli through.",
+        "name": "Finish Sauce",
+        "url": 7
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roll out the pasta dough using your pasta roller. Start at the thickest setting and gradually make your way down to a thin sheet of pasta that you can see the outline of your hand through. Ensure you flour the dough during this process so that it rolls easily and stays smooth.",
+        "name": "Roll Pasta Dough",
+        "url": 8
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Cut the dough into evenly spaced squares. Place filling in the middle of half the squares and place the other half on top. Press down the sides firmly and squeeze out the air. Ensure the seal is tight.",
+        "name": "Fill Ravioli",
+        "url": 9
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring a large pot of water to a boil. Cook the ravioli for about 3-4 minutes in batches to ensure it doesn't stick together. Mix it through the sauce.",
+        "name": "Cook and Combine",
+        "url": 10
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve with some sauce mix and sprinkle some Parmesan on top.",
+        "name": "Serve",
+        "url": 11
+      }
+    ],
+    "notes": [
+        "Also great with roasted pine nuts mixed through the sauce. You can also substitute bacon for the prosciutto but ensure it's sliced thinly; you don't really want it to be too chunky."
+    ]
+  }

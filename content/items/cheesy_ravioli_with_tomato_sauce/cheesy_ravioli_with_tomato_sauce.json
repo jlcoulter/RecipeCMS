@@ -1,0 +1,128 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "cheesy_ravioli_with_tomato_sauce",
+    "name": "Cheesy Ravioli with Tomato Sauce",
+    "image": [
+      "cheesy_ravioli_with_tomato_sauce_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Cheesy Ravioli with Tomato Sauce, Tomato, Dinner, Ravioli, Cheese, Pasta, Prosciutto, Ricotta Cheese, Blue Cheese, Parmesan Cheese, Basil, Homemade Pasta, Stuffed Pasta, Italian, Comfort Food, Date Night, One-Pan",
+    "datePublished": "2024-04-13",
+    "lastMod": "2024-04-13",
+    "description": "Delicious cheese-filled ravioli served with a light tomato sauce. A comforting pasta dish.",
+    "prepTime": "PT1H",
+    "cookTime": "PT20M",
+    "totalTime": "PT1H20M",
+    "recipeYield": "3 Servings",
+    "recipeCuisine": [
+      "Italian",
+      "European",
+      "Mediterranean"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Pasta",
+      "Dinner"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "650 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "Pasta Dough:",
+      "2 Eggs",
+      "1 Egg Yolk",
+      "1 ⅔ cups All Purpose Flour, extra fine",
+      "Pinch of Salt",
+      "",
+      "Filling:",
+      "1 tbsp Butter",
+      "1 cup whole-milk Ricotta Cheese, well drained, squeezed dry in towel",
+      "½ cup crumbled Blue Cheese (about 2 ounces)",
+      "2 tbsp freshly grated Parmesan Cheese",
+      "¼ tsp Salt",
+      "¼ tsp Pepper",
+      "1 Egg",
+      "",
+      "Sauce:",
+      "100 g Prosciutto, diced",
+      "600 g Tomato",
+      "½ Onion",
+      "2 Garlic cloves, crushed",
+      "2 tsp Thyme",
+      "Salt and Pepper to taste",
+      "A handful of Fresh Basil"
+    ],
+    "ingredientKeywords": [
+      "Egg",
+      "Egg Yolk",
+      "All Purpose Flour",
+      "Plain Flour",
+      "Flour",
+      "Butter",
+      "Ricotta Cheese",
+      "Blue Cheese",
+      "Parmesan Cheese",
+      "Cheese",
+      "Pepper",
+      "Prosciutto",
+      "Tomato",
+      "Onion",
+      "Garlic",
+      "Thyme",
+      "Fresh Thyme",
+      "Basil",
+      "Fresh Basil"
+    ],
+    "equipment": [
+      "Pasta Roller",
+      "Large Pan",
+      "Medium Pot"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Place flour on a table and form a well in the middle. Beat eggs and salt, then place in the well. Gradually mix the flour into the eggs until it forms a shaggy ball of dough. Knead the dough for 10-15 minutes until elastic and smooth. Wrap in plastic wrap and chill in the fridge for an hour.",
+        "name": "Prepare Dough",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "In a bowl, mix all of the filling ingredients together.",
+        "name": "Prepare Filling",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Fry the prosciutto until crispy. Set aside. In the same pan, fry the onions until soft, then add the tomatoes, garlic, thyme, salt, and pepper. Simmer until the sauce thickens. Add water if needed. Stir in the crispy prosciutto and basil.",
+        "name": "Prepare Sauce",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Roll out the pasta dough using a pasta roller. Cut into evenly spaced squares. Place filling in the middle of half the squares and cover with the other half. Press down the sides firmly to seal.",
+        "name": "Assemble Ravioli",
+        "url": 4
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Bring a large pot of water to a boil. Cook the ravioli in batches for 3-4 minutes or until al dente. Drain and mix with the tomato sauce.",
+        "name": "Cook Ravioli",
+        "url": 5
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Plate the ravioli with some sauce and sprinkle with grated Parmesan cheese and basil leaves.",
+        "name": "Serve",
+        "url": 6
+      }
+    ],
+    "notes": [
+      "For a richer flavor, try using a mix of different cheeses in the filling.",
+      "This dish can be made ahead of time and baked in the oven when ready to serve."
+    ]
+  }

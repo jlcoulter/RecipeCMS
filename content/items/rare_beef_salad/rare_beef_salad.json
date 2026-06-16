@@ -1,0 +1,118 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "rare_beef_salad",
+  "name": "Rare Beef Salad",
+  "image": [
+      "rare_beef_salad_0.jpg"
+  ],
+  "author": {
+      "@type": "Person",
+      "name": "F"
+  },
+  "keywords": "Rare Beef Salad, Thai Beef Salad, Asian Beef Salad, Steak Salad, Porterhouse Salad, Spicy Beef Salad, Lime Dressing, Fish Sauce Dressing, Fresh Salad, Healthy Salad, Dinner Recipe, Quick Dinner, Main Course Salad, Summer Salad, Protein-Rich Salad, Gluten-Free Option, Low Carb Option, Chili Garlic Dressing, Coriander Salad, Peanut Topping",
+  "datePublished": "2025-06-15",
+  "lastMod": "2025-06-20",
+  "description": "A vibrant and flavorful Rare Beef Salad, featuring perfectly seared porterhouse steak thinly sliced and served over a bed of fresh lettuce, cherry tomatoes, red onion, cucumber, fresh coriander, and creamy avocado. It's all brought together with a zesty Thai-inspired dressing made with chili, garlic, fish sauce, and lime juice, and finished with a sprinkle of crushed peanuts.",
+  "prepTime": "PT15M",
+  "cookTime": "PT5M",
+  "totalTime": "PT20M",
+  "recipeYield": "2 Servings",
+  "recipeCuisine": [
+      "Thai",
+      "Southeast Asian",
+      "Asian"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Salad",
+      "Light Meal",
+      "Summer Food",
+      "Low Carb",
+      "Healthy Dinner"
+    ],
+  "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "450-600 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "Dressing:",
+    "1 Minced Birdseye Chili",
+    "2 Minced Garlic Cloves",
+    "2 tsp finely chopped Coriander Stems",
+    "2 tsp White Sugar",
+    "2 tbsp Fish Sauce",
+    "3 tbsp Lime Juice",
+    "2 tsp Vegetable Oil",
+    "",
+    "Salad:",
+    "400g Porterhouse Steak",
+    "Lettuce",
+    "Cherry Tomatoes",
+    "Small Red Onion",
+    "Cucumber",
+    "Fresh Coriander",
+    "Avocado",
+    "Crushed Peanuts"
+  ],
+  "ingredientKeywords": [
+      "Birdseye Chili",
+      "Chili",
+      "Garlic",
+      "Fresh Coriander",
+      "Coriander",
+      "White Sugar",
+      "Sugar",
+      "Fish Sauce",
+      "Lime Juice",
+      "Vegetable Oil",
+      "Porterhouse Steak",
+      "Steak",
+      "Porterhouse",
+      "Beef",
+      "Lettuce",
+      "Cherry Tomato",
+      "Tomato",
+      "Red Onion",
+      "Onion",
+      "Cucumber",
+      "Avocado",
+      "Crushed Peanut",
+      "Peanut"
+  ],
+  "equipment": [
+    "Heavy Pan"
+  ],
+  "recipeInstructions": [
+      {
+          "@type": "HowToStep",
+          "text": "Thoroughly mix dressing ingredients. Taste for seasoning, add little water if you need to.",
+          "name": "Prep Dressing",
+          "url": 1
+      },
+      {
+          "@type": "HowToStep",
+          "text": "Cut up and mix salad ingredients except for steak. Mix and match ingredients to your liking.",
+          "name": "Prep salad",
+          "url": 2
+      },
+      {
+          "@type": "HowToStep",
+          "text": "Heat a heavy pan until it's pretty bloody hot, season and sear the steak for 2m a side. Take out and let rest.",
+          "name": "Sear steak",
+          "url": 3
+      },
+      {
+          "@type": "HowToStep",
+          "text": "Cut fat off steak and thinly slice steak. Put on salad and dress. Mix up and enjoy!",
+          "name": "Serve",
+          "url": 4
+      }
+  ],
+  "notes": [
+      "Also great with carrot or capsicums mixed through salad. Super flexible.",
+      "Using a heavy pan, like a cast iron, is important for getting a good sear. Without it you'll likely struggle to get a good sear without a powerful stovetop, like a good induction cooktop.",
+      "Dressing is better with fresh lime juice and garlic rather than from a jar/bottle. Also good with a bit of ginger in it and sesame oil instead of veg.",
+      "Originally from RecipeTinEats"
+  ]
+}

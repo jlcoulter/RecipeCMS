@@ -1,0 +1,98 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "mushroom_pancetta_pasta",
+  "name": "Mushroom Pancetta Pasta",
+  "image": [
+    "mushroom_pancetta_pasta_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "keywords": "Mushroom Pancetta Pasta, Italian pasta, savory pasta, weeknight meal, easy pasta, creamy pasta, delicious, simple recipe, comfort food, main course, quick dinner, gourmet, mushroom recipe, pancetta recipe, garlic, onion, white wine sauce, butter sauce, parmesan, lemon, hearty, rich flavor, 20-minute meal, beginner friendly",
+  "datePublished": "2025-05-24",
+  "lastMod": "2025-05-24",
+  "description": "A quick and flavorful Mushroom Pancetta Pasta featuring crispy pancetta, mushrooms, aromatic garlic and onion, all tossed with pasta in a rich white wine and butter sauce. Finished with Parmesan and a squeeze of fresh lemon, this Italian-inspired dish is perfect for a satisfying weeknight meal.",
+  "prepTime": "PT5M",
+  "cookTime": "PT20M",
+  "totalTime": "PT25M",
+  "recipeYield": "2 servings",
+  "recipeCuisine": [
+      "Italian",
+      "European",
+      "Mediterranean"
+    ],
+    "recipeCategory": [
+      "Main Course",
+      "Pasta",
+      "Quick Meal"
+    ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "600-800 calories per serving (estimated)"
+  },
+  "recipeIngredient": [
+    "150g diced Flat Pancetta",
+    "150g diced Button Mushrooms",
+    "Half a Brown Onion, finely minced",
+    "2 minced Garlic Cloves",
+    "100ml Dry White Wine",
+    "1 tsp Smoked Paprika",
+    "50g Salted Butter",
+    "200g of your favourite Pasta",
+    "Parmesan to serve",
+    "Half a Lemon"
+  ],
+  "ingredientKeywords": [
+    "Pancetta",
+    "Flat Pancetta",
+    "Button Mushroom",
+    "Mushroom",
+    "Brown Onion",
+    "Onion",
+    "Garlic",
+    "Dry White Wine",
+    "White Wine",
+    "Wine",
+    "Smoked Paprika",
+    "Paprika",
+    "Salted Butter",
+    "Butter",
+    "Pasta",
+    "Spaghetti",
+    "Linguine",
+    "Fettuccini",
+    "Rigatoni",
+    "Parmesan",
+    "Lemon"
+  ],
+  "equipment": [
+    "Large Pan"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Fry the pancetta until it crisps up and the fat renders out. Start cooking the pasta.",
+      "name": "Crisp Pancetta",
+      "url": 1
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Remove the pancetta but leave fat. In the fat fry the mushrooms, onion and garlic until the onions become translucent and the mushrooms shrink down.",
+      "name": "Fry mushrooms",
+      "url": 2
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add the butter, white wine and paprika. Mix together with the crispy pancetta bits and pasta. Season to taste with salt and pepper. Serve with parmesan and a squeeze of lemon over the top.",
+      "name": "Sauce up and serve",
+      "url": 3
+    }
+  ],
+  "notes": [
+    "If you want more sauce, add more butter, wine, a bit of pasta water and mix through parmesan while it's cooking.",
+    "While waaaay better with pancetta, you can sub in some streaky bacon for a similar and cheaper effect.",
+    "Flat pancetta is important because it has all the great fat that renders down and can be used for frying."
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "folder": "folder_name",
+  "name": "Pretty Name",
+  "image": [
+    "image_name_0.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "F"
+  },
+  "datePublished": "YYYY-MM-DD",
+  "lastMod": "YYYY-MM-DD",
+  "description": "",
+  "keywords": "",
+  "prepTime": "PT",
+  "cookTime": "PT",
+  "marinatingTime": "PT",
+  "totalTime": "PT",
+  "recipeYield": "X Servings",
+  "recipeCategory": "",
+  "recipeCuisine": "",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "X calories per serving (estimated)"
+  },
+  "diet": [
+    ""
+  ],
+  "recipeIngredient": [
+    ""
+  ],
+  "ingredientKeywords": [
+    ""
+  ],
+  "equipment": [
+    ""
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "",
+      "url": 1,
+      "text": ""
+    },
+    {
+      "@type": "HowToStep",
+      "name": "",
+      "url": 2,
+      "text": ""
+    }
+  ],
+  "notes": [
+    ""
+  ],
+  "sharedNotes": [
+    ""
+  ],
+  "relatedRecipes": [
+    ""
+  ]
+}

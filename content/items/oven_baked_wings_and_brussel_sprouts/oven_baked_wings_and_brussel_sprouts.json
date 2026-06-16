@@ -1,0 +1,102 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Recipe",
+    "folder": "oven_baked_wings_and_brussel_sprouts",
+    "name": "Oven Baked Wings and Brussel Sprouts",
+    "image": [
+      "oven_baked_wings_and_brussel_sprouts_0.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "F"
+    },
+    "keywords": "Oven Baked, Wings, Brussel Sprouts, Chicken, Snack, Appetizer, Easy, Spicy, Roast, Chicken Wings, Baked Chicken, Healthy, Side Dish, Vegetables, Party Food, Game Day, Quick, Simple, Weeknight Dinner, Family Friendly",
+    "datePublished": "2025-03-14",
+    "lastMod": "2025-03-14",
+    "description": "Spicy juicy wings with crispy sprouts dripping with spicy chicken juices. Fantastic by itself or with some potatoes baked in too.",
+    "prepTime": "PT10M",
+    "cookTime": "PT1H",
+    "totalTime": "PT1H10M",
+    "recipeYield": "3 Servings",
+    "recipeCuisine": [
+      "American",
+      "Western"
+    ],
+    "recipeCategory": [
+      "Appetizer",
+      "Main Course",
+      "Tray Bake",
+      "Finger Food",
+      "Party Food"
+    ],
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "500 calories per serving (estimated)"
+    },
+    "recipeIngredient": [
+      "Spice mix:",
+      "4 tsp Cumin",
+      "2 tsp Paprika",
+      "2 tsp Cayenne",
+      "2 tsp Garlic Salt",
+      "4 tbsp Olive Oil",
+      "",
+      "Other:",
+      "400g Brussel Sprouts, cut in half",
+      "1 bulb of Garlic, split into cloves",
+      "1 Onion, diced",
+      "1 kilo Chicken Wings"
+    ],
+    "ingredientKeywords": [
+      "Cumin",
+      "Paprika",
+      "Cayenne",
+      "Garlic Salt",
+      "Olive Oil",
+      "Brussel Sprout",
+      "Garlic",
+      "Onion",
+      "Chicken",
+      "Chicken Wing"
+    ],
+    "equipment": [
+      "Oven",
+      "Oven Tray"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Preheat oven to 180C.",
+        "name": "Preheat Oven",
+        "url": 1
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix half of the spice mix ingredients together in a large container with the wings ensuring they are evenly coated in the spice mix.",
+        "name": "Prep chicken",
+        "url": 2
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Mix the rest of the ingredients in a large baking tin ensuring everything is coated in the mix.",
+        "name": "Prep tray",
+        "url": 3
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Place wings on top and bake for 50 minutes.",
+        "name": "Bake",
+        "url": 4
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Serve and enjoy! Can have it by itself or with some potatoes or rice.",
+        "name": "Serve",
+        "url": 5
+      }
+    ],
+    "notes": [
+      "Super simple chicken wings that yield super tasty results. You can also use whole cumin seeds for a stronger flavour, if you do this use 2-3 tsp of whole cumin seeds.",
+      "Great baked with some potatoes. If you do, boil them to within an inch of their lives first."
+    ]
+  }
